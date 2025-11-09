@@ -29,3 +29,5 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [I Comandamenti del GCC](articoli/I-comandamenti-del-GCC.md)
 - [Gli Atti degli Sysadmin](articoli/gli-atti-degli-sysadmin.md)
 - [La Resurrezione dei Server](articoli/la-resurrezione-dei-server.md)
+- [Alleluja](articoli/Alleluja.md)
+- [La Nascita del Web](articoli/nascita-del-Web.md)
