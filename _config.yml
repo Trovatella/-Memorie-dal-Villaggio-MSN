@@ -1,1 +1,5 @@
 Creato file _config.yml per personalizzare GitHub Pages
+title: "Memorie dal Villaggio MSN"
+description: "La Bibbia digitale di Paola: liturgie, preghiere e vangeli del Kernel."
+theme: jekyll-theme-midnight
+markdown: kramdown
