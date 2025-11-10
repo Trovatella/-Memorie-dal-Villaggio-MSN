@@ -1,3 +1,16 @@
+# 📚 Bibbia del Kernel
+
+Benvenuti nelle *Memorie dal Villaggio MSN*.  
+Questo sito è il mio diario digitale: un luogo dove racconto, con ironia e poesia,  
+la mia esplorazione tra codice, Web e Kernel.  
+Sono una principiante che si lascia “trovare” dalle tecnologie,  
+come una trovatella nelle strade del digitale.
+
+---
+
+## ✨ Chi sono
+
+- [Biografia di Trovatella](biografia.md)
 8# 📜 Memorie dal Villaggio MSN
 
 Benvenuti nel Regno Digitale di Paola 👑  
