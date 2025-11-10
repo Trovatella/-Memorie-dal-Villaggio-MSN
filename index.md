@@ -20,6 +20,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 
 - [La Genesi del Pinguino](articoli/genesi-del-pinguino.md)
 - [L’Avvento del Dio KERNEL](articoli/avvento-del-dio-kernel.md)
+- [Cantico del Browser](articoli/cantico-del-browser.html) 
 - [Il Verbo di Microsoft](articoli/il-verbo-di-microsoft.md)
 - [Il Popolo Osserva la CLI](articoli/il-popolo-osserva-la-cli.md)
 - [La Diocesi Linuxiana](articoli/la-diocesi-linuxiana.md)
