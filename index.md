@@ -29,4 +29,4 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [I Comandamenti del GCC](articoli/I-comandamenti-del-GCC.md)
 - [Gli Atti degli Sysadmin](articoli/gli-atti-degli-sysadmin.md)
 - [Alleluja](articoli/Alleluja.md)
-- [La Nascita del Web](articoli/la-nascita-del-Web.md)
+- [Nascita del Web](articoli/la-nascita-del-Web.md)
