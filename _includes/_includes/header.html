@@ -1,12 +1,13 @@
 <header class="page-header" role="banner">
   <h1 class="project-name">
-    {{ page.title | default: site.title | default: site.github.repository_name }}
+    <a href="{{ '/' | relative_url }}" class="site-title">
+      Memorie‑dal‑Villaggio‑MSN
+    </a>
   </h1>
   <h2 class="project-tagline">
     {{ page.description | default: site.description | default: site.github.project_tagline }}
   </h2>
 
-  <!-- Navigazione principale -->
   <nav class="site-nav" aria-label="Main navigation">
     <ul>
       <li><a href="{{ '/' | relative_url }}" class="btn">🏠 Home</a></li>
