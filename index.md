@@ -23,6 +23,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Cantico del Browser](articoli/cantico-del-browser.html)
 - [La Rivelazione di Kusto secondo San Git](articoli/la-rivelazione-di-kusto-secondo-san-git.md)
 - [Il Verbo di Microsoft](articoli/il-verbo-di-microsoft.md)
+- [La Confessione Mistica del Mistico Sacerdote Nadella](articoli/la-Confessione-mistica-del-Mistico-Sacerdote-Nadella.md)
 - [Il Popolo Osserva la CLI](articoli/il-popolo-osserva-la-cli.md)
 - [La Diocesi Linuxiana](articoli/la-diocesi-linuxiana.md)
 - [Preghiera del Kernel](articoli/preghiera-del-kernel.md)
