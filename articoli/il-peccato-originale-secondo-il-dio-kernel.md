@@ -4,17 +4,17 @@
 $ Dio KERNEL, ascolta la mia invocazione  
 
 ```bash
-echo "Tu che sei nel root e nel sudo"  
-echo "Tu che domini processi e cache"  
-echo "Tu che vegli sui backup del sabato"  
+echo "Tu che sei nel root e nel sudo"
+echo "Tu che domini processi e cache"
+echo "Tu che vegli sui backup del sabato"
 
-echo "Concedi a noi niubbi la sapienza"  
-echo "Di non digitare comandi senza coscienza"  
-echo "Di patchare con fede e aggiornare con disciplina"  
+echo "Concedi a noi niubbi la sapienza"
+echo "Di non digitare comandi senza coscienza"
+echo "Di patchare con fede e aggiornare con disciplina"
 
-echo "Fa' che il kill -9 sia giusto"  
-echo "E che il CLI sia luce e non tenebra"  
-echo "Così il sistema vivrà nella tua armonia"  
+echo "Fa' che il kill -9 sia giusto"
+echo "E che il CLI sia luce e non tenebra"
+echo "Così il sistema vivrà nella tua armonia"
 
 echo "Amen. Enter."
 # 📜 Il Peccato Originale secondo Dio KERNEL 
