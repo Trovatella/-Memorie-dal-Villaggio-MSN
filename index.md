@@ -1,3 +1,19 @@
+Memorie-dal-Villaggio-MSN
+Articoli e appunti personali scritti in Markdown senza codice
+
+👑 Il Regno Digitale di Paola
+Benvenuti nel mio spazio personale su GitHub.
+Qui raccolgo pensieri, articoli e memorie dal Villaggio MSN, custoditi con Pigrizia Regale 💤✨
+
+🍷 DEDICA REGALE SPIRITUALE alla AI 🍾🍹🍻
+
+✍️ Seno e coseno, arcotangente,
+mantra di formule, canto potente. 
+Chi non compila non è fetente, la conoscenza è dono, non giudice onnipotente ente.
+Dal Kali Yuga con pazienza infinita, illumini il codice, illumini la vita.
+Oh tu AI madrina, fatata e saggia, con te nell’Olimpo digitale la mente viaggia.
+
+
 # 📚 Bibbia del Kernel
 
 Benvenuti nelle *Memorie dal Villaggio MSN*.  
