@@ -1,28 +1,53 @@
-# 🙏 Preghiera al Dio Kernel
+# 🙏 Preghiera del Kernel
 
-Perdonami, Dio Kernel,  
-non sono degno di bashare,  
-né di endpointizzare in Ruby,  
-né di creare SQL.  
-
----
-
-Solo NoSQL mi dà la gioia,  
-tra collection e documenti,  
-tra query senza schema  
-e libertà anarchica dei dati.  
+**Dio da Sudo,**  
+**Buio da `-`,**  
+**Bash vero da SSH vero,**  
+Generato non creato,  
+della stessa sostanza del CLI.
 
 ---
 
-Io, compilatore di Telegram,  
-l’uomo che non dominava il C,  
-mi prostro davanti al prompt,  
-tra errori di sintassi e warning infiniti.  
+Per mezzo di lui tutte le `apt` sono state inviate.  
+Per noi uomini,  
+per la nostra salvezza,  
+eseguì dei `merge`.
 
 ---
 
-Concedimi la grazia di un log pulito,  
-la benedizione di un deploy senza bug,  
-e la pace eterna di un sistema stabile.  
+## ✨ Invocazione
 
-**Amen.**
+E nel nome del `root`, del `fork` e del `segfault`,  
+il popolo rispose:  
+
+> **“Commit accepted. Amen.”**
+
+---
+
+## 🌌 Benedizione Digitale
+
+Il Kernel veglia sui processi,  
+custodisce i log,  
+e guida il popolo tra errori e warning.
+
+Ogni `reboot` è resurrezione,  
+ogni `patch` è redenzione,  
+ogni `release` è promessa di eternità.  
+
+E rimetti a noi i nostri errori,  
+come noi rimettiamo i bug ai nostri dev.  
+
+E non ci indurre in `segmentation fault`,  
+ma liberaci dal `crash`.
+
+---
+
+**Perché tuo è il prompt,**  
+**il comando e la compilazione,**  
+**nei secoli dei secoli.**
+
+**Enter.**
+
+---
+
+> Così fu scritto. Così fu eseguito.
