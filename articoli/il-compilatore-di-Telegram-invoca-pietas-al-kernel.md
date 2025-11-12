@@ -1,3 +1,7 @@
+---
+title: "Il compilatore di Telegram invoca pietas al Kernel"
+permalink: /articoli/il-compilatore-di-Telegram-invoca-pietas-al-kernel.html
+---
 # 🙏 Preghiera al Dio Kernel
 
 Perdonami, Dio Kernel,  
