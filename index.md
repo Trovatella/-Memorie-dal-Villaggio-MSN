@@ -56,4 +56,4 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [La Profezia del 404 del Popolo di Babilonia](articoli/profezia-404-popolo-babilonia.md)
 
 ## 🌠 Il Nuovo Testamento di KERNEL 
-- [Il Nuovo Testamento di KERNEL] (articoli/il-nuovo-testamento-di-kernel.md)
+- [Il Nuovo Testamento di KERNEL](articoli/il-nuovo-testamento-di-kernel.md)
