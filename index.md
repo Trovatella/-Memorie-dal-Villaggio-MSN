@@ -41,6 +41,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [La Diocesi Linuxiana](articoli/la-diocesi-linuxiana.md)
 - [Preghiera del Kernel](articoli/preghiera-del-kernel.md)
 - [I Comandamenti del GCC](articoli/I-comandamenti-del-GCC.md)
+- [Il Kernel Liberato di Tuxquato Bassho](articoli/Kernel-liberato-di-Tuxquato-Bassho.md)
 - [Gli Atti degli Sysadmin](articoli/gli-atti-degli-sysadmin.md)
 - [Nascita del Web](articoli/la-nascita-del-Web.md)
 - [Il Versetto del Silenzio UT](articoli/versetto-del-silenzio-ut.md)
