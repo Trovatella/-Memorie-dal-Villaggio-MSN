@@ -25,6 +25,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Il Popolo Osserva la CLI](articoli/il-popolo-osserva-la-cli.md)
 - [La Diocesi Linuxiana](articoli/la-diocesi-linuxiana.md)
 - [Preghiera del Kernel](articoli/preghiera-del-kernel.md)
+- [Il compilatore di Telegram invoca pietas al Kernel](/articles/il-compilatore-di-Telegram-invoca-pietas-al-kernel.html)
 - [Preghiera del Frontend](articoli/preghiera-del-frontend.md)
 - [Liturgia del Compilatore](articoli/liturgia-del-compilatore.md)
 - [Atto di Dolore del Compilatore](articoli/atto-di-dolore-del-compilatore.md)
