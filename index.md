@@ -1,6 +1,4 @@
-# <span style="color:green; font-weight:bold;">
-Memorie dal Villaggio MSN Articoli e appunti personali scritti in Markdown senza codice
-</span>
+# **Memorie dal Villaggio MSN Articoli e appunti personali scritti in Markdown senza codice**
 
 👑 Il Regno Digitale di Paola
 Benvenuti nel mio spazio personale su GitHub.
