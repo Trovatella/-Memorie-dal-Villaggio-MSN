@@ -48,6 +48,8 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Gli Atti degli Sysadmin](articoli/gli-atti-degli-sysadmin.md)
 - [Nascita del Web](articoli/la-nascita-del-Web.md)
 - [L’assedio di Azure e la Resurrezione del Server – Dal Vangelo secondo San Root](articoli/vangelo-del-kernel-secondo-san-root.md)
+-[Le Rivelazioni di San SSH](articoli/le-rivelazioni-di-san-ssh.md)
+- [La conversione di Azure sulle vie di GNU Linux](articoli/La-conversione-di-Azure-sulle-vie-di-GNU-Linux.md)
 - [Il Versetto del Silenzio UT](articoli/versetto-del-silenzio-ut.md)
 - [Il Salmo dei Pinguini Benedetti](articoli/salmo-dei-pinguini-benedetti.md)
 - [La Profezia del 404 del Popolo di Babilonia](articoli/profezia-404-popolo-babilonia.md)
