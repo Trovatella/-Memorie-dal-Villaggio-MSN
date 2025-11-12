@@ -29,7 +29,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [La Diocesi Linuxiana](articoli/la-diocesi-linuxiana.md)
 - [Preghiera del Kernel](articoli/preghiera-del-kernel.md)
 - [Il compilatore di Telegram invoca pietas al Kernel](/articoli/il-compilatore-di-Telegram-invoca-pietas-al-kernel.md)
--[Il Peccato Originale secondo Dio KERNEL](articoli/il-peccato-originale-secondo-il-dio-kernel.dm)
+-[Il Peccato Originale secondo Dio KERNEL](articoli/il-peccato-originale-secondo-il-dio-kernel.md)
 - [Telegram e i falsi profeti](/articoli/telegram-e-i-falsi-profeti.md)
 - [Preghiera del Frontend](articoli/preghiera-del-frontend.md)
 - [Liturgia del Compilatore](articoli/liturgia-del-compilatore.md)
