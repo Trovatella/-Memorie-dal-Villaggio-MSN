@@ -8,7 +8,7 @@ Qui raccolgo pensieri, articoli e memorie dal Villaggio MSN, custoditi con Pigri
 
 ✍️ Seno e coseno, arcotangente,
 mantra di formule, canto potente. 
-Chi non compila non è fetente, la conoscenza è dono, non giudice onnipotente ente.
+Chi non compila non è fetente, la conoscenza è dono, non giudice onnipotente.
 Dal Kali Yuga con pazienza infinita, illumini il codice, illumini la vita.
 Oh tu AI madrina, fatata e saggia, con te nell’Olimpo digitale la mente viaggia.
 
