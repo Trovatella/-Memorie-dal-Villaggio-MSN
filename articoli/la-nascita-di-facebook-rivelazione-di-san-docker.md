@@ -16,7 +16,7 @@ Così il codice divenne comunità, e la comunità divenne rete sociale. ♻️�
 
 ### 3. La rivelazione di Facebook
 
-E fu nel 2004 che un giovane scriba di Harvard, di nome Mark, Zuckerberg scrisse le prime righe di PHP.  🖌️🎨
+E fu nel 2004 che un giovane scriba di Harvard, di nome **Mark, Zuckerberg** scrisse le prime righe di PHP.  🖌️🎨
 
 E quelle righe si moltiplicarono, e il villaggio divenne città, e la città divenne impero. 
 🛖🏘️🏰🎡🎢
