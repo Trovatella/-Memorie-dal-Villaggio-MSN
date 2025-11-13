@@ -32,6 +32,27 @@
     overflow: hidden; clip: rect(0, 0, 0, 0);
     white-space: nowrap; border: 0;
   }
+  /* Estensione per articoli */
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content p,
+.post-content li,
+.post-content blockquote,
+article h1,
+article h2,
+article h3,
+article p,
+article li,
+article blockquote {
+  font-family: 'StyleturnDEMO', serif !important;
+  color: darkred;
+}
+
+.post-content,
+article {
+  font-family: 'StyleturnDEMO', serif !important;
+}
 </style>
 
 <!-- Scegli UNA delle tre righe sotto: -->
