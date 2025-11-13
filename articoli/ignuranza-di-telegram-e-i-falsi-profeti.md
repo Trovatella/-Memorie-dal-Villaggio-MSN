@@ -2,7 +2,7 @@
 layout: default
 title: iGNUranza as iGNUrance di Telegram e i falsi profeti
 ---
-# 📜 Telegram e i falsi profeti
+# 📜 IGNUranza (iGNUrance) di Telegram e i falsi profeti
 
 ## In principio
 Gli uomini di UNIX  
@@ -10,7 +10,13 @@ si erano convertiti a GNU C.
 
 ---
 
-## Cantico dello GNU
+## Giunsero comunità dalle terre Russe
+Costoro volevano piegare
+Lo GNU a loro guisa
+Incauti e incuranti 
+Del giorno del Giudizio 
+
+## Cantico dello GNU storpiato da Telegram 
 
 **Oh Signore Dio KERNEL**  
 Supremo e Onnipotente,  
