@@ -1,4 +1,4 @@
 title: "Memorie dal Villaggio MSN"
 description: "La Bibbia digitale di Paola: liturgie, preghiere e vangeli del Kernel."
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman
 markdown: kramdown
