@@ -63,7 +63,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Preghiera del Kernel](articoli/preghiera-del-kernel.md)
 - [I Comandamenti del GCC](articoli/I-comandamenti-del-GCC.md)
 - [Il Kernel Liberato di Tuxquato Bassho](articoli/Kernel-liberato-di-Tuxquato-Bassho.md)
-- [La Nascita Di Facebook Rivelazione di San Docker](articoli/LaNascitadiFacebookRivelazionediSanDocker.Md) 
+- [La Nascita Di Facebook Rivelazione di San Docker](articoli/la-nascita-di-facebook-rivelazione-di-san-docker.md) 
 - [Gli Atti degli Sysadmin](articoli/gli-atti-degli-sysadmin.md)
 - [Google Le Rivelazioni di San Search](articoli/google-le-rivelazioni-di-san-search.md) 
 - [Nascita del Web](articoli/la-nascita-del-Web.md)
