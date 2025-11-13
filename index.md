@@ -41,7 +41,6 @@
 
 ---
 
-✍️ *Paola Blondet — La Trovatella Digitale*
 
 # **Memorie dal Villaggio MSN Articoli e appunti personali scritti in Markdown senza codice**
 
