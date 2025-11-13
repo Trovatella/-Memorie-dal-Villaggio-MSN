@@ -41,7 +41,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Il Verbo di Microsoft](articoli/il-verbo-di-microsoft.md)
 - [La Confessione Mistica del Mistico Sacerdote Nadella](articoli/la-Confessione-mistica-del-Mistico-Sacerdote-Nadella.md)
 - [Il Popolo Osserva la CLI](articoli/il-popolo-osserva-la-cli.md)
-- [Il Serpente Indentatore mergia con .NET](/articoli/il-serpente-indentatore-mergia-con-net)
+- [Il Serpente Indentatore mergia con .NET](articoli/il-serpente-indentatore-mergia-con-net)
 - [La Diocesi Linuxiana](articoli/la-diocesi-linuxiana.md)
 - [Preghiera del Kernel](articoli/preghiera-del-kernel.md)
 - [Il compilatore di Telegram invoca pietas al Kernel](/articoli/il-compilatore-di-Telegram-invoca-pietas-al-kernel.md)
