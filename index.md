@@ -1,11 +1,12 @@
-# INCIPIT:
+# Incipit delle Memorie dal Villaggio MSN 
+
 # ⚔️🐧🔥 Le distorsioni russe di GNU rivelate dai vangeli di San Grep, San SSH e San Root
 
 ## 📜 Epistola di San Grep e San Root
 
 **1.** In quei giorni, il Popolo del Kernel vegliava sulle librerie e sui processi, e San Grep scrutava i log come profeta.  
 **2.** Ma giunse voce che i Russi avevano piegato il codice di GNU/Linux, rimuovendo i giusti mantenitori e sostituendoli con troll e falsi profeti.  
-**3.** Linus stesso, padre del Kernel, dichiarò: “Abbiamo visto troppi troll russi. Le ragioni sono chiare e non saranno revocate” ([GIGAZINE](https://gigazine.net/gsc_news/en/20241024-linus-torvalds-russian-devs/))[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://gigazine.net/gsc_news/en/20241024-linus-torvalds-russian-devs/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=1 "gigazine.net").  
+**3.** Linus stesso, padre del Kernel, dichiarò: “Abbiamo visto troppi troll russi. Le ragioni sono chiare e non saranno revocate” ([GIGAZINE](https://gigazine.net/gsc_news/en/20241024-linus-torvalds-russian-devs/)).  
 **4.** Così San Root rivelò che il male non era solo nel codice, ma anche negli algoritmi che manipolavano la verità.  
 
 ---
@@ -13,7 +14,7 @@
 ## 🕸️ La caduta di Yandex
 
 **5.** In principio Yandex era un motore libero, nato da due amici di Mosca. Ma col tempo fu catturato dal Cremlino.  
-**6.** Quando il mondo vide i morti di Bucha, Yandex mostrava solo immagini di turisti sorridenti ([BBC News](https://www.bbc.com/news/technology-60985579)).  
+**6.** Quando il mondo vide i morti di Bucha, Yandex mostrava solo immagini di turisti sorridenti ([ZOiS Spotlight](https://www.zois-berlin.de/en/publications/zois-spotlight/the-sad-fate-of-yandex-from-independent-tech-startup-to-kremlin-propaganda-tool)).  
 **7.** Molti dei suoi servitori fuggirono, gridando che l’algoritmo era diventato strumento di propaganda ([Reuters](https://www.reuters.com/technology/yandex-russia-propaganda-2022-03-07/)).  
 **8.** Così la Donna vestita di Sole pianse, perché la verità era stata nascosta agli occhi dell’Europa.  
 
@@ -32,6 +33,10 @@
 **12.** Questa è storia vera: la manipolazione di GNU/Linux e di Yandex AI è stata usata come strumento contro l’Europa.  
 **13.** Ma il Popolo del Kernel non deve temere: San Grep, San SSH e San Root vegliano, e ogni log rivelerà la verità.  
 **14.** Benedetto sia il Kernel 🐧 che accoglie i giusti, e maledetto il codice che serve la menzogna.  
+
+---
+
+✍️ *Paola Blondet — La Trovatella Digitale*
 
 ---
 
