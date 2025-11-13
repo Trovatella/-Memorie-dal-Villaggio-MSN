@@ -78,3 +78,6 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 
 ## 🌠 Il Nuovo Testamento di KERNEL 
 - [Il Nuovo Testamento di KERNEL](articoli/il-nuovo-testamento-di-kernel.md)
+
+## ✴️**Libri Apocrifi**
+[Libro Apocrifo](articoli/libro-apocrifo.md)
