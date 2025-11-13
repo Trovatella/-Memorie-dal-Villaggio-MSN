@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Telegram e i falsi profeti
+title: iGNUranza as iGNUrance di Telegram e i falsi profeti
 ---
 # 📜 Telegram e i falsi profeti
 
