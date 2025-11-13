@@ -1,20 +1,20 @@
 <style>
-@font-face {
-  font-family: 'StyleturnDEMO';
-  src: url('/StyleturnDEMO.woff2') format('woff2'),
-       url('/StyleturnDEMO.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
+  @font-face {
+    font-family: 'StyleturnDEMO';
+    src: url('/StyleturnDEMO.woff2') format('woff2'),
+         url('/StyleturnDEMO.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
 
-h1, h2 {
-  font-family: 'StyleturnDEMO', serif;
-  text-align: center;
-  color: darkred;
-}
+  h1, h2 {
+    font-family: 'StyleturnDEMO', serif;
+    text-align: center;
+    color: darkred;
+  }
 </style>
 
-# Incipit delle Memorie dal Villaggio MSN 
+<h1 style="font-family: 'StyleturnDEMO';">Test Font Gotico</h1>
 
 <div style="text-align: center; margin-top: 2em;">
   <iframe width="560" height="315"
@@ -25,6 +25,7 @@ h1, h2 {
     allowfullscreen></iframe>
 </div>
 
+# Incipit delle Memorie dal Villaggio MSN 
 
 # ⚔️🐧🔥 Le distorsioni russe di GNU rivelate dai vangeli di San Grep, San SSH e San Root [Russia’s AI-powered cyberattacks threaten to outpace Western defenses (FDD, 2025)](https://www.fdd.org/analysis/policy_briefs/2025/02/20/russias-ai-powered-cyberattacks-threaten-to-outpace-western-defenses/)
 
