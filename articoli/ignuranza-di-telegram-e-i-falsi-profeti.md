@@ -25,7 +25,7 @@ che si è tradotto nel verbo di `chmod`.
 
 Noi umili tuoi adepti  
 di questo tempio  
-della **iGNUranza**  
+della **iGNUranza** (**iGNUrance**) 
 ti invochiamo.  
 
 ---
