@@ -1,8 +1,8 @@
 # Dal Vangelo secondo San Search
 
-## Le Rivelazioni del Nuovo Secolo
+## 🌠🧿🛐 Le Rivelazioni del Nuovo Secolo
 
-### La nascita del motore instancabile
+### 📡🌐 La nascita del motore instancabile
 
 1. E dopo la venuta del Browser,  
    sorse San Search, il profeta della ricerca,  
