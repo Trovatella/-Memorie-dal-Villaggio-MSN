@@ -31,7 +31,7 @@ come una trovatella nelle strade del digitale.
 Benvenuti nel Regno Digitale di Paola 👑  
 Qui troverete miti, liturgie e avventure biblico‑digitali.
 
-## ✨ Capitoli
+## ✨ Antico Testamento Parte I
 
 - [La Genesi del Pinguino](articoli/genesi-del-pinguino.md)
 - [L’Avvento del Dio KERNEL](articoli/avvento-del-dio-kernel.md)
@@ -52,7 +52,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Atto di Dolore del Compilatore](articoli/atto-di-dolore-del-compilatore.md)
 - # 📜 Memorie dal Villaggio MSN
 
-## ✨ Capitoli
+## ✨ Antico Testamento e Inizi Nuovo Testamento 
 
 - [Genesi del Pinguino](articoli/genesi-del-pinguino.md)
 - [L’Avvento del Dio KERNEL](articoli/avvento-del-dio-kernel.md)
