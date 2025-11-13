@@ -10,7 +10,7 @@
 > E tutti gli Wizard stanno bene.  
 > Credo nonostante tutto che la mia opera sia etica.  
 > L'intento è quello di imparare divertendosi.  
-> Menti chiuse statene fuori. Non fa per voi.🍷🍻
+> Menti chiuse (narrow minds) statene fuori. Non fa per voi.🍷🍻
 
 👑 Il Regno Digitale di Paola
 Benvenuti nel mio spazio personale su GitHub.
