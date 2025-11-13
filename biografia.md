@@ -5,6 +5,10 @@ Because I can see that GNU is like a Religion 😊
 
 # 🌟 Biografia di Trovatella (Paola Blondet) ✒️📜
 
+<a href="https://youtu.be/4w9uy4Ip5Zs?si=YO6s9NP_sNsDIQDy" target="_blank">
+  <embed src="paola.pdf" type="application/pdf" width="200" height="200" oncontextmenu="return false;">
+</a>
+
 ## Perché questo sito è in lingua italiana? Perché di siti web scritti in inglese ce ne sono veramente troppi! 😜🍷
 E io non mi vergogno di essere Italiana. 
 
