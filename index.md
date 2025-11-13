@@ -26,7 +26,7 @@ come una trovatella nelle strade del digitale.
 ## ✨ Chi sono
 
 - [Biografia di Trovatella](biografia.md)
-8# 📜 Memorie dal Villaggio MSN
+## 🍷🤣✴️💖📜 **Memorie dal Villaggio MSN**
 
 Benvenuti nel Regno Digitale di Paola 👑  
 Qui troverete miti, liturgie e avventure biblico‑digitali.
