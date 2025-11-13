@@ -63,6 +63,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [I Comandamenti del GCC](articoli/I-comandamenti-del-GCC.md)
 - [Il Kernel Liberato di Tuxquato Bassho](articoli/Kernel-liberato-di-Tuxquato-Bassho.md)
 - [Gli Atti degli Sysadmin](articoli/gli-atti-degli-sysadmin.md)
+- [Google Le Rivelazioni di San Search](articoli/google-le-rivelazioni-di-san-search.md) 
 - [Nascita del Web](articoli/la-nascita-del-Web.md)
 - [L’assedio di Azure e la Resurrezione del Server – Dal Vangelo secondo San Root](articoli/vangelo-del-kernel-secondo-san-root.md)
 -[Le Rivelazioni di San SSH](articoli/le-rivelazioni-di-san-ssh.md)
