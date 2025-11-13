@@ -44,6 +44,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Il Popolo Osserva la CLI](articoli/il-popolo-osserva-la-cli.md)
 - [Il Serpente Indentatore e la merge con .NET](articoli/il-serpente-indentatore-mergia-con-net.md)
 - [La Diocesi Linuxiana](articoli/la-diocesi-linuxiana.md)
+- [La Genesi del Codice – Rivelazioni di San Root, San Patch e San Log sul Profeta Bill Gates](articoli/la-genesi-del-codice-bill-gates-rivelazioni-di-san-root-san-patch-e-san-log.md)
 - [Preghiera del Kernel](articoli/preghiera-del-kernel.md)
 - [Il compilatore di Telegram invoca pietas al Kernel](/articoli/il-compilatore-di-Telegram-invoca-pietas-al-kernel.md)
 -[Il Peccato Originale secondo Dio KERNEL](articoli/il-peccato-originale-secondo-il-dio-kernel.md)
