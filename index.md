@@ -1,28 +1,42 @@
 <style>
   @font-face {
     font-family: 'StyleturnDEMO';
-    src: url('/StyleturnDEMO.woff2') format('woff2'),
-         url('/StyleturnDEMO.woff') format('woff');
+    src: url('/-Memorie-dal-Villaggio-MSN/StyleturnDEMO.woff2') format('woff2'),
+         url('/-Memorie-dal-Villaggio-MSN/StyleturnDEMO.woff') format('woff');
     font-weight: normal;
     font-style: normal;
   }
 
+  .page-content h1, .page-content h2,
   h1, h2 {
-    font-family: 'StyleturnDEMO', serif;
+    font-family: 'StyleturnDEMO', serif !important;
     text-align: center;
     color: darkred;
   }
+
+  .video-center {
+    text-align: center;
+    margin-top: 2em;
+  }
+
+  .video-center iframe {
+    display: inline-block;
+    max-width: 100%;
+  }
 </style>
 
-<h1 style="font-family: 'StyleturnDEMO';">Test Font Gotico</h1>
+<h1>Gothic Font Test</h1>
 
-<div style="text-align: center; margin-top: 2em;">
-  <iframe width="560" height="315"
+<div class="video-center">
+  <iframe
+    width="560"
+    height="315"
     src="https://www.youtube.com/embed/4w9uy4Ip5Zs?autoplay=1"
     title="Valhalla (Remastered 2017) - Blind Guardian"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
+    allowfullscreen>
+  </iframe>
 </div>
 
 # Incipit delle Memorie dal Villaggio MSN 
