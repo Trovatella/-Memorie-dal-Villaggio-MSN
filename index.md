@@ -16,12 +16,14 @@ h1, h2 {
 
 # Incipit delle Memorie dal Villaggio MSN 
 
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/4w9uy4Ip5Zs?autoplay=1" 
-  title="YouTube video player" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+<div style="text-align: center; margin-top: 2em;">
+  <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/4w9uy4Ip5Zs?autoplay=1"
+    title="Valhalla (Remastered 2017) - Blind Guardian"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+</div>
 
 
 # ⚔️🐧🔥 Le distorsioni russe di GNU rivelate dai vangeli di San Grep, San SSH e San Root [Russia’s AI-powered cyberattacks threaten to outpace Western defenses (FDD, 2025)](https://www.fdd.org/analysis/policy_briefs/2025/02/20/russias-ai-powered-cyberattacks-threaten-to-outpace-western-defenses/)
