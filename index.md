@@ -7,13 +7,16 @@
     font-style: normal;
   }
 
-  .page-content h1, .page-content h2,
+  /* Titoli principali */
+  .page-content h1,
+  .page-content h2,
   h1, h2 {
     font-family: 'StyleturnDEMO', serif !important;
     text-align: center;
     color: darkred;
   }
 
+  /* Video centrato */
   .video-center {
     text-align: center;
     margin-top: 2em;
@@ -24,46 +27,41 @@
     max-width: 100%;
   }
 
-  /* Classe per tenere un titolo accessibile ma invisibile */
+  /* Classe per titolo accessibile ma invisibile */
   .sr-only {
     position: absolute;
-    width: 1px; height: 1px;
-    padding: 0; margin: -1px;
-    overflow: hidden; clip: rect(0, 0, 0, 0);
-    white-space: nowrap; border: 0;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
   }
+
   /* Estensione per articoli */
-.post-content h1,
-.post-content h2,
-.post-content h3,
-.post-content p,
-.post-content li,
-.post-content blockquote,
-article h1,
-article h2,
-article h3,
-article p,
-article li,
-article blockquote {
-  font-family: 'StyleturnDEMO', serif !important;
-  color: darkred;
-}
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .post-content p,
+  .post-content li,
+  .post-content blockquote,
+  article h1,
+  article h2,
+  article h3,
+  article p,
+  article li,
+  article blockquote {
+    font-family: 'StyleturnDEMO', serif !important;
+    color: darkred;
+  }
 
-.post-content,
-article {
-  font-family: 'StyleturnDEMO', serif !important;
-}
+  .post-content,
+  article {
+    font-family: 'StyleturnDEMO', serif !important;
+  }
 </style>
-
-<!-- Scegli UNA delle tre righe sotto: -->
-
-<!-- 1) Titolo in italiano (visibile) -->
-<!-- <h1>Memorie dal Villaggio MSN</h1> -->
-
-<!-- 2) Nessun titolo: semplicemente rimuovi l’h1 -->
-
-<!-- 3) Titolo invisibile ma accessibile -->
-<!-- <h1 class="sr-only">Memorie dal Villaggio MSN</h1> -->
 
 <div class="video-center">
   <iframe
