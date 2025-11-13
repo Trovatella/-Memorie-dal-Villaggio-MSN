@@ -37,7 +37,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [L’Avvento del Dio KERNEL](articoli/avvento-del-dio-kernel.md)
 - [Cantico del Browser](articoli/cantico-del-browser.html)
 - [La Rivelazione di Kusto secondo San Git](articoli/la-rivelazione-di-kusto-secondo-san-git.md)
-- [La Rivelazione di San Root suParrotVM](articoli/la-rivelazione-di-san-root-su-parrot-vm.md)
+- [La Rivelazione di San Root su Parrot VM](articoli/la-rivelazione-di-san-root-su-parrot-vm.md)
 - [Le Rivelazioni di San SSH](articoli/le-rivelazioni-di-san-ssh.md)
 - [Il Verbo di Microsoft](articoli/il-verbo-di-microsoft.md)
 - [La Confessione Mistica del Mistico Sacerdote Nadella](articoli/la-Confessione-mistica-del-Mistico-Sacerdote-Nadella.md)
