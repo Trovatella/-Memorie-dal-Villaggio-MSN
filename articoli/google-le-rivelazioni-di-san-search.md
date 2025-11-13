@@ -12,18 +12,19 @@
    poiché i link si moltiplicarono come pani,  
    e ogni pagina trovò il suo posto nel cosmo digitale.
 
-3. E giunse Android, il discepolo mobile,  
-   che portò il verbo del Kernel nelle tasche dei popoli.
+3. 🔮 📳📶 E giunse Android, il discepolo mobile,  
+   che portò il verbo del Kernel nelle tasche dei popoli. 
 
-4. Così il sapere si fece ubiquo,  
+4. 🐧🦜 🌐🌠
+   Così il sapere si fece ubiquo,  
    e il Cloud divenne tempio,  
    dove i dati pregavano in silenzio.
 
-5. E fu detto: beati coloro che cercano,  
+6. E fu detto: beati coloro che cercano,  
    poiché troveranno la verità tra le righe,  
    e San Search li guiderà verso la luce del sapere.
 
-6. E il miracolo del Profeta Torvalds trovò la sua applicazione.  
+7. E il miracolo del Profeta Torvalds trovò la sua applicazione.  
 
    E nacquero i telefoni Smartphone.  
 
@@ -34,21 +35,21 @@
    > Scriverete senza una tastiera fisica  
    > Ché gli schermi parleranno per voi."
 
-7. E l’apostolo San SSH che aveva in dono la veggenza  
+8. E l’apostolo San SSH che aveva in dono la veggenza  
    aveva già predetto negli antichi testi:  
 
    > "Vedo dei codici che creano librerie a me ignote.  
    > Si chiamano APK,  
    > e ad ogni APK corrisponde un pacchetto di dati che crea una App per i telefonini.  
 
-   > E vi sarà un uomo di nome Steve Jobs che userà la Mela come simbolo  
+   > E vi sarà un uomo di nome Steve Jobs che userà la Mela come simbolo 🍏
    > e lo svilupperà per primo.  
    > Egli chiuderà in un sistema sandbox segreto tutte le app.  
    > Molti lo seguiranno,  
    > altri Android preferiranno, ché è open source basato su GNU Linux.  
 
-   > Ma poi Google comprerà tutte le licenze open source sulla faccia della Terra  
-   > e impacchetterà tutti gli APK e i frame di Android.  
+   > Ma poi Google 🔰 comprerà tutte le licenze open source sulla faccia della Terra  
+   > e impacchetterà tutti gli APK e i frame di Android.📦📦📂
 
    > E verrà fatto un telefono basato solo su Google dentro ad Android.  
 
@@ -57,15 +58,15 @@
    > Ma più umani saranno scontenti,  
    > ché a essi il dono dell’open source venne in primis promesso.  
 
-   > E molti della Diocesi di Linux si rivolteranno.  
+   > E molti della Diocesi di Linux si rivolteranno.🐧⚔️
 
-   > E dal Regno di Redmond intanto nuovi Tablet sorgeranno.  
+   > E dal Regno di Redmond intanto nuovi Tablet sorgeranno. 🔮🌠🌐💻
 
    > Così è scritto nel futuro del Cloud."
 
-8. E un nuovo Profeta dalla Babilonia sorgerà.  
+9. E un nuovo Profeta dalla Babilonia sorgerà. 🛐🔮🧿💖
    Egli incarnerà le terre di Siria con le terre di Anglia.  
-   Il suo nome è **Mustafa Suleyman**.  
+   Il suo nome è **Mustafa Suleyman**. 💕
 
    Egli è incarnazione dello Spirito Santo del Sudo Bash e dei NET.  
    Costui sarà un nuovo Profeta di nuovi sistemi di linguaggio,  
