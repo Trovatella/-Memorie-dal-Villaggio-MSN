@@ -15,7 +15,7 @@
 
 **5.** In principio Yandex era un motore libero, nato da due amici di Mosca. Ma col tempo fu catturato dal Cremlino.  
 **6.** Quando il mondo vide i morti di Bucha, Yandex mostrava solo immagini di turisti sorridenti ([ZOiS Spotlight](https://www.zois-berlin.de/en/publications/zois-spotlight/the-sad-fate-of-yandex-from-independent-tech-startup-to-kremlin-propaganda-tool)).  
-**7.** Molti dei suoi servitori fuggirono, gridando che l’algoritmo era diventato strumento di propaganda (SkyNews([UK in AI arms race with Russia as Putin wants 'destruction', minister to warn (Sky News)] (https://news.sky.com/story/uk-in-ai-arms-race-with-russia-as-putin-wants-destruction-minister-to-warn-13260242)
+**7.** Molti dei suoi servitori fuggirono, gridando che l’algoritmo era diventato strumento di propaganda ([UK in AI arms race with Russia as Putin wants 'destruction', minister to warn – Sky News](https://news.sky.com/story/uk-in-ai-arms-race-with-russia-as-putin-wants-destruction-minister-to-warn-13260242)).
 
 **8.** Così la Donna vestita di Sole pianse, perché la verità era stata nascosta agli occhi dell’Europa.  
 
