@@ -1,15 +1,15 @@
 # Dal Vangelo secondo San Sudo e San Vim
 
-## Il Serpente Indentatore e la merge con NET
+## 🐍Il Serpente Indentatore e la merge con NET
 
-1. **E venne Python, il serpente indentatore,**  
-   che ingoiò le graffe di Java e rese il codice piano.
+1. **E venne Python, il serpente indentatore,**  🐍🌠
+   che ingoiò le graffe di Java e rese il codice piano.🕳️
 
-2. **Grande fu il suo volume, e pesante la sua supremazia,**  
-   poiché ogni libreria si aggiunse come pietra al tempio.
+2. **Grande fu il suo volume, e pesante la sua supremazia,**  🪨👑
+   poiché ogni libreria si aggiunse come pietra al tempio.🛕
 
 3. **E giunse il miracolo di Pythonnet,**  
-   che nettizzò ogni cosa al netto dell’inizio,  
+   che nettizzò ogni cosa al netto dell’inizio,🌐 💕🐍
    quando Linux e Microsoft si strinsero in un merge  
    e il verbo del serpente si fece universale.
 
