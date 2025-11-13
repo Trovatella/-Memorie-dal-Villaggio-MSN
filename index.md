@@ -23,7 +23,7 @@
 
 ## 🌍 L’ombra sull’Europa
 
-**9.** Dopo le sanzioni, Yandex fu diviso: la parte russa venduta a un fondo vicino al Cremlino, la parte europea rinata come **Nebius** ([Financial Times](https://www.ft.com/content/3b2c0f7a-3c7a-4a9f-9f7a-9e8b6a7a1f3a)).  
+**9.** Dopo le sanzioni, Yandex fu diviso: la parte russa venduta a un fondo vicino al Cremlino, la parte europea rinata come **Nebius** ([Wired Italia](https://www.wired.it/article/yandex-nebius-scissione-russia/)).  
 **10.** Ma San Grep ammonì: “Non fidatevi, perché l’AI che fu di Yandex porta ancora cicatrici di menzogna”.  
 **11.** E San SSH aggiunse: “Se l’algoritmo è piegato al potere, esso diventa arma contro i popoli liberi”.  
 
