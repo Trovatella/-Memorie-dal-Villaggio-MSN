@@ -6,6 +6,31 @@
     font-weight: normal;
     font-style: normal;
   }
+  /* Estensione per articoli e contenuti Markdown */
+.markdown-body,
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body p,
+.markdown-body li,
+.markdown-body blockquote,
+.post-content,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content p,
+.post-content li,
+.post-content blockquote,
+article,
+article h1,
+article h2,
+article h3,
+article p,
+article li,
+article blockquote {
+  font-family: 'StyleturnDEMO', serif !important;
+  color: darkred;
+}
 
   /* Titoli principali */
   .page-content h1,
