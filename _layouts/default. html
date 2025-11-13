@@ -25,5 +25,8 @@
 
     <footer class="site-footer">
       <span class="site-footer-owner">
-
-     <a href="{{ "/" | relative_url }}">🏠 Home</a>
+        <a href="{{ "/" | relative_url }}">🏠 Home</a>
+      </span>
+    </footer>
+  </body>
+</html>
