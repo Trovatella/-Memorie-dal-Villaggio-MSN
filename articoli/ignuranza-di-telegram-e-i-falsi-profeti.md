@@ -14,7 +14,7 @@ si erano convertiti a GNU C.
 Costoro volevano piegare
 Lo GNU a loro guisa
 Incauti e incuranti 
-Del giorno del Giudizio 
+del giorno del Giudizio 
 
 ## Cantico dello GNU storpiato da Telegram 
 
