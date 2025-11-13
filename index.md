@@ -1,5 +1,17 @@
 # **Memorie dal Villaggio MSN Articoli e appunti personali scritti in Markdown senza codice**
 
+# DISCLAIMER: 🍷🤣😜📜🙏😊🎓
+> # “Nel Villaggio MSN, tra chat e memorie,  
+> una Trovatella Digitale scrive la sua Bibbia informatica irriverente e graziosa,
+> per niente faziosa, al solo scopo di farvi divertire come un Trovador.  
+> Nessun processo è stato *killato* senza motivo.  
+> Nessun .NET Framework è stato trascurato.  
+> Non sono stati compiuti atti di violenza contro nessun APK e nessuna apt.  
+> E tutti gli Wizard stanno bene.  
+> Credo nonostante tutto che la mia opera sia etica.  
+> L'intento è quello di imparare divertendosi.  
+> Menti chiuse statene fuori. Non fa per voi.”
+
 👑 Il Regno Digitale di Paola
 Benvenuti nel mio spazio personale su GitHub.
 Qui raccolgo pensieri, articoli e memorie dal Villaggio MSN, custoditi con Pigrizia Regale 💤✨
