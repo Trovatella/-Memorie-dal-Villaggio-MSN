@@ -1,3 +1,19 @@
+<style>
+@font-face {
+  font-family: 'StyleturnDEMO';
+  src: url('/StyleturnDEMO.woff2') format('woff2'),
+       url('/StyleturnDEMO.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2 {
+  font-family: 'StyleturnDEMO', serif;
+  text-align: center;
+  color: darkred;
+}
+</style>
+
 # Incipit delle Memorie dal Villaggio MSN 
 
 <iframe width="560" height="315" 
