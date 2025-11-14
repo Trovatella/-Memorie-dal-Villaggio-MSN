@@ -19,7 +19,7 @@
 .post-content,
 article {
   font-family: 'StyleturnDEMO', serif !important;
-  color: #000000; /* nero per leggibilità */
+  color: #000000 !important; /* nero per leggibilità */
 }
 
 /* Titoli principali */
@@ -69,14 +69,15 @@ a:hover {
   border: 0;
 }
 
-/* Sfondo pergamena camel */
+/* Sfondo pergamena sabbia chiara */
 body {
-  background-color: #c19a6b !important; /* camel caldo */
-  background-image: url('/assets/css/assets/img/parchment-paper-background-neo44rwl3hnjm7xp.jpg') !important;
+  background-color: #f0dcb3 !important; /* sabbia chiara */
+  background-image: url('/assets/css/assets/img/parchment-paper-background-neo44rwl3hnjm7xp.jpg');
   background-repeat: repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-blend-mode: multiply;
+  background-blend-mode: lighten;
+  filter: brightness(1.2); /* aumenta la luminosità del fondo */
 }
 
 /* Contenuto leggibile sopra lo sfondo */
@@ -86,6 +87,7 @@ body {
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.15);
 }
+
 /* Citazioni in stile cartiglio medievale */
 blockquote {
   background-color: rgba(193, 154, 107, 0.2); /* camel trasparente */
@@ -96,23 +98,4 @@ blockquote {
   color: #000000; /* testo nero leggibile */
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-}
-/* Forza il colore nero sul corpo del testo */
-.markdown-body,
-.markdown-body p,
-.markdown-body li,
-.markdown-body blockquote,
-.post-content,
-article {
-  color: #000000 !important; /* Nero puro */
-}
-/* Sfondo pergamena color sabbia */
-body {
-  background-color: #f0dcb3; /* sabbia chiara */
-  background-image: url("pergamena.png");
-  background-blend-mode: lighten;
-}
-body {
-  background-image: url("pergamena.png");
-  filter: brightness(1.2); /* aumenta la luminosità del fondo */
 }
