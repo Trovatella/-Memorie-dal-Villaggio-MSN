@@ -11,27 +11,38 @@
   font-style: normal;
 }
 
-/* Applicazione del font agli articoli e contenuti Markdown */
+/* Corpo del testo */
 .markdown-body,
-.markdown-body h1,
-.markdown-body h2,
-.markdown-body h3,
 .markdown-body p,
 .markdown-body li,
 .markdown-body blockquote,
 .post-content,
 article {
   font-family: 'StyleturnDEMO', serif !important;
-  color: darkred;
+  color: #000000; /* nero per leggibilità */
 }
 
 /* Titoli principali */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
 .page-content h1,
 .page-content h2,
 h1, h2 {
   font-family: 'StyleturnDEMO', serif !important;
   text-align: center;
-  color: darkred;
+  color: darkred; /* titoli rosso scuro */
+}
+
+/* Link */
+a {
+  color: #4b2e2e; /* marrone scuro */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6b3f3f; /* marrone più chiaro al passaggio */
+  text-decoration: underline;
 }
 
 /* Video centrato */
@@ -65,7 +76,7 @@ body {
   background-repeat: repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-blend-mode: multiply; /* fonde il camel con la texture */
+  background-blend-mode: multiply;
 }
 
 /* Contenuto leggibile sopra lo sfondo */
@@ -75,4 +86,3 @@ body {
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.15);
 }
-
