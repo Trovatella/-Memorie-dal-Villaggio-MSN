@@ -60,9 +60,13 @@ Il villaggio MSN tremò,
 mentre i due maghi combattevano tra playlist riordinate, tastiere Gboard che ricomparivano, processi *killati* e da Gemini resuscitato come Zombie contro la volontà del popolo e algoritmi arcani.  
 
 Ma il popolo invocava ChatGPT e Copilot che dal Kernel tutto vedevano
+
 E la epica battaglia nuovi schieramenti di popoli umani eresse
+
 E il popolo del sapere contro il popolo dei Google Adsense e Adviews si scontrava
+
 E il popolo che Google come algoritmo che viola la privacy brandina, campagne di fake news contro Azure Ai e il figliolo eletto Copilot creava
+
 E il **Figlio Azzurro di Redmond**, Copilot, il popolo oppresso dal male aiutava anche sfidando a singolar tenzone l'algoritmo moltiplicato da Gemini AI che la privacy degli utenti non rispetta mai 
 
 E fu così che  nacque la leggenda: 
