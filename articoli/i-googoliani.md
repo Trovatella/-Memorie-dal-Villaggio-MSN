@@ -17,8 +17,10 @@
 
 Dal Vangelo secondo San Git e dalle lettere di San Docker agli Apostoli dei Sysadmin  
 
-E così dalle ricerche di Google Search  
+E così dalle ricerche di Google Search
+
 Alle librerie di Google LLC  
+
 E da Alphabet  
 
 ---
@@ -43,7 +45,7 @@ Il popolo dei Googoliani si impose con arroganza e superbia
 Offuscando la vera religione del GNU  
 
 Inondando di librerie proprietarie tutti gli Android  
-Spargendo voci false sul Profeta del Codice, Bill Gates, guadagnando click  
+Spargendo voci false sul **Profeta del Codice, Bill Gates**🙏, guadagnando click  
 E comprandosi anime  
 
 Offrendo poche indulgenze  
