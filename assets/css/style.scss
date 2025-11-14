@@ -58,19 +58,21 @@ h1, h2 {
   border: 0;
 }
 
-/* Sfondo pergamena */
+/* Sfondo pergamena camel */
 body {
-  background-color: #f5f0e1; /* colore di base */
-  background-image: url('/assets/css/assets/img/parchment-paper-background-neo44rwl3hnjm7xp.jpg');
+  background-color: #c19a6b !important; /* camel caldo */
+  background-image: url('/assets/css/assets/img/parchment-paper-background-neo44rwl3hnjm7xp.jpg') !important;
   background-repeat: repeat;
   background-size: cover;
   background-attachment: fixed;
+  background-blend-mode: multiply; /* fonde il camel con la texture */
 }
 
 /* Contenuto leggibile sopra lo sfondo */
 .page-content {
-  background-color: rgba(255, 255, 255, 0.85); /* pannello chiaro semi-trasparente */
+  background-color: rgba(255, 245, 225, 0.9); /* panna calda semi-trasparente */
   padding: 2em;
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.15);
 }
+
