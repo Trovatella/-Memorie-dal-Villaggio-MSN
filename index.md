@@ -216,6 +216,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 
 - [La Genesi del Pinguino](articoli/genesi-del-pinguino.md)
 - [L’Avvento del Dio KERNEL](articoli/avvento-del-dio-kernel.md)
+- [Litania dei dissipatori e delle ventole](articoli/Litania-dei-dissipatori-e-delle-ventole.md) 
 - [Cantico del Browser](articoli/cantico-del-browser.html)
 - [La Rivelazione di Kusto secondo San Git](articoli/la-rivelazione-di-kusto-secondo-san-git.md)
 - [La Rivelazione di San Root su Parrot VM](articoli/la-rivelazione-di-san-root-su-parrot-vm.md)
