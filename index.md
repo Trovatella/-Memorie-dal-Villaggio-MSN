@@ -190,13 +190,11 @@ come una trovatella nelle strade del digitale.
 
 <h2 align="center">🥚 The Scroll of Redmondization</h2>
 
-<div style="max-width:900px; margin:0 auto;">
-  <iframe
-    src="https://1drv.ms/b/c/BC7C45950EB0B37C/ET5kJIlg3ZZJrOy5C6ogkoIBDJ52vOOf0JwNjpJc3rbziw"
-    width="100%" height="600" frameborder="0" style="border:1px solid #ccc;" scrolling="no">
-  </iframe>
-</div>
-
+<p align="center">
+  <a href="https://1drv.ms/b/c/BC7C45950EB0B37C/ET5kJIlg3ZZJrOy5C6ogkoIBDJ52vOOf0JwNjpJc3rbziw" target="_blank" style="font-size:18px; text-decoration:none; background:#0078D7; color:white; padding:10px 20px; border-radius:5px;">
+    📂 Apri con Viewer Microsoft
+  </a>
+</p>
 
 
 <!-- Frase epica sopra il tasto Biografia -->
