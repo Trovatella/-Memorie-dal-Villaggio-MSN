@@ -266,4 +266,5 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
   
 ## ✴️**Libri Apocrifi**
 -[Libro Apocrifo](articoli/libro-apocrifo.md)
+-[La Liturgia del Nuovo Edge Browser con Copilot](articoli/la-liturgia-del-nuovo-edge-browser-con-copilot.md)
 
