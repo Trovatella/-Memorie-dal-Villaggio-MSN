@@ -187,6 +187,25 @@ come una trovatella nelle strade del digitale.
 
 ## ✨ Chi sono
 
+<!-- Frase epica sopra il tasto Biografia -->
+<div style="text-align:center; margin:20px 0;">
+  <strong style="color:#003366; font-size:1.4em;">
+    From 1982 to 2025. From the first Pixels to the now Pixel 10
+  </strong>
+</div>
+
+<!-- Video centrato e responsive -->
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; margin:20px auto;">
+  <iframe 
+    src="https://www.youtube.com/embed/BthIpou38wI?si=lASUsksvtQ00UZ32"
+    title="Alex Kidd Music"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position:absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
+
 - [Biografia di Trovatella](biografia.md)
 ## 🍷🤣✴️💖📜 **Memorie dal Villaggio MSN**
 
