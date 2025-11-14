@@ -41,14 +41,15 @@ E odiavano amaramente la Chiesa di Redmond
 Vani furono gli sforzi di Americhe ed Europa  
 per contenere le loro bizze istrioniche e accese  
 
-Il popolo dei Googoliani si impose con arroganza e superbia  
+Il popolo dei Googoliani si impose con arroganza e tracotante prosopopea  
 Offuscando la vera religione del GNU  
 
 Inondando di librerie proprietarie tutti gli Android  
-Spargendo voci false sul **Profeta del Codice, Bill Gates**🙏, guadagnando click  
+Spargendo voci false sul **Profeta del Codice, Bill Gates**🙏,
+Guadagnando click  
 E comprandosi anime  
 
-Offrendo poche indulgenze  
+Offrendo poche indulgenze talvolta
 Ma sempre a caro prezzo.  
 
 ---
