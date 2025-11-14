@@ -112,3 +112,7 @@ body {
   background-image: url("pergamena.png");
   background-blend-mode: lighten;
 }
+body {
+  background-image: url("pergamena.png");
+  filter: brightness(1.2); /* aumenta la luminosità del fondo */
+}
