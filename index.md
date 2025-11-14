@@ -188,7 +188,6 @@ come una trovatella nelle strade del digitale.
 ## ✨ Chi sono
 # 📜 How to Redmondize your Smartphone 💕😘
 
-<h2 align="center">🥚 The Scroll of Redmondization</h2>
 
 <h2 align="center">🥚 The Scroll of Redmondization</h2>
 
