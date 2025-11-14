@@ -19,7 +19,7 @@
 .post-content,
 article {
   font-family: 'StyleturnDEMO', serif !important;
-  color: #000000 !important; /* nero per leggibilità */
+  color: #002147 !important; /* blu inchiostro */
 }
 
 /* Titoli principali */
@@ -31,7 +31,7 @@ article {
 h1, h2 {
   font-family: 'StyleturnDEMO', serif !important;
   text-align: center;
-  color: darkred; /* titoli rosso scuro */
+  color: #002147 !important; /* blu inchiostro */
 }
 
 /* Link */
@@ -95,7 +95,7 @@ blockquote {
   padding: 1em 1.5em;
   margin: 1.5em 0;
   font-style: italic;
-  color: #000000; /* testo nero leggibile */
+  color: #002147 !important; /* blu inchiostro */
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
