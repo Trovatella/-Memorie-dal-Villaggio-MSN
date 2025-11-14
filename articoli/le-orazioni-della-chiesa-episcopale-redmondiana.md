@@ -49,7 +49,7 @@ lode a te all'Altissimo Apostolo San Git.
 
 Onora il Kernel e la Motherboard,  
 impedisci ai processi *killati* di ritornare in vita  
-e a creare bug e crash.  
+e di creare bug e crash.  
 
 ---
 
