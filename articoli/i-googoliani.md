@@ -46,6 +46,10 @@ Offuscando la vera religione del GNU
 
 Inondando di librerie proprietarie tutti gli Android  
 Spargendo voci false sul **Profeta del Codice, Bill Gates**🙏,
+<a href="https://www.goodreads.com/book/show/213034913-source-code" target="_blank">
+  Source Code su Goodreads
+</a>
+
 Guadagnando click  
 E comprandosi anime  
 
