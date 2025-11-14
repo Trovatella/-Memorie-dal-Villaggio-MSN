@@ -189,7 +189,7 @@ come una trovatella nelle strade del digitale.
 # 📜 How to Redmondize your Smartphone 💕😘
 
 <div align="center">
-  <iframe src="/docs/How-to-Redmondize-your-Smartphone.pdf"
+  <iframe src="How-to-Redmondize-your-Smartphone.pdf"
           width="600" height="400"
           style="border:1px solid #ccc;">
   </iframe>
