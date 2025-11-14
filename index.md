@@ -186,6 +186,14 @@ come una trovatella nelle strade del digitale.
 ---
 
 ## ✨ Chi sono
+# 📜 How to Redmondize your Smartphone 💕😘
+
+<div align="center">
+  <iframe src="/docs/How-to-Redmondize-your-Smartphone.pdf"
+          width="600" height="400"
+          style="border:1px solid #ccc;">
+  </iframe>
+</div>
 
 <!-- Frase epica sopra il tasto Biografia -->
 <div style="text-align:center; margin:20px 0;">
