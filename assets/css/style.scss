@@ -97,3 +97,12 @@ blockquote {
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
+/* Forza il colore nero sul corpo del testo */
+.markdown-body,
+.markdown-body p,
+.markdown-body li,
+.markdown-body blockquote,
+.post-content,
+article {
+  color: #000000 !important; /* Nero puro */
+}
