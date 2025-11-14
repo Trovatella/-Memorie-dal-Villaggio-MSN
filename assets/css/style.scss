@@ -11,7 +11,7 @@
   font-style: normal;
 }
 
-/* Corpo del testo */
+/* Corpo del testo - contrasto migliorato */
 .markdown-body,
 .markdown-body p,
 .markdown-body li,
@@ -19,7 +19,9 @@
 .post-content,
 article {
   font-family: 'StyleturnDEMO', serif !important;
-  color: #002147 !important; /* blu inchiostro */
+  color: #1a1a1a !important; /* grigio scurissimo per leggibilità */
+  line-height: 1.6; /* spaziatura migliore */
+  font-size: 1.05em; /* leggermente più grande per mobile */
 }
 
 /* Titoli principali */
@@ -32,12 +34,15 @@ h1, h2 {
   font-family: 'StyleturnDEMO', serif !important;
   text-align: center;
   color: #002147 !important; /* blu inchiostro */
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
 }
 
 /* Link */
 a {
   color: #4b2e2e; /* marrone scuro */
   text-decoration: none;
+  font-weight: 600; /* più leggibile */
 }
 
 a:hover {
@@ -77,25 +82,38 @@ body {
   background-size: cover;
   background-attachment: fixed;
   background-blend-mode: lighten;
-  filter: brightness(1.2); /* aumenta la luminosità del fondo */
+  filter: brightness(1.15); /* leggermente meno luminoso per contrasto */
 }
 
 /* Contenuto leggibile sopra lo sfondo */
 .page-content {
-  background-color: rgba(255, 245, 225, 0.9); /* panna calda semi-trasparente */
+  background-color: rgba(255, 245, 225, 0.92); /* panna calda semi-trasparente */
   padding: 2em;
   border-radius: 12px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
 }
 
 /* Citazioni in stile cartiglio medievale */
 blockquote {
-  background-color: rgba(193, 154, 107, 0.2); /* camel trasparente */
+  background-color: rgba(193, 154, 107, 0.25); /* camel trasparente */
   border-left: 6px solid #4b2e2e; /* marrone scuro per il bordo */
   padding: 1em 1.5em;
   margin: 1.5em 0;
   font-style: italic;
   color: #002147 !important; /* blu inchiostro */
   border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+/* Responsive migliorato per mobile */
+@media (max-width: 768px) {
+  .page-content {
+    padding: 1.2em;
+  }
+  .markdown-body,
+  .post-content,
+  article {
+    font-size: 1.1em; /* più grande su schermi piccoli */
+    line-height: 1.7;
+  }
 }
