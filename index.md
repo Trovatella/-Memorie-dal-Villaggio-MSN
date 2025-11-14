@@ -188,16 +188,16 @@ come una trovatella nelle strade del digitale.
 ## ✨ Chi sono
 # 📜 How to Redmondize your Smartphone 💕😘
 
-<h2 align="center">🪞 The Scroll of Redmondization</h2>
+<h2 align="center">🥚 The Scroll of Redmondization</h2>
 
 <div align="center">
   <iframe src="How-to-Redmondize-your-Smartphone.pdf"
-          width="600" height="400"
+          width="100%" height="500"
           style="border:1px solid #ccc;">
   </iframe>
 </div>
 
-
+<p align="center"><em>From 1982 to 2025. From the first Pixels to the now Pixel 10</em></p>
 
 
 
