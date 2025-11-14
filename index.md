@@ -190,10 +190,13 @@ come una trovatella nelle strade del digitale.
 
 <h2 align="center">🥚 The Scroll of Redmondization</h2>
 
+<h2 align="center">🥚 The Scroll of Redmondization</h2>
+
 <div style="max-width:900px; margin:0 auto;">
   <iframe
     src="https://1drv.ms/b/c/BC7C45950EB0B37C/IQQ-ZCSJYN2WSazsuQuqIJKCAcHCZyGMqvzEqIpg_hl6y_Y"
-    width="100%" height="600" frameborder="0" style="border:1px solid #ccc;" scrolling="yes">
+    width="100%" height="600" frameborder="0"
+    style="border:4px solid gold; border-radius:8px;" scrolling="yes">
   </iframe>
 </div>
 
