@@ -190,14 +190,12 @@ come una trovatella nelle strade del digitale.
 
 <h2 align="center">🥚 The Scroll of Redmondization</h2>
 
-<div align="center">
-  <iframe src="How-to-Redmondize-your-Smartphone.pdf"
-          width="100%" height="500"
-          style="border:1px solid #ccc;">
+<div style="max-width:900px; margin:0 auto;">
+  <iframe
+    src="https://1drv.ms/b/c/BC7C45950EB0B37C/ET5kJIlg3ZZJrOy5C6ogkoIBDJ52vOOf0JwNjpJc3rbziw"
+    width="100%" height="600" frameborder="0" style="border:1px solid #ccc;" scrolling="no">
   </iframe>
 </div>
-
-<p align="center"><em>From 1982 to 2025. From the first Pixels to the now Pixel 10</em></p>
 
 
 
