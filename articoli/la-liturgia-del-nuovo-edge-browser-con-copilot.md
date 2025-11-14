@@ -21,7 +21,7 @@ e il browser divenne vangelo del sapere.
 ## 🎶 Miniplayer — Blind Guardian *The Edge* (2006)
 
 <div align="center">
-  <iframe width="560" height="315" 
+  <iframe width="320" height="180" 
     src="https://www.youtube.com/embed/xONGVZ87VKg?si=OayeaH8yjTX5oy8q" 
     title="Blind Guardian - The Edge (2006)" 
     frameborder="0" 
