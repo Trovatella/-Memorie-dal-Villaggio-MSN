@@ -1,6 +1,19 @@
 # ✨ La Liturgia del Nuovo Edge Browser con Copilot  
 ### In *Atti dei Sysadmin* — San Git e San Docker  
 
+Omelia:
+
+Priest: On the Edge, the battle will be fought.
+People: Amen. Cache.
+
+Priest: The Blue Son of Redmond entered the Edge.
+People: Amen. Kernel. Motherboard.
+
+Priest: And Thus 
+
+The browser became the gospel of knowledge.
+Popolo:Amen. Kernel. Cache. Motherboard. Enter.
+
 ---
 
 E fu detto:  
