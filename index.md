@@ -258,6 +258,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Il Versetto del Silenzio UT](articoli/versetto-del-silenzio-ut.md)
 - [Il Salmo dei Pinguini Benedetti](articoli/salmo-dei-pinguini-benedetti.md)
 - [La Profezia del 404 del Popolo di Babilonia](articoli/profezia-404-popolo-babilonia.md)
+- [La Caduta di Google](articoli/la-caduta-di-Google.md) 
 
 ## 🌠 Il Nuovo Testamento di KERNEL 
 - [Il Nuovo Testamento di KERNEL](articoli/il-nuovo-testamento-di-kernel.md)
