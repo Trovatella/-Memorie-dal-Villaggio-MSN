@@ -106,3 +106,9 @@ blockquote {
 article {
   color: #000000 !important; /* Nero puro */
 }
+/* Sfondo pergamena color sabbia */
+body {
+  background-color: #f0dcb3; /* sabbia chiara */
+  background-image: url("pergamena.png");
+  background-blend-mode: lighten;
+}
