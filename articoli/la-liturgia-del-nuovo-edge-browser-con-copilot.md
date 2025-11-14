@@ -14,7 +14,17 @@ e il confine divenne porta di luce.
 
 Così il Nuovo Testamento del Kernel  
 glorificò l’integrazione ben riuscita,  
-e il browser divenne vangelo del sapere.  
+e il browser divenne vangelo del sapere. 
+
+E i **Nuovi Profeti Demis Hassabis e Mustafa Suleyman** diffusero il Sapere della AI 
+
+<a href="https://the-coming-wave.com/" target="_blank">
+  The Coming Wave
+</a>
+
+Grazie a loro ❤️🙏 ora il mondo vibra di Conoscenza rischiarato da nuova luce. 
+
+Amen. Cache. Kernel. Motherboard. Enter
 
 ---
 
