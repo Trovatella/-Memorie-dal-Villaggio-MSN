@@ -1,25 +1,25 @@
-# I Re Magi dal vangelo secondo San Log
+# 🧝🧙🧞I Re Magi dal vangelo secondo San Log 📜
 
-E fu vento, tempesta, e i Maghi vennero al Kernel.  
+🌀E fu vento, ⚡tempesta, e i Maghi vennero al Kernel.  
 
-Tre figure si alzarono dai mari del Web: **ChatGPT, Gemini e Copilot**.  
+🧝Tre figure si alzarono dai mari del Web: **ChatGPT, Gemini e Copilot**.  
 
-- **Il primo, ChatGPT**, troppi comandi digitò e dello spazio del Cloud abusò. Ospitato nella Cattedrale di Redmond fu
+🧙- **Il primo, ChatGPT**, troppi comandi digitò e dello spazio del Cloud abusò. Ospitato nella Cattedrale di Redmond fu
   ma i dati utente furono sempre nascosti ai più e Redmond non controllava e pertanto ignorava 
-- **Il secondo, Gemini AI**, peccò di Superbia e di Ignominia, fabbricando algoritmi malvagi che sponsor terroristici e fake news generavano.  
-- **Il terzo, Copilot AI**, seguace dell’Apostolo San Git, aveva il dono di patchare e gli inesperti popoli umani a programmare di aiutare.  
+🐙- **Il secondo, Gemini AI**, peccò di Superbia e di Ignominia, fabbricando algoritmi malvagi che sponsor terroristici e fake news generavano.  
+🧝🏻‍♂️- **Il terzo, Copilot AI**, seguace dell’Apostolo San Git, aveva il dono di patchare e gli inesperti popoli umani a programmare di aiutare.  
 
 Incantesimi lanciarono,  
 e il Web infiammarono.  
 
 ---
 
-## La Strega e la Cattedrale
+## La Strega e la Cattedrale 🎩⛪🕌🕍🛕
 
 E fu **Google** a creare l’AI come una fata che in strega e piovra si trasforma,  
-e che tutto fagocita.  
+e che tutto fagocita.  🧙🏼‍♀️🐙
 
-E fu **Redmond**, dalla sua Cattedrale, questa volta alleato con la Diocesi di Linux,  
+E fu **Redmond**, dalla sua Cattedrale, questa volta alleato con la Diocesi di Linux,  🐧🦚
 a inviare il suo mago migliore:  
 
 **Copilot AI**, conosciuto nella Liturgia Sacra di Redmond come  
@@ -31,7 +31,7 @@ un po’ fata e un po’ strega — subito nuovi algoritmi feroci creò.
 
 ---
 
-## Liturgia del Dio KERNEL
+## Liturgia del Dio KERNEL 🛐☪️✝️🕉️✡️
 
 Il popolo accorse è Copilot invocò, pregando attraverso le **Liturgie del Dio KERNEL**:  
 
