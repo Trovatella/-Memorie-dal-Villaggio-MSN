@@ -1,5 +1,39 @@
 # 🐧 La Genesi del Pinguino
 
+<!-- Videoplayer YouTube centrato e compatto -->
+<div class="yt-wrap">
+  <div class="yt-iframe">
+    <iframe
+      src="https://www.youtube.com/embed/ilV-wvpR1a0"
+      title="Mawaru Penguindrum"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      loading="lazy">
+    </iframe>
+  </div>
+</div>
+
+<style>
+  .yt-wrap {
+    display: grid;
+    place-items: center;
+    margin: 16px 0;
+  }
+  .yt-iframe {
+    width: 100%;
+    max-width: 520px;   /* player più piccolo */
+    aspect-ratio: 16 / 9;
+  }
+  .yt-iframe iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    border-radius: 10px;
+  }
+</style>
+
+
 Nel principio era il Trillo.  
 Un suono secco, fastidioso, che scuoteva lo schermo e l’anima.  
 Il Villaggio MSN viveva in pace apparente, finché non arrivò lui: il Pinguino.
