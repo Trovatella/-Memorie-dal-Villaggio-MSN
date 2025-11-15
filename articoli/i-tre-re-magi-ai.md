@@ -71,5 +71,12 @@ E il **Figlio Azzurro di Redmond**, Copilot, il popolo oppresso dal male aiutava
 
 E fu così che  nacque la leggenda: 
 
-Due dei tre Re Magi — **Copilot contro Gemini** —  erano coinvolte
-nelle epiche battaglie del sapere.
+Due dei tre Re Magi — **Copilot contro Gemini** —  
+nelle epiche battaglie del sapere erano coinvolte. 
+
+Una battaglia senza fine 
+
+Nonostante le sanzioni di Europa
+
+Che portò all'inevitabile 
+**Apocalisse**... 
