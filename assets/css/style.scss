@@ -11,7 +11,7 @@
   font-style: normal;
 }
 
-/* Corpo del testo - contrasto migliorato */
+/* Corpo del testo - contrasto massimo */
 .markdown-body,
 .markdown-body p,
 .markdown-body li,
@@ -19,9 +19,9 @@
 .post-content,
 article {
   font-family: 'StyleturnDEMO', serif !important;
-  color: #1a1a1a !important; /* grigio scurissimo per leggibilità */
-  line-height: 1.6; /* spaziatura migliore */
-  font-size: 1.05em; /* leggermente più grande per mobile */
+  color: #000000 !important; /* nero pieno per massimo contrasto */
+  line-height: 1.6;
+  font-size: 1.05em;
 }
 
 /* Titoli principali */
