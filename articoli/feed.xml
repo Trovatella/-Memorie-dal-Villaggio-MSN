@@ -1,0 +1,42 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title | xml_escape }}</title>
+
+  <!-- Home del sito -->
+  <link href="{{ site.url }}{{ site.baseurl | prepend:'/' }}" rel="alternate"/>
+
+  <!-- Link autore (opzionale) -->
+  {% if site.author %}
+  <author>
+    <name>{{ site.author | xml_escape }}</name>
+  </author>
+  {% endif %}
+
+  <!-- Link a questo feed (self) -->
+  <link href="{{ site.url }}{{ site.baseurl | prepend:'/' }}/feed.xml" rel="self" type="application/atom+xml"/>
+
+  <!-- Ultimo aggiornamento -->
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+
+  <!-- ID univoco del feed -->
+  <id>{{ site.url }}{{ site.baseurl | prepend:'/' }}/</id>
+
+  {% for post in site.posts limit:20 %}
+  <entry>
+    <title>{{ post.title | xml_escape }}</title>
+
+    <!-- URL canonico del post -->
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <id>{{ site.url }}{{ post.url }}</id>
+
+    <!-- Data del post -->
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+
+    <!-- Contenuto HTML del post (escapato per XML) -->
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>
