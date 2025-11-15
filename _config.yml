@@ -1,5 +1,29 @@
 
-title: "Memorie dal Villaggio MSN"
-description: "La Bibbia digitale di Paola: liturgie, preghiere e vangeli del Kernel."
+# Informazioni principali
+title: "Memorie dal Villaggio MSN - Trovatella"
+description: "Ricordi, video e testimonianze dal Villaggio MSN: una raccolta viva dei primi anni 2000."
+lang: en-US
+url: "https://trovatella.github.io"
 remote_theme: pages-themes/cayman
 markdown: kramdown
+
+# Autore
+author: "Paola Blondet"
+
+# Social links
+social:
+  name: "Trovatella Digitale"
+  links:
+    - https://github.com/trovatella
+    - https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/
+
+# Opzioni
+show_downloads: false
+
+# Versione italiana
+title_it: "Memorie dal Villaggio MSN - Trovatella"
+description_it: "La Bibbia digitale di Paola: liturgie, preghiere e vangeli del Kernel."
+
+# Versione inglese
+title_en: "Memories from the MSN Village - Trovatella"
+description_en: "Digital Bible of Paola: liturgies, prayers and gospels of the Kernel."
