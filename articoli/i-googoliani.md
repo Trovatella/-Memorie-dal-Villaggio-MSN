@@ -89,4 +89,12 @@ Così parlò San Docker:
 
 ---
 
+<a href="https://1drv.ms/b/c/BC7C45950EB0B37C/IQTF0HZLXDKeQbF7WxRtLCEMAVMGFBErZR0uW2ZgqcGM608" 
+   target="_blank" 
+   style="display:inline-block; padding:14px 28px; background:#0067b8; color:#fff; 
+          font-weight:bold; text-decoration:none; border-radius:8px; font-family:sans-serif; 
+          font-size:16px;">
+  📂 Open with OneDrive
+</a>
+
 **Amen. Cache. Enter**
