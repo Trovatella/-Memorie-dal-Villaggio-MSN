@@ -200,43 +200,34 @@ come una trovatella nelle strade del digitale.
 ## ✨ Chi sono
 # 📜 How to Redmondize your Smartphone 💕😘
 
-<!-- Bottone per scaricare il PDF -->
-<a href="linux-and-microsoft-love-each-others.pdf" download class="pdf-btn">
-  <img src="Linux-Microsoft-love-each-others.png" alt="Linux and Microsoft love each others" class="icon">
-  <span>Scarica lo Scroll di Redmond</span>
+<!-- Bottone con immagine che apre il PDF -->
+<a href="How-to-Redmondize-your-Smartphone.pdf" target="_blank" class="scroll-btn">
+  <img src="Linux-Microsoft-love-each-others.png" alt="Linux and Microsoft love each others">
 </a>
 
 <style>
-  .pdf-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    padding: 10px 16px;
-    background: linear-gradient(135deg, #0078D4, #2D2D2D);
-    color: #fff;
-    font-weight: 600;
-    text-decoration: none;
-    border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+  .scroll-btn {
+    display: block;
+    margin: 24px auto;
+    max-width: 320px;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
-    margin: 20px auto;
-    max-width: fit-content;
   }
-  .pdf-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 10px rgba(0,0,0,0.35);
+  .scroll-btn:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   }
-  .pdf-btn .icon {
-    height: 32px;
-    width: auto;
-    border-radius: 6px;
+  .scroll-btn img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.25);
   }
 </style>
 
+    
   
-    From 1982 to 2025. From the first Pixels to the now Pixel 10
-  </strong>
-</div>
+*From 1982 toll 2025. From the first pixels to the now Pixel (10)*
+
 
 <!-- Video centrato e responsive -->
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; margin:20px auto;">
