@@ -3,10 +3,17 @@ Because I can see that GNU is like a Religion 😊
 
 ## If you don't have sense of humor you better don't read my website. 🤷‍♀️
 
-# 🌟 Biografia di Trovatella (Paola Blondet) ✒️📜
 
-<a href="https://youtu.be/4w9uy4Ip5Zs?si=YO6s9NP_sNsDIQDy" target="_blank">
-  <embed src="photo_mio.pdf" type="application/pdf" width="200" height="200" oncontextmenu="return false;"></a>
+<h2> 🪔🕯️📜✨ Biography of Trovatella (Foundling) (Paola Blondet) ✒️📜</h2>
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="photo_mio.pdf" target="_blank" 
+     style="display: inline-block; padding: 10px 15px; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s ease;"
+     onmouseover="this.style.backgroundColor='#357ABD'" 
+     onmouseout="this.style.backgroundColor='#4A90E2'">
+    📜 
+  </a>
+</div>
 
 ## Perché questo sito è in lingua italiana? Perché di siti web scritti in inglese ce ne sono veramente troppi! 😜🍷
 E io non mi vergogno di essere Italiana. 
