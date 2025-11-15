@@ -57,6 +57,12 @@ Spargendo voci false sul **Profeta del Codice, Bill Gates**🙏,
 Guadagnando click  
 E comprandosi anime  
 
+<div style="position: relative; padding-bottom: 65%; height: 0; overflow: hidden;">
+  <iframe src="https://1drv.ms/b/c/BC7C45950EB0B37C/IQTpVO7F9LCdSKeDsG9KeGbVAbyu5aok6ITmS6leBjAy_2I" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+          scrolling="yes"></iframe>
+</div>
+
 Offrendo poche indulgenze talvolta
 Ma sempre a caro prezzo.  
 
