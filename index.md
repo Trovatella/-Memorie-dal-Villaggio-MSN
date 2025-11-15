@@ -200,6 +200,7 @@ come una trovatella nelle strade del digitale.
 ## ✨ Chi sono
 # 📜 How to Redmondize your Smartphone 💕😘
 
+**Click on this Button ⬇️🐧🔵**
 
 <!-- Bottone con immagine che apre il PDF -->
 <a href="How-to-Redmondize-your-Smartphone.pdf" target="_blank" class="scroll-btn">
