@@ -3,6 +3,7 @@ title: "Memorie dal Villaggio MSN - Trovatella"
 description: "Ricordi, video e testimonianze dal Villaggio MSN: una raccolta viva dei primi anni 2000."
 lang: en-US
 url: "https://trovatella.github.io"
+baseurl: "/-Memorie-dal-Villaggio-MSN"
 remote_theme: pages-themes/cayman
 markdown: kramdown
 
