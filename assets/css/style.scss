@@ -11,15 +11,38 @@
   font-style: normal;
 }
 
+/* Sfondo pergamena sabbia chiara separato */
+body {
+  background-color: #f0dcb3 !important;
+  position: relative;
+  z-index: 0;
+}
+
+/* Strato sfondo luminoso */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-color: #f0dcb3;
+  background-image: url('/assets/css/assets/img/parchment-paper-background-neo44rwl3hnjm7xp.jpg');
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: lighten;
+  filter: brightness(1.15);
+}
+
 /* Corpo del testo - contrasto massimo */
 .markdown-body,
 .markdown-body p,
 .markdown-body li,
-.markdown-body blockquote,
 .post-content,
-article {
+article,
+article p,
+article li {
   font-family: 'StyleturnDEMO', serif !important;
-  color: #000000 !important; /* nero pieno per massimo contrasto */
+  color: #000000 !important; /* nero pieno */
   line-height: 1.6;
   font-size: 1.05em;
 }
@@ -40,13 +63,14 @@ h1, h2 {
 
 /* Link */
 a {
-  color: #4b2e2e; /* marrone scuro */
+  font-family: 'Verdana', sans-serif !important;
+  color: #4b2e2e;
   text-decoration: none;
-  font-weight: 600; /* più leggibile */
+  font-weight: 600;
 }
 
 a:hover {
-  color: #6b3f3f; /* marrone più chiaro al passaggio */
+  color: #6b3f3f;
   text-decoration: underline;
 }
 
@@ -61,7 +85,7 @@ a:hover {
   max-width: 100%;
 }
 
-/* Classe per titolo accessibile ma invisibile */
+/* Titolo invisibile ma accessibile */
 .sr-only {
   position: absolute;
   width: 1px;
@@ -74,20 +98,9 @@ a:hover {
   border: 0;
 }
 
-/* Sfondo pergamena sabbia chiara */
-body {
-  background-color: #f0dcb3 !important; /* sabbia chiara */
-  background-image: url('/assets/css/assets/img/parchment-paper-background-neo44rwl3hnjm7xp.jpg');
-  background-repeat: repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  background-blend-mode: lighten;
-  filter: brightness(1.15); /* leggermente meno luminoso per contrasto */
-}
-
 /* Contenuto leggibile sopra lo sfondo */
 .page-content {
-  background-color: rgba(255, 245, 225, 0.92); /* panna calda semi-trasparente */
+  background-color: rgba(255, 245, 225, 0.92);
   padding: 2em;
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.2);
@@ -95,12 +108,13 @@ body {
 
 /* Citazioni in stile cartiglio medievale */
 blockquote {
-  background-color: rgba(193, 154, 107, 0.25); /* camel trasparente */
-  border-left: 6px solid #4b2e2e; /* marrone scuro per il bordo */
+  font-family: 'StyleturnDEMO', serif !important;
+  background-color: rgba(193, 154, 107, 0.25);
+  border-left: 6px solid #4b2e2e;
   padding: 1em 1.5em;
   margin: 1.5em 0;
   font-style: italic;
-  color: #002147 !important; /* blu inchiostro */
+  color: #002147 !important;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
 }
@@ -113,7 +127,8 @@ blockquote {
   .markdown-body,
   .post-content,
   article {
-    font-size: 1.1em; /* più grande su schermi piccoli */
+    font-size: 1.1em;
     line-height: 1.7;
   }
 }
+
