@@ -66,12 +66,13 @@ E comprandosi anime
 Offrendo poche indulgenze talvolta
 Ma sempre a caro prezzo.  
 
-<a href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/articoli/i-googoliani.html" 
+<a href="https://1drv.ms/b/c/BC7C45950EB0B37C/IQSrqUShNuGiQo1W-Kf2LlpeAcOIHYeUMVjnAId3oXcBIhM" 
    target="_blank" 
    style="display:inline-block; padding:12px 20px; background:#0067b8; color:#fff; 
           font-weight:bold; text-decoration:none; border-radius:6px; font-family:sans-serif;">
-  📄 Apri il PDF dell’articolo "I Googoliani"
+  📄 Apri il PDF su OneDrive
 </a>
+
 
 ---
 
