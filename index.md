@@ -100,6 +100,14 @@ article blockquote {
   </iframe>
 </div>
 
+
+<div style="text-align: center; margin: 20px 0;">
+  <p>
+    🔗 Short Link: 
+    <a href="http://bit.ly/4r0NVLz" target="_blank">http://bit.ly/4r0NVLz</a>
+  </p>
+</div>
+
 # Incipit delle Memorie dal Villaggio MSN 
 
 # ⚔️🐧🔥 Le distorsioni russe di GNU rivelate dai vangeli di San Grep, San SSH e San Root [Russia’s AI-powered cyberattacks threaten to outpace Western defenses (FDD, 2025)](https://www.fdd.org/analysis/policy_briefs/2025/02/20/russias-ai-powered-cyberattacks-threaten-to-outpace-western-defenses/)
