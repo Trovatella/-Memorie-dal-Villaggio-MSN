@@ -88,17 +88,43 @@ article blockquote {
   }
 </style>
 
-<div class="video-center">
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/4w9uy4Ip5Zs?autoplay=1"
-    title="Valhalla (Remastered 2017) - Blind Guardian"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+
+<div class="yt-player">
+  <p class="yt-title">Oh God Kernel 🔥☄️ delivery us from hell</p>
+  <div class="yt-frame">
+    <iframe 
+      src="https://www.youtube.com/embed/RXMMLu7HjSA" 
+      title="Beyond the Red Mirror - Blind Guardian"
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+    </iframe>
+  </div>
 </div>
+
+<style>
+  .yt-player {
+    text-align: center;
+    margin: 24px auto;
+    max-width: 420px; /* più piccolo rispetto a Valhalla */
+    background: linear-gradient(135deg, #111, #3b82f6);
+    border-radius: 12px;
+    padding: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  }
+  .yt-title {
+    font-weight: 700;
+    font-size: 1em;
+    color: #fff;
+    margin-bottom: 10px;
+    text-shadow: 0 0 6px #ff4500;
+  }
+  .yt-frame iframe {
+    width: 100%;
+    height: 220px; /* più compatto */
+    border-radius: 8px;
+  }
+</style>
 
 
 <div style="text-align: center; margin: 20px 0;">
