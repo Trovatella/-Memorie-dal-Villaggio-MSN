@@ -110,6 +110,10 @@ article blockquote {
 
 # Incipit delle Memorie dal Villaggio MSN 
 
+<button onclick="document.getElementById('audioTruth').play()">Ascolta la verità 🎧</button>
+<audio id="audioTruth" src="truth.mp3"></audio>
+
+
 # ⚔️🐧🔥 Le distorsioni russe di GNU rivelate dai vangeli di San Grep, San SSH e San Root [Russia’s AI-powered cyberattacks threaten to outpace Western defenses (FDD, 2025)](https://www.fdd.org/analysis/policy_briefs/2025/02/20/russias-ai-powered-cyberattacks-threaten-to-outpace-western-defenses/)
 
 <a href="https://youtube.com/playlist?list=PLOVqzPZ2CQZBMWv_tQ_bX69rAmrYDq9o4&si=clhDUmQCLxiqMDZJ" target="_blank">
