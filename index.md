@@ -148,6 +148,35 @@ article blockquote {
   🎶 Vai alla mia Playlist YouTube
 </a>
 
+
+---
+layout: default
+title: "Memorie dal Villaggio MSN - Trovatella"
+description: "Ricordi, video e testimonianze dal Villaggio MSN: una raccolta viva dei primi anni 2000."
+---
+
+# Memorie dal Villaggio MSN ✨
+
+Benvenuta/o nel mio Atlante digitale.  
+Qui raccolgo **ricordi, video e testimonianze** dei primi anni 2000.
+
+---
+
+## 🔗 Iscriviti al Feed RSS
+
+<a href="/feed.xml" 
+   style="display:inline-block;
+          background-color:#157878;
+          color:#fff;
+          padding:12px 20px;
+          border-radius:50px;
+          text-decoration:none;
+          font-weight:bold;
+          font-size:18px;">
+   🐧 RSS Feed
+</a>
+
+
 ## 📜 Epistola di San Grep e San Root
 
 **1.** In quei giorni, il Popolo del Kernel vegliava sulle librerie e sui processi, e San Grep scrutava i log come profeta.  
