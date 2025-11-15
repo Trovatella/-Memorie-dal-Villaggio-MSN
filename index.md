@@ -224,9 +224,12 @@ come una trovatella nelle strade del digitale.
   }
 </style>
 
+
+
     
   
-*From 1982 toll 2025. From the first pixels to the now Pixel (10)*
+*From 1982 to 2025. From the first pixels to the now Pixel (10)*
+
 
 
 <!-- Video centrato e responsive -->
