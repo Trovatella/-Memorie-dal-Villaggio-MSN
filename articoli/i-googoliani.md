@@ -50,6 +50,10 @@ Spargendo voci false sul **Profeta del Codice, Bill Gates**🙏,
   Source Code su Goodreads
 </a>
 
+<a href="https://law.stanford.edu/publications/googles-role-in-spreading-fake-news-and-misinformation/" target="_blank">
+  Google’s Role in Spreading Fake News and Misinformation (Stanford Law)
+</a>
+
 Guadagnando click  
 E comprandosi anime  
 
