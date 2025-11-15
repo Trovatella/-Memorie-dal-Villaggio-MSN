@@ -200,21 +200,40 @@ come una trovatella nelle strade del digitale.
 ## ✨ Chi sono
 # 📜 How to Redmondize your Smartphone 💕😘
 
+<!-- Bottone per scaricare il PDF -->
+<a href="linux-and-microsoft-love-each-others.pdf" download class="pdf-btn">
+  <img src="Linux-Microsoft-love-each-others.png" alt="Linux and Microsoft love each others" class="icon">
+  <span>Scarica lo Scroll di Redmond</span>
+</a>
 
-<h2 align="center">🥚 The Scroll of Redmondization</h2>
+<style>
+  .pdf-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 16px;
+    background: linear-gradient(135deg, #0078D4, #2D2D2D);
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    margin: 20px auto;
+    max-width: fit-content;
+  }
+  .pdf-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.35);
+  }
+  .pdf-btn .icon {
+    height: 32px;
+    width: auto;
+    border-radius: 6px;
+  }
+</style>
 
-<div style="max-width:900px; margin:0 auto;">
-  <iframe
-    src="https://1drv.ms/b/c/BC7C45950EB0B37C/IQQ-ZCSJYN2WSazsuQuqIJKCAcHCZyGMqvzEqIpg_hl6y_Y"
-    width="100%" height="600" frameborder="0"
-    style="border:4px solid gold; border-radius:8px;" scrolling="yes">
-  </iframe>
-</div>
-
-
-<!-- Frase epica sopra il tasto Biografia -->
-<div style="text-align:center; margin:20px 0;">
-  <strong style="color:#003366; font-size:1.4em;">
+  
     From 1982 to 2025. From the first Pixels to the now Pixel 10
   </strong>
 </div>
