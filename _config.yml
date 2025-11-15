@@ -1,4 +1,3 @@
-
 # Informazioni principali
 title: "Memorie dal Villaggio MSN - Trovatella"
 description: "Ricordi, video e testimonianze dal Villaggio MSN: una raccolta viva dei primi anni 2000."
@@ -27,3 +26,7 @@ description_it: "La Bibbia digitale di Paola: liturgie, preghiere e vangeli del 
 # Versione inglese
 title_en: "Memories from the MSN Village - Trovatella"
 description_en: "Digital Bible of Paola: liturgies, prayers and gospels of the Kernel."
+
+# Plugin per RSS feed
+plugins:
+  - jekyll-feed
