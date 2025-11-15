@@ -200,9 +200,10 @@ come una trovatella nelle strade del digitale.
 ## ✨ Chi sono
 # 📜 How to Redmondize your Smartphone 💕😘
 
+
 <!-- Bottone con immagine che apre il PDF -->
 <a href="How-to-Redmondize-your-Smartphone.pdf" target="_blank" class="scroll-btn">
-  <img src="Linux-Microsoft-love-each-others.png" alt="Linux and Microsoft love each others">
+  <img src="7826.png" alt="Linux and Microsoft love each others">
 </a>
 
 <style>
@@ -223,6 +224,8 @@ come una trovatella nelle strade del digitale.
     box-shadow: 0 2px 6px rgba(0,0,0,0.25);
   }
 </style>
+
+
 
 
 
