@@ -207,9 +207,10 @@ void setup() {
 
 void loop() {
     // Aggiornamenti del display
-}
+} //, 
 
-5.## 📜 Comandamento OLED Anti‑Script
+
+5.**📜 Comandamento OLED Anti‑Script**
 
 Dal Vangelo secondo San Git
 
@@ -251,9 +252,9 @@ void loop() {
 
 ----------
 
-*****E così sia eternamente 
+E così sia eternamente 
 Nei secoli di C++
-e di Sudo Bash*****
+e di Sudo Bash
 
 Amen. Cache. Enter 
 Kernel 🙏🐧
