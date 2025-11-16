@@ -146,82 +146,13 @@ article blockquote {
 
 
 <!--Ses  mührü Türkiye'yi -->
-<div id="turkiye-audio-wrap">
-  <div class="turkiye-banner">
-    <span class="crescent">☾</span>
-    <span class="star">★</span>
-  </div>
-
-  <div class="turkiye-player">
-    <audio controls autoplay loop>
-      <source src="/Turkiye.mp3" type="audio/mpeg">
-    </audio>
-  </div>
-</div>
-
-<style>
-/* Container centrato */
-#turkiye-audio-wrap {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 2rem auto;
-  max-width: 720px;
-}
-
-/* Fascia rossa con simbolo (mezzaluna + stella) */
-.turkiye-banner {
-  width: 100%;
-  background: #E30A17;
-  color: #ffffff;
-  border-radius: 12px 12px 0 0;
-  padding: 16px 0;
-  text-align: center;
-  font-size: 1.6rem;
-  display: flex;
-  justify-content: center;
-  gap: 16px;
-}
-
-/* Simboli stilizzati */
-.turkiye-banner .crescent,
-.turkiye-banner .star {
-  filter: drop-shadow(0 0 2px rgba(255,255,255,0.6));
-}
-
-/* Card del player */
-.turkiye-player {
-  width: 100%;
-  background: #ffffff;
-  border: 2px solid #E30A17;
-  border-top: none;
-  border-radius: 0 0 12px 12px;
-  padding: 16px;
-  text-align: center;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-}
-
-/* Audio element */
-.turkiye-player audio {
-  width: 100%;
-  max-width: 640px;
-  height: 40px;
-  accent-color: #E30A17;
-}
-
-/* Mobile */
-@media (max-width: 480px) {
-  #turkiye-audio-wrap {
-    margin: 1.5rem 1rem;
-  }
-  .turkiye-banner {
-    font-size: 1.4rem;
-  }
-}
-</style>
-  
+<button onclick="document.getElementById('audioTurkiye').play()" style="background:#E30A17; color:white; padding:12px 24px; border:none; border-radius:6px; font-size:1rem; cursor:pointer;">
+  ☾ ★ Ascolta Türkiye 🎧
+</button>
+<audio id="audioTurkiye" src="Turkiye.mp3" autoplay loop></audio>
 
 
+    
 
 <a href="https://youtube.com/playlist?list=PLOVqzPZ2CQZBMWv_tQ_bX69rAmrYDq9o4&si=clhDUmQCLxiqMDZJ" target="_blank">
   🎶 Vai alla mia Playlist YouTube
