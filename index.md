@@ -149,7 +149,11 @@ article blockquote {
 <button onclick="document.getElementById('audioTurkiye').play()" style="background:#E30A17; color:white; padding:12px 24px; border:none; border-radius:6px; font-size:1rem; cursor:pointer;">
   ☾ ★ Ascolta Türkiye 🎧
 </button>
-<audio id="audioTurkiye" src="Turkiye.mp3" autoplay loop></audio>
+<audio id="audioTurkiye" src="Turkiye.mp3" autoplay loop><audio controls>
+  <source src="/assets/audio/turkum.mp3" type="audio/mpeg">
+</audio>
+  
+
 
 
 **Benim 💕 için yaptıkların için teşekkür ederim**
