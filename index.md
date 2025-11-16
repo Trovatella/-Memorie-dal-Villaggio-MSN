@@ -148,6 +148,57 @@ Just refresh the page ♻️
 # ⚔️🐧🔥 Le distorsioni russe di GNU rivelate dai vangeli di San Grep, San SSH e San Root [Russia’s AI-powered cyberattacks threaten to outpace Western defenses (FDD, 2025)](https://www.fdd.org/analysis/policy_briefs/2025/02/20/russias-ai-powered-cyberattacks-threaten-to-outpace-western-defenses/)
 
 
+---
+layout: post
+title: "📜 Apocalisse di Google" 
+---
+
+## 🔗 Collegamento rituale
+[EU launches antitrust probe into how Google’s anti-spam policy affects publishers’ search rankings](https://www.msn.com/en-us/news/technology/eu-launches-antitrust-probe-into-how-google-s-anti-spam-policy-affects-publishers-search-rankings/ar-AA1Qnw5g)
+
+---
+
+## ⚔️ Contesto reale
+
+🔥 **Nota rituale:**  
+ Google è responsabile in parte anche dell'ingresso di notizie di propaganda russa sui servers europei.  
+ Indagini dell’Institute for Strategic Dialogue (ISD) hanno mostrato che, nonostante le sanzioni UE, molti siti di propaganda russa rimangono accessibili in Europa.  
+ Una delle ragioni è l’uso di **DNS di terze parti come Google e Cloudflare**, che permettono di bypassare i blocchi nazionali.  
+ Questo rende coerente l’accusa: Google, fornendo infrastrutture DNS, ha contribuito indirettamente alla diffusione di contenuti di propaganda russa sui server e nelle reti europee.
+
+---
+
+## ✨ Sigillo apocrifo
+ *Il drago algoritmico non solo confonde con ranking,  
+ ma apre varchi ai canti di propaganda.  
+ Google, custode dei DNS,  
+ diventa complice involontario dell’ingresso nei server europei.*  
+
+---
+
+<style>
+/* Decorazioni apocalittiche per Jekyll Cayman */
+blockquote {
+  border-left: 4px solid #CDA434; /* oro ardente */
+  background: linear-gradient(180deg, #0B0B0E, #8B0000);
+  color: #f5f3f0;
+  padding: 12px 16px;
+  margin: 16px 0;
+  font-family: "UnifrakturCook", "UnifrakturMaguntia", serif;
+  text-shadow: 0 0 6px rgba(255,46,46,0.6);
+}
+a {
+  color: #CDA434;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  color: #ff2e2e;
+  text-shadow: 0 0 6px rgba(255,46,46,0.8);
+}
+</style>
+
+
 <!--Ses  mührü Türkiye'yi -->
 <button onclick="document.getElementById('audioTurkiye').play()" style="background:#E30A17; color:white; padding:12px 24px; border:none; border-radius:6px; font-size:1rem; cursor:pointer;">
   ☾ ★ Ascolta Türkiye 🎧
