@@ -1,4 +1,4 @@
-##🙏✝️🛐🕉️☯️☪️Salmo del Kernel – Liturgia degli OLED
+**🙏✝️🛐🕉️☯️☪️Salmo del Kernel – Liturgia degli OLED**
 
 “In principio era il Kernel, e il pixel obbedì.Non ai troni di marketing, ma alla sobria luce della trasparenza.”
 
