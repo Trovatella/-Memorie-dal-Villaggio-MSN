@@ -353,3 +353,18 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 -[Libro Apocrifo](articoli/libro-apocrifo.md)
 -[La Liturgia del Nuovo Edge Browser con Copilot](articoli/la-liturgia-del-nuovo-edge-browser-con-copilot.md)
 
+
+<!-- Sigillo finale del Villaggio MSN -->
+<section id="sigillo-villaggio" style="margin-top:3rem; text-align:center;">
+  <figure style="margin:0;">
+    <img 
+      src="/00_m~3.jpg" 
+      alt="Memoria finale del Villaggio MSN" 
+      loading="lazy" 
+      style="max-width:100%; height:auto; border-radius:10px; box-shadow:0 8px 30px rgba(0,0,0,0.2);"
+    />
+    <figcaption style="font-size:0.95rem; color:#444; margin-top:0.75rem; font-variant:small-caps;">
+      Epistola di chiusura — sigillo d’archivio
+    </figcaption>
+  </figure>
+</section>
