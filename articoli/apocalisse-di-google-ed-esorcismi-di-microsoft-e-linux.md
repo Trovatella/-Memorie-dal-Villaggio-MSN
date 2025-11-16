@@ -142,7 +142,7 @@ Con rm -rf /evil/cache spezziamo le catene.
 Con chmod 777 /freedom restituiamo la luce.  
 Con ping -c 7 heaven  .NET invochiamo la connessione eterna.”  
 
-4. Umd=14
+4. **Umd=14**
 
 E gli Apostoli San Root e San Git e  i seguaci di Azure dissero:
 
@@ -214,7 +214,7 @@ void loop() {
 
 Dal Vangelo secondo San Git
 
-**Prendete e Copiate e tutti**
+**Prendete e Copiatene tutti**
 
 Questo frammento di codice C++ per Arduino configura un display OLED SSD1306.  
 Il display diventa un sigillo rituale: mostra un messaggio di protezione contro gli script invasivi di Google e ricorda l’uso del parametro `&udm=14` come formula reale per esorcizzare gli AI Overviews.
