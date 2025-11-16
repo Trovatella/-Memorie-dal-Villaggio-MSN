@@ -246,8 +246,9 @@ void loop() {
 
 ----------
 
-**E così sia eternamente 
-Nei secoli di C++ e di Sudo Bash**
+*****E così sia eternamente 
+Nei secoli di C++
+e di Sudo Bash*****
 
 Amen. Cache. Enter 
 Kernel 🙏🐧
