@@ -462,6 +462,10 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 
 🕉️✝️☪️☯️
 
+🛐✝️🐧🕉️
+
+🙏[Liturgia tecnologica per la privacy digitale](articoli/liturgia-tecnologica-per-la-privacy-digitale.md) 
+
 # 🌟 Memoria finale del Villaggio MSN
 
 Benvenuta nel portale della **Trovatella Digitale** ✨  
