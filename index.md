@@ -147,18 +147,15 @@ article blockquote {
 
 <!--Ses  mührü Türkiye'yi -->
 <div id="turkiye-audio-wrap">
-  <div class="turkiye-banner" aria-hidden="true">
+  <div class="turkiye-banner">
     <span class="crescent">☾</span>
     <span class="star">★</span>
   </div>
 
   <div class="turkiye-player">
-    <p class="title">Türkiye — Sigillo sonoro</p>
-    <audio controls preload="none">
+    <audio controls autoplay loop>
       <source src="/Turkiye.mp3" type="audio/mpeg">
-      Il tuo browser non supporta l'audio HTML5.
     </audio>
-    <p class="hint">Clicca Play per ascoltare. Volume consigliato medio.</p>
   </div>
 </div>
 
@@ -175,13 +172,11 @@ article blockquote {
 /* Fascia rossa con simbolo (mezzaluna + stella) */
 .turkiye-banner {
   width: 100%;
-  background: #E30A17; /* Rosso della bandiera turca */
+  background: #E30A17;
   color: #ffffff;
   border-radius: 12px 12px 0 0;
   padding: 16px 0;
   text-align: center;
-  letter-spacing: 2px;
-  position: relative;
   font-size: 1.6rem;
   display: flex;
   justify-content: center;
@@ -189,11 +184,8 @@ article blockquote {
 }
 
 /* Simboli stilizzati */
-.turkiye-banner .crescent {
-  filter: drop-shadow(0 0 2px rgba(255,255,255,0.6));
-}
+.turkiye-banner .crescent,
 .turkiye-banner .star {
-  transform: scale(0.9) rotate(4deg);
   filter: drop-shadow(0 0 2px rgba(255,255,255,0.6));
 }
 
@@ -209,38 +201,25 @@ article blockquote {
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
 }
 
-/* Titolo */
-.turkiye-player .title {
-  margin: 0 0 8px 0;
-  font-weight: 700;
-  color: #E30A17;
-}
-
-/* Audio element: allarga e uniforma */
+/* Audio element */
 .turkiye-player audio {
   width: 100%;
   max-width: 640px;
   height: 40px;
-  accent-color: #E30A17; /* colore dei controlli in browser compatibili */
+  accent-color: #E30A17;
 }
 
-/* Nota */
-.turkiye-player .hint {
-  margin: 8px 0 0 0;
-  font-size: 0.9rem;
-  color: #555;
-}
-
-/* Tema Cayman: armonizza margini su mobile */
+/* Mobile */
 @media (max-width: 480px) {
   #turkiye-audio-wrap {
     margin: 1.5rem 1rem;
   }
-  .turkiye-banner { font-size: 1.4rem; }
+  .turkiye-banner {
+    font-size: 1.4rem;
+  }
 }
 </style>
-
-
+  
 
 
 
