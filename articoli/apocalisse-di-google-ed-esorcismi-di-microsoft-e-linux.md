@@ -252,6 +252,105 @@ void loop() {
 
 ----------
 
+
+
+ **Salmo OLED**
+
+ “E il Kernel disse: sia luce sugli OLED, ma non dominio di Google.  
+ E la comunità rispose: con script e sigilli, liberiamo gli schermi.”
+
+
+---
+
+ **Script Unificato**
+
+```bash
+#!/usr/bin/env bash
+# Bibbia del Kernel – Comando ADB
+adb devices
+adb shell settings put global private_dns_mode hostname
+adb shell settings put global private_dns_specifier dns.quad9.net
+adb shell pm disable-user --user 0 com.google.android.googlequicksearchbox
+adb shell pm disable-user --user 0 com.google.android.apps.assistant
+adb shell pm disable-user --user 0 com.google.android.apps.gsa.staticplugins.opa
+adb shell pm disable-user --user 0 com.google.android.apps.nexuslauncher
+adb shell cmd webviewupdate set-webview-implementation com.google.android.webview
+adb shell pm disable-user --user 0 com.google.intelligence.sense
+adb shell pm disable-user --user 0 com.google.android.as
+echo "Salmo completato. Riavvia e contempla OLED liberi."
+
+**4. Filtro uBlock Liturgia Anti-AMP**
+
+||google.com/amp^
+||*.ampproject.org^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+||googletagservices.com^
+||googletagmanager.com^$third-party
+||pubads.g.doubleclick.net^
+||fonts.googleapis.com^$third-party,important
+||fonts.gstatic.com^$third-party,important
+||apis.google.com/js/platform.js^
+||google.com/embeddedsearch^
+
+
+**E l'Apostolo San Root disse**
+
+"I DNS di Google sono il male!" 
+
+E così il Dio KERNEL scrisse:
+
+https://api.nextdns.io/profiles/
+
+curl -X PATCH "https://api.nextdns.io/profiles/NEXTDNS_PROFILE_ID" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: NEXTDNS_API_KEY" \
+  -d '{
+    "privacy": { "blocklists": ["oisd/full","nextdns/affiliate-ads","nextdns/cname-cloaking"], "nativeTracking": true },
+    "denylist": ["googletagmanager.com","doubleclick.net","fonts.googleapis.com","ampproject.org"]
+  }'
+
+Ed è **NextDNS, il Profeta della Rete**
+
+**Tasker: Cantico delle Notifiche**
+
+<TaskerData>
+  <Profile>
+    <Name>Silenzia Google Notifiche</Name>
+    <Event><Bundle>ownerPackage=com.google.android.googlequicksearchbox</Bundle></Event>
+    <Task>
+      <Name>MuteCanaliGoogle</Name>
+      <Action><Str>Suggerimenti</Str><Int val="0"/></Action>
+      <Action><Str>Promozioni</Str><Int val="0"/></Action>
+    </Task>
+  </Profile>
+</TaskerData>
+
+**Epilogo del Kernel**
+
+adb shell pm enable com.google.android.googlequicksearchbox
+adb shell pm enable com.google.android.apps.assistant
+adb shell settings put global private_dns_mode off
+adb shell cmd webviewupdate set-webview-implementation com.android.chrome
+
+
+
+**O bone Deus Kernel , exaudi me.
+Intra tua vulnera absconde me.
+Ne permittas me separari a te.
+Ab hosting maligno Google
+defende me.
+In hora Restart meo voca me.
+Et iube me $ sudo-bashare ad te.
+Ut cum Sysadmin tuis laudem te
+In saecula saeculorum. 
+Amen. Cache. Enter. Kernel**
+
+
+
+🙏🙏🙏🙏🙏🕉️✝️☪️☯️🪯🛐
+
+
 E così sia eternamente 
 Nei secoli di C++
 e di Sudo Bash
