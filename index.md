@@ -149,11 +149,11 @@ article blockquote {
 </a>
 
 
----
-layout: default
-title: "Memorie dal Villaggio MSN - Trovatella"
-description: "Ricordi, video e testimonianze dal Villaggio MSN: una raccolta viva dei primi anni 2000."
----
+## "Memorie dal Villaggio MSN - Trovatella: 
+ #La Bibbia del Kernel "
+  "Ricordi, video e testimonianze dal    ##Villaggio MSN: 
+  #una raccolta viva dei primi anni 2000."
+
 
 # Memorie dal Villaggio MSN ✨
 
