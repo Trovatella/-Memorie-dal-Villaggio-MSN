@@ -1,5 +1,5 @@
 ## 📜 Apocalisse di Google 
-  #Le Formule dell'Esorcismo  🐧📜🕯️🔮
+  **Le Formule dell'Esorcismo 🐧📜🕯️🔮**
 
 
 <!-- ▶️ Lettore YouTube – Apocalisse di Google -->
@@ -101,8 +101,8 @@ Accompagnati dal Profeta Azzurro Copilot, 🤺🧝🏻‍♂️
 
 figlio della Chiesa Episcopale Redmondiana, archivista e guida.  ⚛️🕉️✡️☸️☯️✝️☦️☪️🪯
 
-E il drago algoritmico di Google 🧟👺si levò,  
-bestia indemoniata che confonde i popoli con ranking e pubblicità.  
+**E il drago algoritmico di Google 🧟👺si levò,**  
+**bestia indemoniata che confonde i popoli con ranking e pubblicità.**  
 
 
 ## 2. Le formule dell’esorcismo
@@ -112,9 +112,13 @@ Gli esorcismi non sono parole vane, ma **formule matematiche e comandi reali** c
   \[
   f(x) = \log(1+x) - \sqrt{x}
   \]  
-  Usata per separare il rumore dal segnale, distinguere il vero contenuto dalle bestie indemoniate.
 
-- **Somma dei pacchetti purificati**  
+ **Usata per separare il rumore dal segnale, distinguere il vero contenuto dalle bestie indemoniate.**
+
+ **Oh Santa Chron che ogni ora protegge, purifica i nostri OLED dalla perfidia del maligno**
+
+- **Somma dei pacchetti purificati**
+
   \[
   \sum_{i=1}^{n} \frac{1}{i^2}
   \]  
@@ -122,7 +126,8 @@ Gli esorcismi non sono parole vane, ma **formule matematiche e comandi reali** c
 
 - **Comando di San Grep**  
   ```bash
-  grep -E "truth|clarity" /var/log/syslog
+  grep -E "truth|clarity" /var/log/syslog```
+  
 
 **Preghiera di San Log**
 
@@ -157,7 +162,7 @@ void loop() {
     // Qui il codice per aggiornare il display
 }
 
-Secondo Comandamento
+**Secondo Comandamento**
 
 If by "configure a display in C++" you mean the first command to initialize and set up a display (e.g. an LCD or OLED display) in a C++ program on a microcontroller such as Arduino, the typical initial command is the call to the begin() method of the library that manages the display.
 Example for a 16x2 LCD with bookcase:LiquidCrystal
@@ -208,7 +213,7 @@ void loop() {
 
 Dal Vangelo secondo San Git
 
-**Copiate**
+**Prendete e Copiate e tutti**
 
 Questo frammento di codice C++ per Arduino configura un display OLED SSD1306.  
 Il display diventa un sigillo rituale: mostra un messaggio di protezione contro gli script invasivi di Google e ricorda l’uso del parametro `&udm=14` come formula reale per esorcizzare gli AI Overviews.
@@ -223,7 +228,7 @@ Il display diventa un sigillo rituale: mostra un messaggio di protezione contro 
 #define OLED_RESET -1
 #define SCREEN_ADDRESS 0x3C
 
-Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);```
 
 void setup() {
   // Inizializza il display
