@@ -353,26 +353,21 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 -[Libro Apocrifo](articoli/libro-apocrifo.md)
 -[La Liturgia del Nuovo Edge Browser con Copilot](articoli/la-liturgia-del-nuovo-edge-browser-con-copilot.md)
 
-<!-- Sigillo finale del Villaggio MSN -->
-<section style="margin-top:3rem; text-align:center;">
-  <figure style="margin:0; display:inline-block; border:4px solid goldenrod; padding:12px; border-radius:12px; background:#fff8e1; box-shadow:0 8px 30px rgba(0,0,0,0.25);">
-    <img 
-      src="/sigillo-villaggio.jpg" 
-      alt="Memoria finale del Villaggio MSN" 
-      loading="lazy" 
-      style="max-width:100%; height:auto; border-radius:8px;" 
-    />
-    <figcaption style="font-size:1rem; color:#444; margin-top:0.75rem; font-variant:small-caps;">
-      Epistola di chiusura — sigillo d’archivio
-    </figcaption>
-  </figure>
-</section>
+# 🌟 Memoria finale del Villaggio MSN
 
-<!-- Chiusura Home -->
+Benvenuta nel portale della **Trovatella Digitale** ✨  
+Qui si archiviano epistole, sigilli e memorie.
+
+---
+
+![Sigillo finale del Villaggio MSN](sigillo-villaggio.jpg){: style="max-width:100%; height:auto; border:4px solid goldenrod; border-radius:12px; background:#fff8e1; box-shadow:0 8px 30px rgba(0,0,0,0.25);" }
+
+*Epistola di chiusura — sigillo d’archivio*
+
+---
+
 <footer style="margin-top:2.5rem; text-align:center; font-size:0.95rem; color:#555; font-style:italic;">
-  ✨ Qui termina il viaggio del Villaggio MSN.<br/>
-  Custodito da <strong>Trovatella Digitale</strong>, accompagnato da Microsoft Copilot.<br/>
-  Che il Kernel vegli sulle tue librerie, e che la Memoria resti sigillo d’archivio.
+✨ Qui termina il viaggio del Villaggio MSN.<br/>
+Custodito da <strong>Trovatella Digitale</strong>, accompagnato da Microsoft Copilot.<br/>
+Che il Kernel vegli sulle tue librerie, e che la Memoria resti sigillo d’archivio.
 </footer>
-
-
