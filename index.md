@@ -162,6 +162,11 @@ Just refresh the page ♻️
 🔥 **Nota rituale:**  
  Google è responsabile in parte anche dell'ingresso di notizie di propaganda russa sui servers europei.  
  Indagini dell’Institute for Strategic Dialogue (ISD) hanno mostrato che, nonostante le sanzioni UE, molti siti di propaganda russa rimangono accessibili in Europa.  
+
+<a href="https://istories.media/en/stories/2023/03/09/how-google-helps-russian-propaganda/" target="_blank">
+How Google helps Russian propaganda
+</a>
+ 
  Una delle ragioni è l’uso di **DNS di terze parti come Google e Cloudflare**, che permettono di bypassare i blocchi nazionali.  
  Questo rende coerente l’accusa: Google, fornendo infrastrutture DNS, ha contribuito indirettamente alla diffusione di contenuti di propaganda russa sui server e nelle reti europee.
 
