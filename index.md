@@ -147,7 +147,28 @@ Just refresh the page ♻️
 
 # ⚔️🐧🔥 Le distorsioni russe di GNU rivelate dai vangeli di San Grep, San SSH e San Root [Russia’s AI-powered cyberattacks threaten to outpace Western defenses (FDD, 2025)](https://www.fdd.org/analysis/policy_briefs/2025/02/20/russias-ai-powered-cyberattacks-threaten-to-outpace-western-defenses/)
 
+<a href="/assets/pdf/google-fueling-russian-propaganda.pdf" target="_blank" class="btn-pdf">
+  🐧 Open Report PDF
+</a>
 
+<style>
+.btn-pdf {
+  display: inline-block;
+  padding: 10px 18px;
+  background: #0a0b0d; /* nero ferro */
+  color: #cda434;      /* oro */
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 6px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+  transition: all 0.3s ease;
+}
+.btn-pdf:hover {
+  background: #b22a2a; /* rosso runico */
+  color: #fff;         /* testo ed emoji diventano bianchi */
+  text-shadow: 0 0 6px rgba(255,255,255,0.6);
+}
+</style>
 
 "📜 Apocalisse di Google" 
 ---
