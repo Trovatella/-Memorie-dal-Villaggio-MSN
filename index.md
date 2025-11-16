@@ -361,6 +361,51 @@ Qui si archiviano epistole, sigilli e memorie.
 
 ---
 
+<!-- Sigillo di protezione — Atlante Digitale -->
+<div style="
+  max-width:720px;
+  margin:24px auto;
+  padding:16px;
+  background:#e6f0ff;            /* bluette chiaro */
+  border:3px solid #d4af37;       /* oro */
+  border-radius:14px;
+  box-shadow:0 10px 28px rgba(0,0,0,0.18);
+">
+  <div style="
+    border:2px solid #d4af37;     /* oro interno */
+    border-radius:10px;
+    padding:18px;
+    background:linear-gradient(180deg,#eef5ff 0%, #dfe9ff 100%);
+  ">
+    <h3 style="
+      margin:0 0 10px 0;
+      font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',sans-serif;
+      font-weight:700;
+      color:#0b2a6b;
+      letter-spacing:0.3px;
+      text-align:center;
+    ">Sigillo di protezione</h3>
+    <p style="
+      margin:0 0 8px 0;
+      font-size:0.98rem;
+      color:#12306f;
+      text-align:center;
+    ">
+      Opera creativa, non offensiva. Atlante digitale per memoria e gioco.
+    </p>
+    <hr style="border:none; border-top:1px solid #d4af37; margin:12px 0;">
+    <p style="
+      margin:0;
+      font-size:0.9rem;
+      color:#1b3c85;
+      text-align:center;
+      font-style:italic;
+    ">
+      ✨ Halleluja al Kernel e ai compilatori di buona volontà ✨
+    </p>
+  </div>
+</div>
+
 ![Sigillo finale del Villaggio MSN](sigillo-villaggio.jpg){: style="max-width:100%; height:auto; border:4px solid goldenrod; border-radius:12px; background:#fff8e1; box-shadow:0 8px 30px rgba(0,0,0,0.25);" }
 
 *Epistola di chiusura — sigillo d’archivio*
