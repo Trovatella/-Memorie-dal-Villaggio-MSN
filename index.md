@@ -170,6 +170,11 @@ How Google helps Russian propaganda
  Una delle ragioni è l’uso di **DNS di terze parti come Google e Cloudflare**, che permettono di bypassare i blocchi nazionali.  
  Questo rende coerente l’accusa: Google, fornendo infrastrutture DNS, ha contribuito indirettamente alla diffusione di contenuti di propaganda russa sui server e nelle reti europee.
 
+<a href="https://tadviser.com/index.php/Article:Google%60s_revenue_and_profits_in_Russia" target="_blank">
+Google’s revenue and profits in Russia — TAdviser
+</a>
+ 
+
 ---
 
 ## ✨ Sigillo apocrifo
