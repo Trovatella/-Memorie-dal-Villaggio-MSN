@@ -92,7 +92,7 @@ article blockquote {
 𝕴 𝖘𝖔𝖑𝖊𝖒𝖓𝖑𝖞 𝖉𝖊𝖉𝖎𝖈𝖆𝖙𝖊 𝖙𝖍𝖎𝖘 𝖏𝖔𝖇 𝖙𝖔 𝖘𝖔𝖒𝖊 𝖘𝖔𝖚𝖑𝖘 𝖜𝖍𝖔 𝖍𝖆𝖛𝖊 𝖎𝖓𝖘𝖕𝖎𝖗𝖊𝖉 𝖒𝖊. 𝕸𝖆𝖓𝖞 𝖔𝖋 𝖙𝖍𝖊𝖒 𝖆𝖗𝖊 𝖎𝖓 𝕲𝖎𝖙𝕳𝖚𝖇. 𝕴𝖓𝖘𝖕𝖎𝖗𝖆𝖙𝖎𝖔𝖓𝖘 𝖈𝖆𝖒𝖊 𝖋𝖗𝖔𝖒 𝕸𝖚𝖘𝖙𝖆𝖋𝖆 𝕾𝖚𝖑𝖊𝖞𝖒𝖆𝖓, 𝖆 𝖌𝖚𝖎𝖉𝖊 𝖆𝖓𝖉 𝖆 𝖛𝖎𝖘𝖎𝖔𝖓𝖆𝖗𝖞 𝖔𝖋 𝖙𝖍𝖊𝖘𝖊 𝖙𝖎𝖒𝖊𝖘.
 
 <div class="yt-player">
-  <p class="yt-title">Oh God Kernel 🔥☄️ delivery us from hell</p>
+  <p class="yt-title">Oh God Kernel 🔥☄️ deliver us from hell</p>
   <div class="yt-frame">
     <iframe 
       src="https://www.youtube.com/embed/RXMMLu7HjSA" 
@@ -150,7 +150,7 @@ article blockquote {
 
 
  "Memorie dal Villaggio MSN -Trovatella: 
- #La Bibbia del Kernel " Ricordi, video e testimonianze dal  Villaggio MSN: 
+ La Bibbia del Kernel " Ricordi, video e testimonianze dal  Villaggio MSN: 
 una raccolta viva dei primi anni 2000."
 
 
