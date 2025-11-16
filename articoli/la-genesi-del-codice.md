@@ -1,5 +1,32 @@
 # 📜 Vecchio Testamento Digitale — *Libro della Genesi del Codice*
 
+<!-- Miniplayer YouTube centrato con bordo dorato -->
+<div style="text-align:center; margin:1.5rem 0;">
+  <div style="
+    display:inline-block;
+    border:4px solid goldenrod;
+    border-radius:12px;
+    padding:8px;
+    background:#fff8e1;
+    box-shadow:0 8px 24px rgba(0,0,0,0.18);
+  ">
+    <iframe
+      width="320"
+      height="180"
+      src="https://www.youtube.com/embed/mXSI5Vb0zRk?si=mxkC_IRp431ZFcfp"
+      title="YouTube miniplayer"
+      frameborder="0"
+      style="border-radius:8px;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+    <p style="margin-top:0.75rem; font-size:0.95rem; color:#444; font-style:italic;">
+      ✨ Halleluja al Kernel e ai compilatori di buona volontà ✨
+    </p>
+  </div>
+</div>
+
+
 Dai Vangeli secondo San Root e San Git
 
 Si narra di queste figure profetiche Apocrife.
