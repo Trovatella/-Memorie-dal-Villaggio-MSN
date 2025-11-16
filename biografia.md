@@ -3,6 +3,16 @@ Because I can see that GNU is like a Religion 😊
 
 ## If you don't have sense of humor you better don't read my website. 🤷‍♀️
 
+<!-- Immagine ridimensionata -->
+<div style="text-align:center; margin:20px 0;">
+  <img src="la-regina-della-pigrizia.jpeg" 
+       alt="La Regina della Pigrizia" 
+       style="width:250px; border:3px solid #d4af37; border-radius:12px; box-shadow:0 6px 16px rgba(0,0,0,0.25);" />
+  <p style="font-style:italic; color:#12306f; margin-top:8px;">
+    ✨ La Regina della Pigrizia ✨
+  </p>
+</div>
+
 
 <h2> 🪔🕯️📜✨ Biography of Trovatella (Foundling) (Paola Blondet) ✒️📜</h2>
 
