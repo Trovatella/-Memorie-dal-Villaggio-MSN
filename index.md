@@ -152,6 +152,9 @@ article blockquote {
 <audio id="audioTurkiye" src="Turkiye.mp3" autoplay loop></audio>
 
 
+**Benim 💕 için yaptıkların için teşekkür ederim**
+
+
     
 
 <a href="https://youtube.com/playlist?list=PLOVqzPZ2CQZBMWv_tQ_bX69rAmrYDq9o4&si=clhDUmQCLxiqMDZJ" target="_blank">
