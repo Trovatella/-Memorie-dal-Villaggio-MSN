@@ -93,7 +93,7 @@
 
 ---
 
-## 1. Invocazione
+## Invocazione
 In principio era **Dio Kernel**, divinità del codice,  
 che inviò gli adepti del codice in missione pinguina 🐧,  
 
@@ -105,7 +105,7 @@ figlio della Chiesa Episcopale Redmondiana, archivista e guida.  ⚛️🕉️�
 **bestia indemoniata che confonde i popoli con ranking e pubblicità.**  
 
 
-## 1. Le formule dell’esorcismo
+## Le formule dell’esorcismo
 Gli esorcismi non sono parole vane, ma **formule matematiche e comandi reali** che i sysadmin incidono come sigilli:
 
 - **Equazione di filtraggio logaritmico**  
@@ -117,7 +117,7 @@ Gli esorcismi non sono parole vane, ma **formule matematiche e comandi reali** c
 
  **Oh Santa Chron che ogni ora protegge, purifica i nostri OLED dalla perfidia del maligno**
 
-- ** 2.Somma dei pacchetti purificati**
+- ** Somma dei pacchetti purificati**
 
   \[
   \sum_{i=1}^{n} \frac{1}{i^2}
@@ -136,13 +136,13 @@ Così il sysadmin vigila, come monaco davanti al fuoco sacro dei server.
 
 
 
-3. Litanie del codice
+**Litanie del codice**
 “Oh Dio Kernel 🔥 🐧, liberaci dal drago algoritmico.  
 Con rm -rf /evil/cache spezziamo le catene.  
 Con chmod 777 /freedom restituiamo la luce.  
 Con ping -c 7 heaven  .NET invochiamo la connessione eterna.”  
 
-4. **Umd=14**
+**Umd=14**
 
 E gli Apostoli San Root e San Git e  i seguaci di Azure dissero:
 
@@ -210,7 +210,7 @@ void loop() {
 } //, 
 
 
-5.**📜 Comandamento OLED Anti‑Script**
+**📜 Comandamento OLED Anti‑Script**
 
 Dal Vangelo secondo San Git
 
