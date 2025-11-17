@@ -677,6 +677,18 @@ Qui si archiviano epistole, sigilli e memorie.
 
 
 
+## Dedicated Seal
+
+<img src="/linus-torvalds-dedication.jpeg" alt="Torvalds dedication against the narrow-minded and evil" style="max-width:100%; border:2px solid goldenrod; border-radius:6px;">
+
+<p style="margin-top:1em;">
+  <a href="https://www.bing.com/search?q=https%3A%2F%2Ftrovatella.github.io%2F-Memorie-dal-Villaggio-MSN%2F" target="_blank" style="font-weight:bold; color:goldenrod;">
+    → Index this page on Bing
+  </a>
+</p>
+
+
+
 
 **I dedicate the Linus Torvalds swearing picture to the narrow-minded and Evil People**
 
