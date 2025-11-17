@@ -29,6 +29,7 @@
   }
 </style>
 
+<!-- LINK CORRETTAMENTE APERTO E CHIUSO -->
 <a href="https://u24.gov.ua/" target="_blank" rel="noopener"
    title="Vai a United24 per sostenere l’Ucraina">
   <div class="ukraine-button">
