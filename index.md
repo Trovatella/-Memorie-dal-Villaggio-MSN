@@ -102,7 +102,9 @@ Just refresh the page ♻️
 
 His reflections on artificial intelligence, governance, and the risks of uncontrolled superintelligence
 
-https://bsky.app/profile/mustafasuleymanai.bsky.social/post/3m52pvoqhfs2t
+Mustafa Suleyman on Bluesky
+
+![Suleyman Bluesky Post](https://bsky.app/profile/mustafasuleymanai.bsky.social/post/3m52pvoqhfs2t)
 
 
 inspired me to frame my own narrative in *Memorie dal Villaggio MSN*.  
@@ -130,7 +132,7 @@ AI is a battlefield between corporations; Microsoft and Linux become tools of ex
  a power that invades people privacy
  and manipulate the users datas,exfiltrating these through the AI of Google without the
  Real User consent (policies are not the same as those of Microsoft) 
- to then be biases and overturned. 
+ to then be biased and overturned against the real intentions of the Owner - User. 
  (Paola Blondet) 
 
  
