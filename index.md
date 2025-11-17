@@ -128,7 +128,7 @@ AI is a battlefield between corporations; Microsoft and Linux become tools of ex
  
  Google is already an apocalypse: 
  a power that invades people privacy
- and manipulateur datas,exfiltrating these through the AI of Google without the
+ and manipulate the users datas,exfiltrating these through the AI of Google without the
  Real User consent (policies are not the same as those of Microsoft) 
  to then be biases and overturned. 
  (Paola Blondet) 
