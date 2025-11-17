@@ -423,7 +423,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Liturgia del Compilatore](articoli/liturgia-del-compilatore.md)
 - [Atto di Dolore del Compilatore](articoli/atto-di-dolore-del-compilatore.md)
 
- # 📜 Memorie dal Villaggio MSN
+ **📜 Memories from the MSN Village**
 
 ## ✨ Antico Testamento e Inizi Nuovo Testamento 
 
