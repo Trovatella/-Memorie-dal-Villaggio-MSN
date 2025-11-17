@@ -664,6 +664,9 @@ Qui si archiviano epistole, sigilli e memorie.
   </ul>
 </section>
 
+https://curia.europa.eu/juris/documents.jsf?num=T-604/18&language=en
+
+
 
 
 **I dedicate the Linus Torvalds swearing picture to the narrow-minded and Evil People**
