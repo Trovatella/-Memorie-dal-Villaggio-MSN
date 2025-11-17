@@ -98,7 +98,7 @@ Just refresh the page ♻️
 
 ## Introduction
 
-Mustafa Suleyman’s book has been a strong influence on my writing and the creation of my website. 
+**Mustafa Suleyman**s book has been a strong influence on my writing and the creation of my website. 
 
 His reflections on artificial intelligence, governance, and the risks of uncontrolled superintelligence
 
@@ -114,7 +114,7 @@ The list below shows the parallels between Suleyman’s vision and my "Atlas".
  **Thesis**
 
 **Suleyman’s Book** 
-**Paola’s Article (Atlas-MSN) 
+**Paola Blondet’s Article** (Atlas-MSN) 
 
  **AI and Human Control** AI must remain under human control; guardrails and rules are needed immediately.
  (Mustafa Suleyman) 
