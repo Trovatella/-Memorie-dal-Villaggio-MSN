@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/sitemap.xml
