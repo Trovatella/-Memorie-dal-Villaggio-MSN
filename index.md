@@ -113,7 +113,7 @@ The list below shows the parallels between Suleyman’s vision and my "Atlas".
 
  **Thesis**
 
-**Suleyman’s Book** 
+**Suleyman’s Book** **and**
 **Paola Blondet’s Article** (Atlas-MSN) 
 
  **AI and Human Control** AI must remain under human control; guardrails and rules are needed immediately.
