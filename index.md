@@ -1,4 +1,62 @@
 <style>
+  body { margin-top: 55px; }
+  .support-ukraine {
+    position: fixed;
+    left: 0; top: 0; right: 0;
+    background: rgba(255, 255, 255, 0.8); /* sfondo chiaro semi-trasparente */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 0;
+    z-index: 10000;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    border-bottom: 1px solid #ccc;
+  }
+  .support-ukraine__flag {
+    display: flex;
+    flex-direction: column;
+    height: 26px;
+    margin-right: 10px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.2);
+  }
+  .support-ukraine__flag__blue {
+    width: 42px;
+    height: 13px;
+    background: #007BFF; /* blu più luminoso */
+  }
+  .support-ukraine__flag__yellow {
+    width: 42px;
+    height: 13px;
+    background: #FFDD00; /* giallo più caldo */
+  }
+  .support-ukraine__label {
+    color: #222;
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: bold;
+  }
+</style>
+
+<a class="support-ukraine"
+   href="https://u24.gov.ua/"
+   target="_blank" rel="nofollow noopener"
+   title="Dona per sostenere l’Ucraina">
+  <div class="support-ukraine__flag" role="img" aria-label="Bandiera dell’Ucraina">
+    <div class="support-ukraine__flag__blue"></div>
+    <div class="support-ukraine__flag__yellow"></div>
+  </div>
+  <div class="support-ukraine__label">
+    Dona per sostenere l’Ucraina.
+  </div>
+</a>
+
+
+
+
+
+
+<style>
   @font-face {
     font-family: 'StyleturnDEMO';
     src: url('/-Memorie-dal-Villaggio-MSN/StyleturnDEMO.woff2') format('woff2'),
