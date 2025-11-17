@@ -638,6 +638,16 @@ Qui si archiviano epistole, sigilli e memorie.
 **About:**
 
 <section>
+  <h3>Follow and Explore</h3>
+  <p>
+    Connect with me on 
+    <a href="https://mastodon.social/@PaolaBi82" target="_blank">Mastodon</a> 
+    and explore my archive on 
+    <a href="https://www.flickr.com/photos/203833014@N02/" target="_blank">Flickr</a>.
+  </p>
+</section>
+
+<section>
   <h2>References and External Links</h2>
   <p>Explore more resources connected to MSN, AI, Microsoft, and European institutions:</p>
 
