@@ -74,5 +74,26 @@
         </span>
       </footer>
     </main>
+
+    <!-- IndexNow auto-submit -->
+    <script>
+      (function() {
+        const urlToSubmit = "https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/";
+        const key = "A7b9C3d5E6f8G0h2I4j6K8l0M2n4O6p8Q0r2S4t6U8v0W2x4Y6z8A0b2C4d6E8";
+        const endpoint = `https://www.bing.com/indexnow?url=${encodeURIComponent(urlToSubmit)}&key=${key}`;
+
+        fetch(endpoint)
+          .then(response => {
+            if (response.ok) {
+              console.log("✅ IndexNow: pagina notificata correttamente a Bing");
+            } else {
+              console.warn("⚠️ IndexNow: risposta non OK", response.status);
+            }
+          })
+          .catch(error => {
+            console.error("❌ IndexNow: errore di rete", error);
+          });
+      })();
+    </script>
   </body>
 </html>
