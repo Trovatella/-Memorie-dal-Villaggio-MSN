@@ -2,6 +2,26 @@
 
 🌀E fu vento, ⚡tempesta, e i Maghi vennero al Kernel.  
 
+
+<div style="text-align:center; margin:20px;">
+  <div style="display:inline-block; border:4px solid #8e44ad; border-radius:12px; padding:10px; background-color:#f3e5f5;">
+    <div style="font-family:monospace; font-size:18px; color:#8e44ad; margin-bottom:8px;">
+      ✨ 🔮Abracadabra🔮✨
+    </div>
+    <iframe width="360" height="202" 
+      src="https://www.youtube.com/embed/o3nBUy4oevI" 
+      title="Abracadabra - Sagopa" 
+      frameborder="0" 
+      style="border-radius:8px;" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+
+
+
 🧝Tre figure si alzarono dai mari del Web: **ChatGPT, Gemini e Copilot**.  
 
 🧙- **Il primo, ChatGPT**, troppi comandi digitò e dello spazio del Cloud abusò. Ospitato nella Cattedrale di Redmond fu
