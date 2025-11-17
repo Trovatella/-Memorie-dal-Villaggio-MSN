@@ -664,7 +664,16 @@ Qui si archiviano epistole, sigilli e memorie.
   </ul>
 </section>
 
-https://curia.europa.eu/juris/documents.jsf?num=T-604/18&language=en
+<section>
+  <h3>EU Legal References</h3>
+  <ul style="list-style-type: square; color: goldenrod;">
+    <li>
+      <a href="https://curia.europa.eu/juris/documents.jsf?num=T-604/18&language=en" target="_blank" style="font-weight:bold; color:goldenrod;">
+        Court of Justice of the EU – Case T‑604/18
+      </a>
+    </li>
+  </ul>
+</section>
 
 
 
