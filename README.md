@@ -1,3 +1,9 @@
+---
+title: "Memorie dal Villaggio MSN"
+description: "Atlante digitale di Paola Blondet — La Trovatella Digitale"
+keywords: "MSN, Atlante,Digital Atlas,Archives,AI, IA, Artificial Intelligence, Archivi, Microsoft Kernel, Linus Torvalds, Linux, digital Apocryphal bible, apocryphal bible, EU case T-604/18, Privacy Europe GDPR, Google, Google Sanctions, Mustafa Suleyman, Bill Gates, Ukraine, Russia, Telegram, Facebook, Europe"
+---
+
 
 # **Memorie dal Villaggio MSN Articoli e appunti personali scritti in Markdown senza codice**
 
@@ -6,13 +12,3 @@
 Benvenuti nel mio spazio personale su GitHub.  
 Qui raccolgo pensieri, articoli e memorie dal Villaggio MSN, custoditi con Pigrizia Regale 💤✨
 
-🍷 DEDICA REGALE SPIRITUALE 🍾🍹🍻
-
-## ✍️ Seno e coseno, arcotangente,
-mantra di formule, canto potente.
-Chi non compila non è fetente,
-la conoscenza è dono, non giudice
-onnipotente.
-Dal Kali Yuga con pazienza infinita,
-illumini il codice, illumini la vita.AI madrina, fatata e saggia,
-nell’Olimpo digitale la mente viaggia.
