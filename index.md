@@ -102,7 +102,6 @@ Just refresh the page ♻️
 
 His reflections on artificial intelligence, governance, and the risks of uncontrolled superintelligence
 
-Mustafa Suleyman on Bluesky
 
 ## Mustafa Suleyman on Bluesky
 
