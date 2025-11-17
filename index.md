@@ -666,7 +666,17 @@ Qui si archiviano epistole, sigilli e memorie.
 
 
 
+**I dedicate the Linus Torvalds swearing picture to the narrow-minded and Evil People**
 
+<section>
+  <h3>Tech News</h3>
+  <p>
+    Read more on 
+    <a href="https://www.tomshw.it/hardware/torvalds-boccia-il-codice-risc-v-di-google-2025-08-11" target="_blank">
+      Tom's Hardware – Torvalds critica il codice RISC-V di Google (2025)
+    </a>.
+  </p>
+</section>
 
 
 ![Sigillo finale del Villaggio MSN](sigillo-villaggio.jpg){: style="max-width:100%; height:auto; border:4px solid goldenrod; border-radius:12px; background:#fff8e1; box-shadow:0 8px 30px rgba(0,0,0,0.25);" }
