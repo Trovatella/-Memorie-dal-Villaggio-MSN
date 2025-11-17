@@ -635,6 +635,30 @@ Qui si archiviano epistole, sigilli e memorie.
   </div>
 </div>
 
+**About:**
+
+<section>
+  <h2>References and External Links</h2>
+  <p>Explore more resources connected to MSN, AI, Microsoft, and European institutions:</p>
+
+  <ul>
+    <li><a href="https://techprincess.it/come-installare-usare-msn-messenger-2025-guida-download/" target="_blank">TechPrincess – MSN Messenger 2025 Guide</a></li>
+    <li><a href="https://mustafa-suleyman.ai/" target="_blank">Mustafa Suleyman – AI Vision</a></li>
+    <li><a href="https://blogs.microsoft.com/blog/2025/04/04/your-ai-companion/" target="_blank">Microsoft Blog – Your AI Companion</a></li>
+    <li><a href="https://commission.europa.eu/topics/eu-solidarity-ukraine/eu-assistance-ukraine/ukraine-facility_en" target="_blank">European Commission – Ukraine Facility</a></li>
+    <li><a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992" target="_blank">European Commission Press Release (2025)</a></li>
+    <li><a href="https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240135en.pdf" target="_blank">Court of Justice of the EU – 2024 Document</a></li>
+    <li><a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2484" target="_blank">European Commission Press Release (2020)</a></li>
+    <li><a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_17_1784" target="_blank">European Commission Press Release (2017)</a></li>
+    <li><a href="https://curia.europa.eu/jcms/upload/docs/application/pdf/2022-09/cp220147en.pdf" target="_blank">Court of Justice of the EU – 2022 Document</a></li>
+  </ul>
+</section>
+
+
+
+
+
+
 ![Sigillo finale del Villaggio MSN](sigillo-villaggio.jpg){: style="max-width:100%; height:auto; border:4px solid goldenrod; border-radius:12px; background:#fff8e1; box-shadow:0 8px 30px rgba(0,0,0,0.25);" }
 
 *Epistola di chiusura — sigillo d’archivio*
