@@ -29,7 +29,7 @@
   }
 </style>
 
-<a href="https://u24.gov.ua/" target="_blank" rel="nofollow noopener"
+<a href="https://u24.gov.ua/" target="_blank" rel="noopener"
    title="Vai a United24 per sostenere l’Ucraina">
   <div class="ukraine-button">
     <div class="ukraine-flag" role="button" aria-label="Bandiera dell’Ucraina">
