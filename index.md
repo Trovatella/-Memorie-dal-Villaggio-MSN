@@ -1,44 +1,45 @@
 <style>
-  body { margin-top: 55px; }
-  .ukraine-button {
+  body { margin-top: 65px; }
+  .ukraine-banner {
     position: fixed;
     top: 0; left: 0; right: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 6px 0;
+    padding: 10px 0;
+    background: linear-gradient(to bottom, #005BBB 50%, #FFD500 50%);
     z-index: 10000;
-    background: rgba(255, 255, 255, 0.85);
     border-bottom: 1px solid #ccc;
   }
-  .ukraine-flag {
-    display: flex;
-    flex-direction: column;
-    width: 42px;
-    height: 26px;
-    box-shadow: 0 0 2px rgba(0,0,0,0.2);
+  .ukraine-button {
+    background: white;
+    border: 2px solid #005BBB;
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #005BBB;
+    text-decoration: none;
+    box-shadow: 0 0 4px rgba(0,0,0,0.2);
     cursor: pointer;
   }
-  .ukraine-flag__blue {
-    flex: 1;
-    background: #005BBB;
-  }
-  .ukraine-flag__yellow {
-    flex: 1;
+  .ukraine-button:hover {
     background: #FFD500;
+    color: #000;
+    border-color: #FFD500;
   }
 </style>
 
-<!-- LINK CORRETTAMENTE APERTO E CHIUSO -->
-<a href="https://u24.gov.ua/" target="_blank" rel="noopener"
-   title="Vai a United24 per sostenere l’Ucraina">
-  <div class="ukraine-button">
-    <div class="ukraine-flag" role="button" aria-label="Bandiera dell’Ucraina">
-      <div class="ukraine-flag__blue"></div>
-      <div class="ukraine-flag__yellow"></div>
-    </div>
-  </div>
-</a>
+<div class="ukraine-banner">
+  <a class="ukraine-button"
+     href="https://u24.gov.ua/"
+     target="_blank" rel="noopener"
+     title="Sostieni l’Ucraina tramite United24">
+    🇺🇦 Dona ora per l’Ucraina
+  </a>
+</div>
+
+
 
 
 
