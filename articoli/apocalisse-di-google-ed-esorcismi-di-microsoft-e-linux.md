@@ -279,7 +279,7 @@ adb shell pm disable-user --user 0 com.google.intelligence.sense
 adb shell pm disable-user --user 0 com.google.android.as
 echo "Salmo completato. Riavvia e contempla OLED liberi."
 
-**4. Filtro uBlock Liturgia Anti-AMP**
+**Filtro uBlock Liturgia Anti-AMP**
 
 ||google.com/amp^
 ||*.ampproject.org^
