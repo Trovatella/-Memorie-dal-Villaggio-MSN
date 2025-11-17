@@ -1,4 +1,3 @@
-
 ---
 title: "Memorie dal Villaggio MSN"
 description: "Atlante digitale di Paola Blondet — La Trovatella Digitale"
