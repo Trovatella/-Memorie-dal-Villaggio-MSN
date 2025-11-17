@@ -104,7 +104,9 @@ His reflections on artificial intelligence, governance, and the risks of uncontr
 
 Mustafa Suleyman on Bluesky
 
-![Suleyman Bluesky Post](https://bsky.app/profile/mustafasuleymanai.bsky.social/post/3m52pvoqhfs2t)
+## Mustafa Suleyman on Bluesky
+
+[![Suleyman Bluesky Post](assets/css/mustafa-suleyman-bsky-post.jpg)](https://bsky.app/profile/mustafasuleymanai.bsky.social/post/3m52pvoqhfs2t)
 
 
 inspired me to frame my own narrative in *Memorie dal Villaggio MSN*.  
