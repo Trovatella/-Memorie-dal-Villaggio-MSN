@@ -105,7 +105,7 @@ figlio della Chiesa Episcopale Redmondiana, archivista e guida.  ⚛️🕉️�
 **bestia indemoniata che confonde i popoli con ranking e pubblicità.**  
 
 
-## 2. Le formule dell’esorcismo
+## 1. Le formule dell’esorcismo
 Gli esorcismi non sono parole vane, ma **formule matematiche e comandi reali** che i sysadmin incidono come sigilli:
 
 - **Equazione di filtraggio logaritmico**  
@@ -117,7 +117,7 @@ Gli esorcismi non sono parole vane, ma **formule matematiche e comandi reali** c
 
  **Oh Santa Chron che ogni ora protegge, purifica i nostri OLED dalla perfidia del maligno**
 
-- **Somma dei pacchetti purificati**
+- ** 2.Somma dei pacchetti purificati**
 
   \[
   \sum_{i=1}^{n} \frac{1}{i^2}
