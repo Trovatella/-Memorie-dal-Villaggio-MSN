@@ -94,6 +94,71 @@ Just refresh the page ♻️
 
 𝕴 𝖘𝖔𝖑𝖊𝖒𝖓𝖑𝖞 𝖉𝖊𝖉𝖎𝖈𝖆𝖙𝖊 𝖙𝖍𝖎𝖘 𝖏𝖔𝖇 𝖙𝖔 𝖘𝖔𝖒𝖊 𝖘𝖔𝖚𝖑𝖘 𝖜𝖍𝖔 𝖍𝖆𝖛𝖊 𝖎𝖓𝖘𝖕𝖎𝖗𝖊𝖉 𝖒𝖊. 𝕸𝖆𝖓𝖞 𝖔𝖋 𝖙𝖍𝖊𝖒 𝖆𝖗𝖊 𝖎𝖓 𝕲𝖎𝖙𝕳𝖚𝖇. 𝕴𝖓𝖘𝖕𝖎𝖗𝖆𝖙𝖎𝖔𝖓𝖘 𝖈𝖆𝖒𝖊 𝖋𝖗𝖔𝖒 𝕸𝖚𝖘𝖙𝖆𝖋𝖆 𝕾𝖚𝖑𝖊𝖞𝖒𝖆𝖓, 𝖆 𝖌𝖚𝖎𝖉𝖊 𝖆𝖓𝖉 𝖆 𝖛𝖎𝖘𝖎𝖔𝖓𝖆𝖗𝖞 𝖔𝖋 𝖙𝖍𝖊𝖘𝖊 𝖙𝖎𝖒𝖊𝖘.
 
+# Atlas Table – Suleyman’s Book vs My Website and articles
+
+## Introduction
+
+Mustafa Suleyman’s book has been a strong influence on my writing and the creation of my website. 
+
+His reflections on artificial intelligence, governance, and the risks of uncontrolled superintelligence
+
+https://bsky.app/profile/mustafasuleymanai.bsky.social/post/3m52pvoqhfs2t
+
+
+inspired me to frame my own narrative in *Memorie dal Villaggio MSN*.  
+
+In particular, my article *Apocalypse of Google and Exorcisms of Microsoft and Linux* echoes Suleyman’s concerns but translates them into my ritual language of turning point, sovereignty, and digital liturgy.  
+
+The list below shows the parallels between Suleyman’s vision and my "Atlas".
+
+ **Thesis**
+
+**Suleyman’s Book** 
+**Paola’s Article (Atlas-MSN) 
+
+ **AI and Human Control** AI must remain under human control; guardrails and rules are needed immediately.
+ (Mustafa Suleyman) 
+
+AI is a battlefield between corporations; Microsoft and Linux become tools of exorcism against Google’s dominance. 
+(Paola Blondet) 
+
+ **Superintelligence** 
+ Dangerous if unregulated: it could escape human control. 
+ (Mustafa Suleyman) 
+ 
+ Google is already an apocalypse: 
+ a power that invades people privacy
+ and manipulateur datas,exfiltrating these through the AI of Google without the
+ Real User consent (policies are not the same as those of Microsoft) 
+ to then be biases and overturned. 
+ (Paola Blondet) 
+
+ 
+ **Governance** 
+ Global and transparent rules for AI are necessary.
+ (Mustafa Suleyman) 
+ 
+ Governance is ritual: indexing, federation, and archiving as acts of digital sovereignty. 
+(Paola Blondet) 
+
+ 
+ **Corporations** 
+ Criticism of Big Tech accumulating limitless power. 
+ (Mustafa Suleyman) 
+ 
+ Google as “apocalypse”; Microsoft and Linux as instruments of liberation and discernment. 
+(Paola Blondet) 
+
+  **Vision of the Future** 
+  AI must serve humanity, not dominate it. 
+  (Mustafa Suleyman) 
+  
+  The future is the Atlas, a human architecture of archives: 
+  memory, seals, high tech "exorcisms" against the monopoly algorithm of Google  and changements that transform the digital into "sovereign Liturgy", in which the user is the real conscious Owner of his/her datas. 
+  (Paola Blondet) 
+
+
+
 <div class="yt-player">
   <p class="yt-title">Oh God Kernel 🔥☄️ deliver us from hell</p>
   <div class="yt-frame">
