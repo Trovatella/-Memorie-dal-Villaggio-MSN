@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+  <head><link rel="canonical" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
     <meta charset="UTF-8">
     {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
