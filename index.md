@@ -98,7 +98,7 @@ Just refresh the page ♻️
 
 ## Introduction
 
-**Mustafa Suleyman**s book has been a strong influence on my writing and the creation of my website. 
+**Mustafa Suleyman's**book has been a strong influence on my writing and the creation of my website. 
 
 His reflections on artificial intelligence, governance, and the risks of uncontrolled superintelligence
 
