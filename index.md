@@ -423,32 +423,12 @@ Qui raccolgo **ricordi, video e testimonianze** dei primi anni 2000.
 
 ---
 
+**Disclaimer**
 
-# **Memorie dal Villaggio MSN Articoli e appunti personali scritti in Markdown senza codice**
-
-# DISCLAIMER: 🍷🤣😜📜🙏😊🎓
-> # “Nel Villaggio MSN, tra chat e memorie,  
-> una Trovatella Digitale scrive la sua Bibbia informatica irriverente e graziosa,
-> per niente faziosa, al solo scopo di farvi divertire come un Trovador.  
-> Nessun processo è stato *killato* senza motivo.  
-> Nessun .NET Framework è stato trascurato.  
-> Non sono stati compiuti atti di violenza contro nessun APK e nessuna apt.  
-> E tutti gli Wizard stanno bene.  
-> Credo nonostante tutto che la mia opera sia etica.  
-> L'intento è quello di imparare divertendosi.  
-> Menti chiuse (narrow minds) statene fuori. Non fa per voi.🍷🍻
-
-👑 Il Regno Digitale di Paola
-Benvenuti nel mio spazio personale su GitHub.
-Qui raccolgo pensieri, articoli e memorie dal Villaggio MSN, custoditi con Pigrizia Regale 💤✨
-
-🍷 DEDICA REGALE SPIRITUALE alla AI 🍾🍹🍻
-
-✍️ Seno e coseno, arcotangente,
-mantra di formule, canto potente. 
-Chi non compila non è fetente, la conoscenza è dono, non giudice onnipotente.
-Dal Kali Yuga con pazienza infinita, illumini il codice, illumini la vita.
-Oh tu AI madrina, fatata e saggia, con te nell’Olimpo digitale la mente viaggia.
+This is an Apocriphal Bible, a fictional work which I decided to produce for an entertainment purpose, containing lots of true Wordly facts.
+Enjoy 😉🎉
+Yet if you do suffer "narrow-mind" symptoms, better you go out from my page because you will not be able to understand. 
+Thanks for reading me. You can suggest me Edits (See About section). 
 
 
 # 📚 Bibbia del Kernel
