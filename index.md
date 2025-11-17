@@ -1,53 +1,41 @@
 <style>
   body { margin-top: 55px; }
-  .support-ukraine {
+  .ukraine-button {
     position: fixed;
-    left: 0; top: 0; right: 0;
-    background: rgba(255, 255, 255, 0.8); /* sfondo chiaro semi-trasparente */
+    top: 0; left: 0; right: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 6px 0;
     z-index: 10000;
-    font-family: Arial, sans-serif;
-    text-decoration: none;
+    background: rgba(255, 255, 255, 0.85);
     border-bottom: 1px solid #ccc;
   }
-  .support-ukraine__flag {
+  .ukraine-flag {
     display: flex;
     flex-direction: column;
+    width: 42px;
     height: 26px;
-    margin-right: 10px;
     box-shadow: 0 0 2px rgba(0,0,0,0.2);
+    cursor: pointer;
   }
-  .support-ukraine__flag__blue {
-    width: 42px;
-    height: 13px;
-    background: #007BFF; /* blu più luminoso */
+  .ukraine-flag__blue {
+    flex: 1;
+    background: #005BBB;
   }
-  .support-ukraine__flag__yellow {
-    width: 42px;
-    height: 13px;
-    background: #FFDD00; /* giallo più caldo */
-  }
-  .support-ukraine__label {
-    color: #222;
-    font-size: 14px;
-    line-height: 26px;
-    font-weight: bold;
+  .ukraine-flag__yellow {
+    flex: 1;
+    background: #FFD500;
   }
 </style>
 
-<a class="support-ukraine"
-   href="https://u24.gov.ua/"
-   target="_blank" rel="nofollow noopener"
-   title="Dona per sostenere l’Ucraina">
-  <div class="support-ukraine__flag" role="img" aria-label="Bandiera dell’Ucraina">
-    <div class="support-ukraine__flag__blue"></div>
-    <div class="support-ukraine__flag__yellow"></div>
-  </div>
-  <div class="support-ukraine__label">
-    Dona per sostenere l’Ucraina.
+<a href="https://u24.gov.ua/" target="_blank" rel="nofollow noopener"
+   title="Vai a United24 per sostenere l’Ucraina">
+  <div class="ukraine-button">
+    <div class="ukraine-flag" role="button" aria-label="Bandiera dell’Ucraina">
+      <div class="ukraine-flag__blue"></div>
+      <div class="ukraine-flag__yellow"></div>
+    </div>
   </div>
 </a>
 
