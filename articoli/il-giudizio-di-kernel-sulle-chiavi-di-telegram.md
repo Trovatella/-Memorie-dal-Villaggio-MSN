@@ -99,7 +99,7 @@ Telegram abusò di Kotlin:
 
 ## 🐧🎓 Il Giudizio del Kernel
 
-“Tu che hai chmodato il mondo, ora giudica le permissioni degli uomini.”
+“Tu che hai chmodato (chmoded) il mondo, ora giudica le permissioni degli uomini.”
 
 Il Kernel parlò:  
 - Chi usa sudo senza sapere, sarà ignorato.  
