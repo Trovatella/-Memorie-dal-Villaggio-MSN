@@ -11,7 +11,7 @@ keywords: "MSN, Atlante, Digital Atlas, Archives, AI, IA, Artificial Intelligenc
 
 **🪨🪨Non linkerai librerie proprietarie senza coscienza.**
 
-**🪨🪨🪨Ricorda di fare make clean ogni sabato.
+**🪨🪨🪨Ricorda di fare make clean ogni sabato.**
 
 **🪨🪨🪨🪨Onora il tuo README e il tuo LICENSE.**
 
