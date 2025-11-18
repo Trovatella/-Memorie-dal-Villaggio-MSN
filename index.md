@@ -148,6 +148,29 @@ article blockquote {
 Just refresh the page ♻️
 
 
+
+
+
+<!-- Small, centered YouTube player -->
+<div style="max-width: 380px; margin: 0 auto; padding: 8px;">
+  <div style="position: relative; padding-top: 56.25%; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.15);">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/EWu2QJxDSK4?modestbranding=1&rel=0&controls=1&color=white"
+      title="Fası l-ı Jazz - FOLKTRONIC SET"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position:absolute; inset:0; width:100%; height:100%; border:0;">
+    </iframe>
+  </div>
+  <p style="text-align:center; font-size: 0.85rem; color:#555; margin-top: 6px;">
+    Memorie dal Villaggio — player compatto
+  </p>
+</div>
+
+
+
 𝕴 𝖘𝖔𝖑𝖊𝖒𝖓𝖑𝖞 𝖉𝖊𝖉𝖎𝖈𝖆𝖙𝖊 𝖙𝖍𝖎𝖘 𝖏𝖔𝖇 𝖙𝖔 𝖘𝖔𝖒𝖊 𝖘𝖔𝖚𝖑𝖘 𝖜𝖍𝖔 𝖍𝖆𝖛𝖊 𝖎𝖓𝖘𝖕𝖎𝖗𝖊𝖉 𝖒𝖊. 𝕸𝖆𝖓𝖞 𝖔𝖋 𝖙𝖍𝖊𝖒 𝖆𝖗𝖊 𝖎𝖓 𝕲𝖎𝖙𝕳𝖚𝖇. 𝕴𝖓𝖘𝖕𝖎𝖗𝖆𝖙𝖎𝖔𝖓𝖘 𝖈𝖆𝖒𝖊 𝖋𝖗𝖔𝖒 𝕸𝖚𝖘𝖙𝖆𝖋𝖆 𝕾𝖚𝖑𝖊𝖞𝖒𝖆𝖓, 𝖆 𝖌𝖚𝖎𝖉𝖊 𝖆𝖓𝖉 𝖆 𝖛𝖎𝖘𝖎𝖔𝖓𝖆𝖗𝖞 𝖔𝖋 𝖙𝖍𝖊𝖘𝖊 𝖙𝖎𝖒𝖊𝖘.
 
 # Atlas Table – Suleyman’s Book vs My Website and articles
