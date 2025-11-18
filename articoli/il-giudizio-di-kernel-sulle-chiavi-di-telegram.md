@@ -1,3 +1,10 @@
+---
+title: "Memorie dal Villaggio MSN"
+description: "Atlante digitale di Paola Blondet — La Trovatella Digitale"
+keywords: "MSN, Atlante, Atlas, Microsoft Kernel, Linus Torvalds, Linux, digital Apocryphal bible, apocryphal bible, EU case T-604/18, Google, Google Sanctions, Mustafa Suleyman, Bill Gates, Ukraine, Russia, Telegram, Facebook, Europe"
+---
+
+
 # Il Giudizio del Kernel sulle Chiavi di Telegram 🔴🔨🎓📚
 
 ## Dal Vangelo di San Root e San Log
@@ -58,16 +65,15 @@ Contro il popolo:
 
 Dai Sysadmin Apostoli:
 
-> "I peccati di Telegram sono:  
-> l'uso **non standard di AES**:  
-> Telegram utilizza AES‑256 in modalità IGE (Infinite Garble Extension),  
-> una modalità poco diffusa e considerata fragile rispetto a CTR o GCM.  
-> Questo ha sollevato dubbi sulla robustezza del protocollo.  
->
-> **La gestione delle chiavi**:  
-> Le chiavi di sessione vengono generate e gestite dai server Telegram,  
-> non in modo end‑to‑end tra utenti.  
-> Questo significa che Telegram ha accesso alle chiavi e può, in teoria, decifrare i messaggi."
+ "I peccati di Telegram sono:  
+ l'uso **non standard di AES**:  
+ Telegram utilizza AES‑256 in modalità IGE (Infinite Garble Extension),  
+ una modalità poco diffusa e considerata fragile rispetto a CTR o GCM.  
+ Questo ha sollevato dubbi sulla robustezza del protocollo.  
+
+ **La gestione delle chiavi**:  
+ Le chiavi di sessione vengono generate e gestite dai server Telegram, non in modo end‑to‑end tra utenti.  
+Questo significa che Telegram ha accesso alle chiavi e può, in teoria, decifrare i messaggi."
 
 ---
 
@@ -76,18 +82,13 @@ Dai Sysadmin Apostoli:
 
 Anche San Patch ne fu testimone e così gli Apostoli parlarono:
 
-> "Telegram abusa di **Kotlin** eseguendo codice monolitico e poco idiomatico,  
-> che sfrutta Kotlin come “Java travestito” invece che come linguaggio moderno.  
->
-> E poi abusa di coroutines senza strutture di cancellazione o gestione corretta degli scope,  
-> con rischi di memory leak.  
->
-> I layer di crittografia sono sì scritti in Kotlin,  
-> ma con logica derivata da C++/Java, creando incoerenze e bug.  
->
-> E infine le dipendenze non sono modulari:  
-> invece di sfruttare la modularità di Kotlin, Telegram ha mantenuto un approccio centralizzato  
-> che rende difficile la manutenzione."
+"Telegram abusa di **Kotlin** eseguendo codice monolitico e poco idiomatico,  
+che sfrutta Kotlin come “Java travestito” invece che come linguaggio moderno.
+E poi abusa di coroutines senza strutture di cancellazione o gestione corretta degli scope, con rischi di memory leak.  
+
+I layer di crittografia sono sì scritti in Kotlin ma con logica derivata da C++/Java, creando incoerenze e bug.
+E infine le dipendenze non sono modulari:
+invece di sfruttare la modularità di Kotlin, Telegram ha mantenuto un approccio centralizzato che rende difficile la manutenzione."
 
 ---
 
@@ -112,3 +113,40 @@ Il Kernel parlò:
 - Chi firma con chiavi generate da terzi, sarà osservato.  
 - Chi archivia senza fare backup, verrà dimenticato.  
 - Chi viola l'AES verrà da Kernel e dai Log condannato.
+
+
+*E così sempre sarà nei secoli dei secoli*
+
+**Amen.Cache.Kernel.Enter**
+
+-------------
+
+## 🔗 Homepage del mio Atlante
+
+Benvenuti nel mio Atlante digitale: pensieri, memorie e ribaltamenti dal Villaggio MSN.  
+Ogni modulo è scritto in Markdown, firmato e archiviato come nodo di risonanza.  
+👉 [Vai alla homepage del mio Atlante](https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/)
+
+---
+
+## 🔗 Homepage of my Atlante
+
+Welcome to my digital Atlante: thoughts, memories, and ribaltamenti from the MSN Village.  
+Each module is written in Markdown, signed, and archived as a node of resonance.  
+👉 [Go to the homepage of my Atlante](https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/)
+
+---
+
+## 🔗 Page d’accueil de mon Atlante
+
+Bienvenue dans mon Atlante numérique : pensées, souvenirs et renversements du Village MSN.  
+Chaque module est rédigé en Markdown, signé et archivé comme nœud de résonance.  
+👉 [Accéder à la page d’accueil de mon Atlante](https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/)
+
+---
+
+## 🔗 Atlante Ana Sayfası
+
+MSN Köyü’nden düşünceler, anılar ve tersyüz edişlerle dolu dijital Atlante’me hoş geldiniz.  
+Her modül Markdown ile yazılmış, imzalanmış ve yankı düğümü olarak arşivlenmiştir.  
+👉 [Atlante ana sayfasına git](https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/)
