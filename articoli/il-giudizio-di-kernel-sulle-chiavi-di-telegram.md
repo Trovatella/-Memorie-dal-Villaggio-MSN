@@ -1,4 +1,4 @@
-##Il Giudizio del Kernel sulle Chiavi di Telegram 🔴🔨🎓📚
+**Il Giudizio del Kernel sulle Chiavi di Telegram 🔴🔨🎓📚**
 
 <div style="display:flex; justify-content:center; margin:24px 0;">
   <div style="max-width:420px; width:100%; border:4px solid #4b0082; border-radius:12px; padding:12px; background:linear-gradient(135deg,#1e3a8a,#4b0082); box-shadow:0 4px 14px rgba(0,0,0,0.4);">
