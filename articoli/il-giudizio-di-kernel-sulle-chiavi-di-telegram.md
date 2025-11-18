@@ -1,24 +1,24 @@
 ##Il Giudizio del Kernel sulle Chiavi di Telegram 🔴🔨🎓📚
 
 <div style="display:flex; justify-content:center; margin:24px 0;">
-  <div style="max-width:420px; width:100%; border:4px solid #4b0082; border-radius:12px; padding:12px; background:linear-gradient(135deg, #1e3a8a, #4b0082); box-shadow:0 4px 14px rgba(0,0,0,0.4);">
+  <div style="max-width:420px; width:100%; border:4px solid #4b0082; border-radius:12px; padding:12px; background:linear-gradient(135deg,#1e3a8a,#4b0082); box-shadow:0 4px 14px rgba(0,0,0,0.4);">
+    
     <div style="font-family:monospace; font-size:18px; color:#facc15; margin-bottom:10px; text-align:center; text-shadow:0 0 6px #000;">
       🗝️ Keeper of the Seven Keys ⚔️
     </div>
+    
     <div style="position:relative; padding-top:56.25%; border-radius:8px; overflow:hidden;">
-      <iframe 
-        src="https://www.youtube.com/embed/sOnrRFd3Juk" 
-        title="Helloween – Keeper of the Seven Keys" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      <iframe
+        src="https://www.youtube.com/embed/sOnrRFd3Juk"
+        title="Helloween – Keeper of the Seven Keys"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
         style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;">
       </iframe>
     </div>
+    
   </div>
-</div> 
-
-
+</div>
 
 
 **Dal Vangelo di San Root e San Log**
