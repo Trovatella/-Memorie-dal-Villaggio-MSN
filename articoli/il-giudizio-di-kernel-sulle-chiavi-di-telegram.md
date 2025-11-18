@@ -5,12 +5,8 @@
 
 
 <div style="text-align:center; margin:20px 0;">
-  <div style="display:inline-block; max-width:360px; width:100%; border:3px solid #4b0082; border-radius:10px; padding:10px; background:linear-gradient(135deg,#1e3a8a,#4b0082); box-shadow:0 3px 10px rgba(0,0,0,0.3);">
-    
-    <div style="font-family:monospace; font-size:16px; color:#facc15; margin-bottom:8px; text-align:center; text-shadow:0 0 5px #000;">
-      🗝️ Keeper of the Seven Keys ⚔️
-    </div>
-    
+  <div style="display:inline-block; max-width:360px; width:100%; border:3px solid #4b0082; border-radius:10px; padding:10px; background:linear-gradient(135deg,#1e3a8a,#4b0082); box-shadow:0 3px 10px rgba(0,0,0,0.3);">   <div style="font-family:monospace; font-size:16px; color:#facc15; margin-bottom:8px; text-align:center; text-shadow:0 0 5px #000;">  🗝️ Keeper of the Seven Keys ⚔️
+    </div>    
     <div style="position:relative; padding-top:56.25%; border-radius:6px; overflow:hidden;">
       <iframe
         src="https://www.youtube.com/embed/sOnrRFd3Juk"
