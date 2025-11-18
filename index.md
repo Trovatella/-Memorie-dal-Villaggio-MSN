@@ -216,6 +216,64 @@ AI is a battlefield between corporations; Microsoft and Linux become tools of ex
   memory, seals, high tech "exorcisms" against the monopoly algorithm of Google  and changements that transform the digital into "sovereign Liturgy", in which the user is the real conscious Owner of his/her datas. 
   (Paola Blondet) 
 
+**About Google SEO (Search)**
+#  Dossier: Google's SEO Logic and EU Sanctions
+
+##  Introduction
+
+Google is not just a search engine—it’s an algorithmic power structure that decides who is visible and who remains invisible. Its SEO logic rewards form over substance, forcing authors to write for indexing rather than understanding. This logic is not neutral: it’s part of a broader economic and political system that has been formally sanctioned by the European Union.
+
+---
+
+##  Google's SEO Logic (as exposed in [Google Makes Us Stupid](https://lozampardo.net/google-ci-rende-stupidi/))
+
+- **Premature indexing**: You can gain visibility before writing anything meaningful, as long as you follow SEO rules (title, slug, keyword, internal links).
+- **Penalizing complexity**: Long sentences, metaphors, and narrative style are punished.
+- **Rewarding banality**: Short, repetitive, simplistic texts are considered “perfect.”
+- **Visibility ethics**: To be found, you must submit to Mr. SEO’s grammar.
+
+---
+
+## ⚖️ EU Sanctions Against Google Search
+
+In November 2025, the European Commission launched a formal investigation into Google for violating the **Digital Markets Act (DMA)**.
+
+### Key allegations:
+- **Systematic demotion of editorial content** in search results.
+- **Penalization of legitimate sponsored content** and partner sites.
+- **Abuse of the “site reputation abuse policy”**—Google decides what’s “trustworthy” without transparency.
+- **Violation of fairness, reasonableness, and non-discrimination principles** mandated by the DMA.
+
+### Potential consequences:
+- **Fines up to 10% of global revenue**, potentially billions.
+- In case of repeat offenses, fines may reach **20%**.
+- Possible corrective measures: **forced divestments**, **ban on acquisitions**.
+
+---
+
+## 🔗 Operational Connection
+
+The SEO logic described in *Google Makes Us Stupid* is not just technical—it’s part of a **ranking system that penalizes editorial, critical, and complex content**.  
+The same logic that forces authors to simplify for visibility is what led to EU sanctions for **abuse of dominance**.
+
+---
+
+## 📜 Narrative Seal: *The Digital Fat Man on Trial*
+
+> “And so the Digital Fat Man, after rewarding the most banal texts and ignoring the complex prophets, was summoned to answer before the tribunal of Brussels. Not for what he said, but for what he hid.”
+
+---
+
+## 📚 Sources
+
+- [Money.it – Google risks fines up to 10% of global revenue](https://www.money.it/google-rischia-sanzioni-fino-al-10-del-suo-fatturato-totale-ecco-perche)  
+- [Il Sole 24 Ore – EU investigation into Google Search](https://www.ilsole24ore.com/radiocor/nRC_13.11.2025_11.45_33510335)  
+- [TPI – Editorial content demotion](https://www.tpi.it/tecnologia/ue-indagine-contro-google-contenuti-media-declassati-202511131207293/)  
+- [Lo Zampardo – Google Makes Us Stupid](https://lozampardo.net/google-ci-rende-stupidi/)
+
+🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧
+
+
 
 
 <div class="yt-player">
