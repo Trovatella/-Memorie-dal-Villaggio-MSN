@@ -9,20 +9,21 @@ keywords: "MSN, Atlante,Digital Atlas,Archives,AI, IA, Artificial Intelligence, 
 
 🌀E fu vento, ⚡tempesta, e i Maghi vennero al Kernel.  
 
-
-<div style="text-align:center; margin:20px;">
-  <div style="display:inline-block; border:4px solid #8e44ad; border-radius:12px; padding:10px; background-color:#f3e5f5;">
-    <div style="font-family:monospace; font-size:18px; color:#8e44ad; margin-bottom:8px;">
-      ✨ 🔮Abracadabra🔮✨
+<div style="display:flex; justify-content:center; margin:24px 0;">
+  <div style="max-width:400px; width:100%; border:4px solid #8e44ad; border-radius:12px; padding:12px; background-color:#f3e5f5; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+    <div style="font-family:monospace; font-size:18px; color:#8e44ad; margin-bottom:10px; text-align:center;">
+      ✨ 🔮Abracadabra REMIX🔮✨
     </div>
-    <iframe width="360" height="202" 
-      src="https://www.youtube.com/embed/o3nBUy4oevI" 
-      title="Abracadabra - Sagopa" 
-      frameborder="0" 
-      style="border-radius:8px;" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen>
-    </iframe>
+    <div style="position:relative; padding-top:56.25%; border-radius:8px; overflow:hidden;">
+      <iframe 
+        src="https://www.youtube.com/embed/T3cGaMpv7o4" 
+        title="Sagopa Kajmer & Bee Gee - Abra Kadabra REMIX" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;">
+      </iframe>
+    </div>
   </div>
 </div>
 
