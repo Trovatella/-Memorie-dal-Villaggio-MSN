@@ -2,7 +2,7 @@
 
 
 
-<div align="center">
+<div align="center" style="border: 6px solid gold; padding: 10px; border-radius: 12px; background-color: #111;">
   <iframe 
     width="360" 
     height="203" 
@@ -11,6 +11,9 @@
     frameborder="0" 
     allowfullscreen>
   </iframe>
+  <p style="font-family: 'Old English Text MT', 'Blackletter', serif; font-size: 18px; color: gold; margin-top: 8px;">
+    The Kernel is the only keeper of all of the keys
+  </p>
 </div>
 
 
