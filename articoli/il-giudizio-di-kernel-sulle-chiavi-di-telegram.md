@@ -4,26 +4,25 @@ description: "Atlante digitale di Paola Blondet — La Trovatella Digitale"
 keywords: "MSN, Atlante, Atlas, Microsoft Kernel, Linus Torvalds, Linux, digital Apocryphal bible, apocryphal bible, EU case T-604/18, Google, Google Sanctions, Mustafa Suleyman, Bill Gates, Ukraine, Russia, Telegram, Facebook, Europe"
 ---
 
+ **Il Giudizio del Kernel sulle Chiavi di Telegram 🔴🔨🎓📚**
+ 
 
-# Il Giudizio del Kernel sulle Chiavi di Telegram 🔴🔨🎓📚
-
-## Dal Vangelo di San Root e San Log
-
-<div style="text-align:center; margin:20px 0;">
-  <iframe
-    src="https://www.youtube.com/embed/sOnrRFd3Juk"
+<div align="center">
+  <iframe 
+    width="360" 
+    height="203" 
+    src="https://www.youtube.com/embed/sOnrRFd3Juk" 
     title="Helloween – Keeper of the Seven Keys"
-    width="360"
-    height="203"
-    style="border:3px solid #4b0082; border-radius:10px; box-shadow:0 3px 10px rgba(0,0,0,0.3);"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>
 
----
 
-## 🐧 Prologo: Il secondo giorno del Reboot
+
+**Dal Vangelo di San Root e San Log**
+🐧 Prologo: Il secondo giorno del Reboot
 
 “Nel tempo in cui i pacchetti venivano sniffati e le chiavi scambiate in chiaro, il Kernel osservava in silenzio.”
 
