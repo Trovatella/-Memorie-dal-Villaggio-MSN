@@ -462,11 +462,40 @@ a:hover {
 
 
 <!--Ses  mührü Türkiye'yi -->
-<button onclick="document.getElementById('audioTurkiye').play()" style="background:#E30A17; color:white; padding:12px 24px; border:none; border-radius:6px; font-size:1rem; cursor:pointer;">
-  ☾ ★ Ascolta Türkiye 🎧
-</button>
-<audio id="audioTurkiye" src="Turkiye.mp3" autoplay loop>
-</audio>
+<div style="text-align:center; margin:20px auto;">
+  <!-- Bottone originale -->
+  <button onclick="document.getElementById('audioTurkiye').play()" 
+          style="background:#E30A17; color:white; padding:12px 24px; border:none; border-radius:6px; font-size:1rem; cursor:pointer; margin:4px;">
+    ☾ ★ Ascolta Türkiye 🎧
+  </button>
+
+  <!-- Play -->
+  <button onclick="document.getElementById('audioTurkiye').play()" 
+          style="background:#E30A17; color:white; padding:10px 18px; border:none; border-radius:6px; margin:4px; cursor:pointer;">
+    ▶️ Play
+  </button>
+
+  <!-- Pause -->
+  <button onclick="document.getElementById('audioTurkiye').pause()" 
+          style="background:#2563eb; color:white; padding:10px 18px; border:none; border-radius:6px; margin:4px; cursor:pointer;">
+    ⏸ Pause
+  </button>
+
+  <!-- Stop -->
+  <button onclick="let a=document.getElementById('audioTurkiye'); a.pause(); a.currentTime=0;" 
+          style="background:#dc2626; color:white; padding:10px 18px; border:none; border-radius:6px; margin:4px; cursor:pointer;">
+    ⏹ Stop
+  </button>
+
+  <!-- Rewind -->
+  <button onclick="document.getElementById('audioTurkiye').currentTime=0;" 
+          style="background:#059669; color:white; padding:10px 18px; border:none; border-radius:6px; margin:4px; cursor:pointer;">
+    ⏮ Rewind
+  </button>
+
+  <!-- Audio element -->
+  <audio id="audioTurkiye" src="Turkiye.mp3" preload="auto" autoplay loop></audio>
+</div>
   
 
 **Benim 💕 için yaptıkların için teşekkür ederim**
