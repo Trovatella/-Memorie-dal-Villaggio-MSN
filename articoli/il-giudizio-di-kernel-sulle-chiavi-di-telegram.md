@@ -22,7 +22,6 @@
 
 
 
-
 🐧Prologo: Il secondo giorno del Reboot
 
  “Nel tempo in cui i pacchetti venivano sniffati e le chiavi scambiate in chiaro, il Kernel osservava in silenzio.”
@@ -33,7 +32,8 @@ Un vento di aggiornamento soffiò tra le righe del codice. Le comunità, già di
 E fu **Telegram** con derivazioni di Java e tecniche trafugate nell'ombra del C++ a decantare tutta la folla. 
 
 🤡 Furono i nuovi falsi profeti: tra API e illusioni
-**Telegram**, già evocato nel primo cantico, si moltiplicava in fork e in bot.  
+**Telegram**, già evocato nel primo cantico, si moltiplicava in fork e in bot. 
+
 Ma ora giungevano nuovi falsi profeti:  
 - Il Profeta di Signal, che prometteva silenzio assoluto.  
 - Il Profeta di Matrix, che parlava in federazioni.  
