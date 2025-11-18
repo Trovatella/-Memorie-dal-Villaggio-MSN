@@ -1,7 +1,9 @@
 ---
-title: "Memorie dal Villaggio MSN"
+layout: page
+title: "Il Giudizio del Kernel sulle Chiavi di Telegram"
 description: "Atlante digitale di Paola Blondet — La Trovatella Digitale"
 keywords: "MSN, Atlante, Atlas, Microsoft Kernel, Linus Torvalds, Linux, digital Apocryphal bible, apocryphal bible, EU case T-604/18, Google, Google Sanctions, Mustafa Suleyman, Bill Gates, Ukraine, Russia, Telegram, Facebook, Europe"
+permalink: /articoli/giudizio-kernel-telegram/
 ---
 
  **Il Giudizio del Kernel sulle Chiavi di Telegram 🔴🔨🎓📚**
