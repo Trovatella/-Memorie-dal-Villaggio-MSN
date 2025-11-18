@@ -643,6 +643,20 @@ Qui si archiviano epistole, sigilli e memorie.
   </p>
 </section>
 
+<section id="about">
+  <h2>About</h2>
+  <p>
+    <a href="https://stackoverflow.com/users/31897454/paola-blondet?tab=profile">
+      Stack Overflow Profile
+    </a>
+  </p>
+  <p>
+    <a href="https://bsky.app/profile/paolabi82.bsky.social">
+      Bluesky Profile
+    </a>
+  </p>
+</section>
+
 
 <section>
   <h2>References and External Links</h2>
