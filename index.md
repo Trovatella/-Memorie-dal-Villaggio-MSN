@@ -148,26 +148,40 @@ article blockquote {
 Just refresh the page ♻️
 
 
-
-
-
-<!-- Small, centered YouTube player -->
-<div style="max-width: 380px; margin: 0 auto; padding: 8px;">
-  <div style="position: relative; padding-top: 56.25%; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.15);">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/EWu2QJxDSK4?modestbranding=1&rel=0&controls=1&color=white"
-      title="Fası l-ı Jazz - FOLKTRONIC SET"
-      loading="lazy"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen
-      style="position:absolute; inset:0; width:100%; height:100%; border:0;">
-    </iframe>
+<div class="yt-player-azzurro">
+  <div class="yt-title">Fasıl ı Jazz — Folktronic Set</div>
+  <div class="yt-frame">
+    <iframe src="https://www.youtube.com/embed/EWu2QJxDSK4"
+            title="Fasıl ı Jazz - Folktronic Set"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
   </div>
-  <p style="text-align:center; font-size: 0.85rem; color:#555; margin-top: 6px;">
-    Memorie dal Villaggio — player compatto
-  </p>
 </div>
+
+<style>
+.yt-player-azzurro {
+  text-align: center;
+  margin: 24px auto;
+  max-width: 420px; /* compatto */
+  background: linear-gradient(135deg, #38bdf8, #0ea5e9); /* azzurro */
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+.yt-title {
+  font-weight: 700;
+  font-size: 1em;
+  color: #fff;
+  margin-bottom: 10px;
+  text-shadow: 0 0 6px #1e40af;
+}
+.yt-frame iframe {
+  width: 100%;
+  height: 220px; /* compatto */
+  border-radius: 8px;
+}
+</style>
 
 
 
