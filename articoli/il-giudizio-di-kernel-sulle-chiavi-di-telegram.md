@@ -40,10 +40,9 @@ Ma ora giungevano nuovi falsi profeti:
 - Il Profeta di Session, che non voleva nemmeno sapere chi sei.
 
 Nota Bene:
-Perché Matrix, Session e Signal vengono percepiti come “profeti fragili”:
+Perché Matrix, Session e Signal vengono percepiti come “profeti fragili”? 📚🧐
 
 - Matrix: protocollo federato, molto aperto, ma la sicurezza dipende dai singoli server → non sempre uniforme.
-- 
 - Session: punta sull’anonimato totale, ma ha problemi di scalabilità e performance.
 
 - Signal: eccellente crittografia end‑to‑end, ma dipende da un’infrastruttura centralizzata e da un numero di telefono → non è così “puro” come si racconta.
