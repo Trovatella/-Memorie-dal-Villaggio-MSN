@@ -1,32 +1,35 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head> 
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <!-- Verification -->
     <meta name="google-site-verification" content="googlef12528ae06211b43" />
-    <meta charset="UTF-8">
-
-    <!-- Bing Webmaster Verification -->
     <meta name="msvalidate.01" content="F46BAA8065B9680D7CFF00902310E6E6" />
+
+    <!-- Charset & Viewport -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- SEO tags -->
     {% seo %}
 
     <!-- Canonical -->
     <link rel="canonical" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
+
+    <!-- Multilingual hreflang -->
     <link rel="alternate" hreflang="it" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
-<link rel="alternate" hreflang="fr" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
-<link rel="alternate" hreflang="de" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
-<link rel="alternate" hreflang="tr" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
-<link rel="alternate" hreflang="en" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
+    <link rel="alternate" hreflang="fr" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
+    <link rel="alternate" hreflang="de" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
+    <link rel="alternate" hreflang="tr" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
+    <link rel="alternate" hreflang="en" href="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/" />
 
-    <!-- Performance & Fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" 
-          as="style" type="text/css" crossorigin>
-
-    <!-- Responsive & Theme -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Theme & Colors -->
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- Performance & Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap"
+          as="style" type="text/css" crossorigin>
 
     <!-- Styles -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -34,8 +37,14 @@
     <!-- Social SEO -->
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:url" content="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/">
     <meta property="og:image" content="{{ site.url }}/cover.jpg">
     <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:image" content="{{ site.url }}/cover.jpg">
 
     <!-- RSS Feed -->
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.url }}/{{ site.baseurl }}/feed.xml">
