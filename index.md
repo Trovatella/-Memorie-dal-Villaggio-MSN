@@ -362,8 +362,68 @@ The same logic that forces authors to simplify for visibility is what led to EU 
 
 # Incipit delle Memorie dal Villaggio MSN 
 
-<button onclick="document.getElementById('audioTruth').play()">Ascolta la verità 🎧</button>
-<audio id="audioTruth" src="truth.mp3"></audio>
+<div class="audio-player-orange">
+  <!-- Bottone originale -->
+  <button onclick="document.getElementById('audioTruth').play()" 
+          class="btn-main">
+    ☀️ Ascolta la verità 🎧
+  </button>
+
+  <!-- Play -->
+  <button onclick="document.getElementById('audioTruth').play()" class="btn-play">
+    ▶️ Play
+  </button>
+
+  <!-- Pause -->
+  <button onclick="document.getElementById('audioTruth').pause()" class="btn-pause">
+    ⏸ Pause
+  </button>
+
+  <!-- Stop -->
+  <button onclick="let a=document.getElementById('audioTruth'); a.pause(); a.currentTime=0;" class="btn-stop">
+    ⏹ Stop
+  </button>
+
+  <!-- Rewind -->
+  <button onclick="document.getElementById('audioTruth').currentTime=0;" class="btn-rewind">
+    ⏮ Rewind
+  </button>
+
+  <!-- Audio element -->
+  <audio id="audioTruth" src="truth.mp3" preload="auto"></audio>
+</div>
+
+<style>
+.audio-player-orange {
+  text-align: center;
+  margin: 24px auto;
+  max-width: 480px;
+  background: linear-gradient(135deg, #f97316, #ea580c); /* arancio intenso */
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.4);
+}
+.audio-player-orange button {
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  margin: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+.btn-main { background:#e65100; font-weight:700; }
+.btn-play { background:#fb923c; }
+.btn-pause { background:#f97316; }
+.btn-stop { background:#dc2626; }
+.btn-rewind { background:#059669; }
+.audio-player-orange button:hover {
+  transform: scale(1.05);
+  background: #ff7f50;
+}
+</style>
+
 
 
 # ⚔️🐧🔥 Le distorsioni russe di GNU rivelate dai vangeli di San Grep, San SSH e San Root [Russia’s AI-powered cyberattacks threaten to outpace Western defenses (FDD, 2025)](https://www.fdd.org/analysis/policy_briefs/2025/02/20/russias-ai-powered-cyberattacks-threaten-to-outpace-western-defenses/)
