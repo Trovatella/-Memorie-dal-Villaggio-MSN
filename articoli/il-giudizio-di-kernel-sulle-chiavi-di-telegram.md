@@ -1,21 +1,20 @@
 # Il Giudizio del Kernel sulle Chiavi di Telegram 🔴🔨🎓📚
 
 
-
-<div align="center" style="border: 6px solid gold; padding: 10px; border-radius: 12px; background-color: #111;">
+<div style="max-width: 420px; margin: auto; border: 6px solid gold; padding: 12px; border-radius: 14px; background-color: #111; text-align: center; box-shadow: 0 0 15px gold;">
   <iframe 
-    width="360" 
-    height="203" 
+    width="100%" 
+    height="240" 
     src="https://www.youtube.com/embed/sOnrRFd3Juk" 
     title="Helloween – Keeper of the Seven Keys"
-    frameborder="0" 
+    style="border: none; border-radius: 8px;"
     allowfullscreen>
   </iframe>
-  <p style="font-family: 'Old English Text MT', 'Blackletter', serif; font-size: 18px; color: gold; margin-top: 8px;">
-    The Kernel is the only keeper of all of the keys
+  <p style="font-family: 'Old English Text MT', 'Blackletter', serif; font-size: 20px; color: gold; margin-top: 12px; text-shadow: 1px 1px 4px #000;">
+    🔑✨ The Kernel is the only keeper of all of the keys ⚡🕯️
   </p>
 </div>
-
+  
 
 
 **Dal Vangelo di San Root e San Log**
