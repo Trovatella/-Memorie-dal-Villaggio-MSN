@@ -144,8 +144,7 @@ article blockquote {
   }
 </style>
 
-## If you need to stop the music
-Just refresh the page ♻️
+## Enjoy the Music 💕🐧🔵
 
 
 <div class="yt-player-azzurro">
