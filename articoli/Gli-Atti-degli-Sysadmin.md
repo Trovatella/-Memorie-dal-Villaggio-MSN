@@ -112,3 +112,28 @@ Jede Antwort ist ein Resonanzknoten, signiert und archiviert.
 
 ### 🔗 Atlante
 [Homepage meines Atlante](https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/)
+
+## Paola Blondet
+
+### 👩‍💻 Über mich
+Absolventin der Sprachwissenschaften mit TFA/TFU-Nachweisen, leidenschaftlich für digitale Hygiene und operative Strategien.  
+Ich verwandle jede technische Episode (robots.txt, Sitemap, Meta-Tags, semantische Anreicherung) in Module der Klarheit und Archivierung.  
+
+### 🌐 Interessen
+- Digitale Hygiene und Web-Indizierung  
+- Markdown und semantische Archivierung  
+- Digitale Atlanten und kulturelle Genealogien  
+- Mehrsprachigkeit (IT, EN, FR, TR, DE)  
+
+### 🛠 Fähigkeiten
+- Konfiguration und Validierung von robots.txt und Sitemaps  
+- Semantische Optimierung für Bing, DuckDuckGo, Ecosia  
+- Zweisprachige Archivierung und visuelle Siegel  
+- GitHub Pages als operatives Atlas  
+
+### 📚 Beiträge
+Ich beantworte Fragen auf Stack Exchange mit einem klaren und operativen Ansatz und biete dokumentierte und reproduzierbare Lösungen.  
+Jede Antwort ist ein Resonanzknoten, signiert und archiviert.  
+
+### 🔗 Atlante
+[Homepage meines Atlante](https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/)
