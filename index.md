@@ -262,7 +262,7 @@ The same logic that forces authors to simplify for visibility is what led to EU 
 
 ## 📜 Narrative Seal: *The Digital Fat Man on Trial*
 
-> “And so the Digital Fat Man, after rewarding the most banal texts and ignoring the complex prophets, was summoned to answer before the tribunal of Brussels. Not for what he said, but for what he hid.”
+ 🐧And so the Digital Fat Man, after rewarding the most banal texts and ignoring the complex prophets, was summoned to answer before the tribunal of Brussels. Not for what he said, but for what he hid.🔵
 
 ---
 
