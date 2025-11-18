@@ -634,6 +634,15 @@ Qui si archiviano epistole, sigilli e memorie.
     <a href="https://www.flickr.com/photos/203833014@N02/" target="_blank">Flickr</a>.
   </p>
 </section>
+<section id="about">
+  <h2>About</h2>
+  <p>
+    <a href="https://stackoverflow.com/users/31897454/paola-blondet?tab=profile">
+      Stack Overflow Profile
+    </a>
+  </p>
+</section>
+
 
 <section>
   <h2>References and External Links</h2>
