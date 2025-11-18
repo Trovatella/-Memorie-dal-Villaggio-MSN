@@ -216,6 +216,8 @@ AI is a battlefield between corporations; Microsoft and Linux become tools of ex
   memory, seals, high tech "exorcisms" against the monopoly algorithm of Google  and changements that transform the digital into "sovereign Liturgy", in which the user is the real conscious Owner of his/her datas. 
   (Paola Blondet) 
 
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+
 **About Google SEO (Search)**
 #  Dossier: Google's SEO Logic and EU Sanctions
 
