@@ -747,7 +747,7 @@ Qui troverete miti, liturgie e avventure biblico‑digitali.
 - [Il Nuovo Testamento di KERNEL](articoli/il-nuovo-testamento-di-kernel.md)
 - [I tre Re Magi Ai](articoli/i-tre-re-magi-ai.md)
 - [Le Orazioni della Chiesa Episcopale Redmondiana](articoli/le-orazioni-della-chiesa-episcopale-redmondiana.md)
-- [Il Giudizio di Kernel sulle chiavi di Telegram](articoli/Il-giudizio-di-kernel-sulle-chiavi-di-telegram.md)
+- [Il Giudizio di Kernel sulle chiavi di Telegram](articoli/il-giudizio-di-kernel-sulle-chiavi-di-telegram.md)
 
 
   
