@@ -190,6 +190,8 @@ article blockquote {
 # Ex-Military Fallen into the Trap of Russian Neptune  
 *By Paola Blondet*  
 
+[Apri nella App MSN / Open in the MSN App](https://play.google.com/store/apps/details?id=com.microsoft.amp.apps.bingnews)
+
 Russia loves to proclaim itself the “queen of the seas.”  
 Like Homer’s Ulysses, many Europeans have had to face the **songs of the Sirens**: sweet, poisonous words that promise freedom, but are in reality instruments of propaganda.  
 This section collects two emblematic episodes: the case of Roberto Vannacci and the direct observation of pro-Russian groups on Telegram.  
