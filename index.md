@@ -144,6 +144,13 @@ article blockquote {
   }
 </style>
 
+**Visit me here** 
+## Free report on pro-Russian hybrid networks — RussiaUkraineWar, Telegram
+
+**By Paola Blondet – Lombardia.** Analisi e memorie operative dal Villaggio MSN.
+
+[Visit the full report here](https://mydigitalmsnvillage.blogspot.com/2025/11/free-report-on-pro-russian-hybrid.html?m=1)
+
 ## Enjoy the Music 💕🐧🔵
 
 
