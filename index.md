@@ -186,6 +186,117 @@ article blockquote {
 
 𝕴 𝖘𝖔𝖑𝖊𝖒𝖓𝖑𝖞 𝖉𝖊𝖉𝖎𝖈𝖆𝖙𝖊 𝖙𝖍𝖎𝖘 𝖏𝖔𝖇 𝖙𝖔 𝖘𝖔𝖒𝖊 𝖘𝖔𝖚𝖑𝖘 𝖜𝖍𝖔 𝖍𝖆𝖛𝖊 𝖎𝖓𝖘𝖕𝖎𝖗𝖊𝖉 𝖒𝖊. 𝕸𝖆𝖓𝖞 𝖔𝖋 𝖙𝖍𝖊𝖒 𝖆𝖗𝖊 𝖎𝖓 𝕲𝖎𝖙𝕳𝖚𝖇. 𝕴𝖓𝖘𝖕𝖎𝖗𝖆𝖙𝖎𝖔𝖓𝖘 𝖈𝖆𝖒𝖊 𝖋𝖗𝖔𝖒 𝕸𝖚𝖘𝖙𝖆𝖋𝖆 𝕾𝖚𝖑𝖊𝖞𝖒𝖆𝖓, 𝖆 𝖌𝖚𝖎𝖉𝖊 𝖆𝖓𝖉 𝖆 𝖛𝖎𝖘𝖎𝖔𝖓𝖆𝖗𝖞 𝖔𝖋 𝖙𝖍𝖊𝖘𝖊 𝖙𝖎𝖒𝖊𝖘.
 
+
+# Ex-Military Fallen into the Trap of Russian Neptune  
+*By Paola Blondet*  
+
+Russia loves to proclaim itself the “queen of the seas.”  
+Like Homer’s Ulysses, many Europeans have had to face the **songs of the Sirens**: sweet, poisonous words that promise freedom, but are in reality instruments of propaganda.  
+This section collects two emblematic episodes: the case of Roberto Vannacci and the direct observation of pro-Russian groups on Telegram.  
+
+---
+
+## Commentary on Vannacci  
+Source: [MSN News](https://www.msn.com/it-it/news/news/content/ar-AA1QIZT5?ocid=sapphireappshare)  
+
+This man, whose book I read entirely just to understand who he is and why he was dismissed from the Italian Army, belongs to a circle of mid-to-high-ranking ex-military officers in Europe who decided to follow the seductive “songs of the Sirens” of Russian GRU agents.  
+
+Several specialized (niche) reports already highlighted in 2022 the presence of ex-military figures later devoted to social, political, or television campaigns, also in other European countries, who still sponsor Russia.  
+
+It seems that the “booty” they received in exchange was a certain notoriety and permission to appear publicly “since NATO would have very strict rules” regarding the selection and maintenance of roles for those who—according to these ex-military men—were “not aligned” with the idea of Europe promoted by NATO.  
+
+The reality is much cruder and down-to-earth: among Russian GRU (and also FSB) agents, there are attractive female soldiers, very enterprising. Painful to say, but those familiar with military circles can infer it themselves… In the end, it is the oldest vices in the world that often shape men and too often direct them against their own people… Those who have ears to hear have already understood.  
+
+That said, after careful analysis of this man over two years (who in 2020 was in Moscow) and who every three months complains that we Europeans are forced by necessity to defend ourselves against Russia’s increasingly evident intention to go beyond Ukraine and carry out its aggressive invasion, one realizes that those who removed his military role in the Italian Army did well.  
+**Indeed: Very well.**
+
+---
+
+## Free REPORT on Pro-Russian Groups on Telegram (2023-2025)  
+Source: [MSN News](https://www.msn.com/it-it/news/news/content/ar-AA1QJ9Nk?ocid=sapphireappshare)  
+
+### By Paola Blondet  
+
+In certain Italian Telegram groups, controlled by the channel “Russian Embassy in Italy” and active from January 2023 to June 2025, I observed—by infiltrating with nicknames, performing astroturfing, and pretending to support the Russians’ (clearly fake) cause of “peace” in Europe—an extensive traffic of users connected to nostalgic yet dangerous networks close to the Red Brigades or similar terrorist movements.  
+
+These users often spoke in chats (“International Network” controlled by a group and independent French journalists of “Reseaux Internationale” with many pro-Russian guests) about “sabotage of NATO bases in Italy or foreign bases hosted in Italy.”  
+
+One of their repeated “homilies” as a slogan concerned the alleged salvation from Nazism in the 1940s that the Soviets supposedly brought as a gift to poor oppressed Europeans. Historical sources speak of partisans, but in no history book are so-called Russians cited as having actually saved Europeans’ lives during that period.  
+
+But it does not end there! In that same period (2023-2025), anti-NATO dissidents glorified mercenaries sent to Russia (whose deeds were narrated by the aforementioned networks, portraying Ukrainian armies as the real “impostors” and mercenaries).  
+
+Following this “thread of Ariadne,” one encountered groups run by the Russian GRU and FSB that showcased the damage inflicted by Russian drones on Ukrainian military and civilian infrastructure.  
+
+There were connections to the Oklandinsky web platform used by Russians (known as Ok.ru). The resonance chamber of such constellations of Italo-Russian groups was inflamed by Russian associations present in Rome and Milan to teach Russian language and culture, financed by the Moscow Chamber of Commerce and the Chinese Bank with branches scattered in Milan.  
+
+---
+
+## Conclusion  
+
+The metaphor of **Russian Neptune** aptly summarizes the dynamic: ex-military and European social groups fallen into the trap of the “songs of the Sirens” of Russian propaganda.  
+They were not choirs of peace, but war drums disguised as culture and memory.  
+These episodes demonstrate how counter-information and counterintelligence are indispensable tools to defend European sovereignty.  
+
+---
+
+
+
+
+
+
+# Ex-Militari caduti nella trappola di Nettuno Russo  
+*A cura di Paola Blondet*  
+
+La Russia ama autoproclamarsi “regina dei Mari”.  
+Come Ulisse di Omero, molti europei hanno dovuto affrontare i **canti di Sirena**: dolci parole velenose che promettono libertà, ma che in realtà sono strumenti di propaganda.  
+Questa sezione raccoglie due episodi emblematici: il caso di Roberto Vannacci e l’osservazione diretta di gruppi filorussi su Telegram.  
+
+---
+
+## Commento su Vannacci  
+Fonte: [MSN News](https://www.msn.com/it-it/news/news/content/ar-AA1QIZT5?ocid=sapphireappshare)  
+
+Questo signore, di cui ho letto il libro interamente e solo per capire chi sia e come mai lo avessero sfiduciato dall'Esercito italiano, fa parte di una cerchia di ex-militari di medio-alto rango in Europa che hanno deciso di seguire i seducenti "canti di Sirena" di agenti Russi della GRU.  
+
+Parecchi reportage specialistici (di nicchia) evidenziavano già nel 2022, la presenza di ex-militari poi dediti a campagne sociali, politiche o televisive, anche in altri Paesi europei, che sponsorizzano tuttora la Russia.  
+
+Pare che il "bottino" ricevuto in cambio fosse una certa notorietà e permessi di apparire "poiché la NATO avrebbe regole rigidissime" in fatto di selezione, mantenimento di ruolo di chi - come questi ex-militari sostengono - non fosse "allineato" con l'idea di Europa promossa dalla NATO.  
+
+La realtà è ben più cruda e "terra terra": fra gli agenti GRU (ma anche FSB) della Russia, vi sarebbero avvenenti creature femminili, soldatesse e molto intraprendenti. Duole dirlo ma chi è del mestiere o vicino ad ambiti militari può inferirlo da sé... Che alla fine sono i vizi più antichi del mondo, spesso, a forgiare gli uomini e a direzionarli troppo spesso contro la loro stessa gente... Chi ha orecchie per intendere ha già compreso.  
+
+Detto questo, dopo attenta analisi di 2 anni sul signore (che nel 2020 si trovava a Mosca) e che ogni 3 mesi lamenta il fatto che noi Europei siamo costretti di necessità a difenderci contro l'intenzione sempre più evidente della Russia di andare oltre l'Ucraina a perpetrare la loro aggressiva invasione, ci si rende conto che chi gli ha tolto il ruolo militare che aveva dall'Esercito Italiano ha fatto bene.  
+**Anzi: Benissimo.**
+
+---
+
+## REPORT Libero su Gruppi Filorussi in Telegram (2023-2025)  
+Fonte: [MSN News](https://www.msn.com/it-it/news/news/content/ar-AA1QJ9Nk?ocid=sapphireappshare)  
+
+### A cura di Paola Blondet  
+
+In determinati gruppi di Telegram italiani, controllati dal Canale "Ambasciata Russa in Italia" e attivi da Gennaio 2023 a Giugno 2025, osservai, infiltrandomi con nickname, eseguendo Astroturfing e fingendomi sostenitrice della causa di "pace" (chiaramente posticcia) dei Russi in Europa, un ampio traffico di utenti collegati a nostalgiche quanto pericolose reti vicine a Brigate Rosse o simili movimenti terroristi.  
+
+Questi utenti parlavano spesso in chat ("Rete Internazionale" controllata da gruppo e giornalisti francesi indipendenti di "Reseaux Internationale" con ospiti parecchi filo-Russi) di "sabotaggi alle basi NATO italiane o straniere ospitate in Italia".  
+
+Una loro "omelia" ripetuta come slogan riguardava la presunta salvezza contro il Nazismo negli anni '40 del 900 che i sovietici avrebbero portato in dono ai poveri europei oppressi. Fonti storiche parlano di partigiani ma in nessun libro di storia vengono citati sedicenti Russi che abbiano effettivamente salvato la vita a europei in quel periodo storico.  
+
+Ma non è finita qui! In quello stesso periodo (2023-2025) i Dissidenti anti-NATO glorificavano i mercenari inviati in Russia (di cui le reti sopraccitate narravano le gesta, indicando gli eserciti Ucraini come i veri "impostori" e mercenari).  
+
+Seguendo questo "filo d'Arianna" ci si imbatteva in gruppi gestiti da GRU Russa e FSB che mostravano i danni fatti dai droni Russi agli apparati militari e civili Ucraini.  
+
+C'erano collegamenti alla piattaforma web Oklandinsky usata dai Russi (conosciuta come Ok. RU). La cassa di risonanza di tali costellazioni di gruppi italo-Russi era infiammata da associazioni russe presenti a Roma e a Milano per insegnare lingua e cultura russa, finanziati dalla Camera di Commercio di Mosca e dalla Chinese Bank con filiali sparse a Milano.  
+
+---
+
+## Conclusione  
+
+La metafora di **Nettuno Russo** sintetizza bene la dinamica: ex-militari e gruppi sociali europei caduti nella trappola dei “canti di Sirena” della propaganda russa.  
+Non erano cori di pace, ma tamburi di guerra mascherati da cultura e memoria.  
+Questi episodi dimostrano come la controinformazione e la controintelligence siano strumenti indispensabili per difendere la sovranità europea.  
+
+---
+
+
 # Atlas Table – Suleyman’s Book vs My Website and articles
 
 ## Introduction
