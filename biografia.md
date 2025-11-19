@@ -25,28 +25,41 @@ Because I can see that GNU is like a Religion 😊
   </a>
 </div>
 
-## Perché questo sito è in lingua italiana? Perché di siti web scritti in inglese ce ne sono veramente troppi! 😜🍷
-E io non mi vergogno di essere Italiana.
+🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
+#Benvenuti nel mio mondo poliglotta 💫
 
 
 <div style="display:flex; justify-content:center; margin:20px;">
-  <figure style="width:340px; padding:12px; border:3px solid #1E90FF; border-radius:10px; box-shadow:0 0 10px gold; background:#fff; text-align:center;">
+  <figure style="width:100%; max-width:360px; padding:12px; border:3px solid #1E90FF; border-radius:10px; box-shadow:0 0 10px gold; background:#fff; text-align:center;">
     <figcaption style="font-weight:600; color:#222; margin-bottom:8px;">Mutlak Seveceksin Benim</figcaption>
 
-    <audio id="paola-audio" preload="metadata" src="/assets/audio/mutlak-seveceksin-benim.mp3"></audio>
+    <audio id="paola-audio" preload="metadata">
+      <source src="/assets/audio/mutlak-seveceksin-benim.mp3" type="audio/mpeg">
+    </audio>
 
-    <div style="display:flex; justify-content:center; gap:8px;">
-      <button onclick="document.getElementById('paola-audio').play()" style="padding:6px 10px; border:1px solid #1E90FF; border-radius:6px; background:#1E90FF; color:#fff; cursor:pointer;">Play</button>
-      <button onclick="document.getElementById('paola-audio').pause()" style="padding:6px 10px; border:1px solid #1E90FF; border-radius:6px; background:#fff; color:#1E90FF; cursor:pointer;">Pause</button>
-      <button onclick="(function(a){a.currentTime=Math.max(0,a.currentTime-10)})(document.getElementById('paola-audio'))" style="padding:6px 10px; border:1px solid #1E90FF; border-radius:6px; background:#fff; color:#1E90FF; cursor:pointer;">Rewind</button>
-      <button onclick="(function(a){a.pause();a.currentTime=0})(document.getElementById('paola-audio'))" style="padding:6px 10px; border:1px solid #1E90FF; border-radius:6px; background:#fff; color:#1E90FF; cursor:pointer;">Stop</button>
+    <div style="display:flex; justify-content:center; gap:8px; margin-top:10px;">
+      <button id="btn-play"  style="padding:6px 12px; border:1px solid #1E90FF; border-radius:6px; background:#1E90FF; color:#fff; cursor:pointer;">Play</button>
+      <button id="btn-pause" style="padding:6px 12px; border:1px solid #1E90FF; border-radius:6px; background:#fff;   color:#1E90FF; cursor:pointer;">Pause</button>
+      <button id="btn-rew"   style="padding:6px 12px; border:1px solid #1E90FF; border-radius:6px; background:#fff;   color:#1E90FF; cursor:pointer;">Rewind</button>
+      <button id="btn-stop"  style="padding:6px 12px; border:1px solid #1E90FF; border-radius:6px; background:#fff;   color:#1E90FF; cursor:pointer;">Stop</button>
     </div>
   </figure>
 </div>
 
+<script>
+(function(){
+  var a = document.getElementById('paola-audio');
+  document.getElementById('btn-play').addEventListener('click', function(){ a.play(); });
+  document.getElementById('btn-pause').addEventListener('click', function(){ a.pause(); });
+  document.getElementById('btn-rew').addEventListener('click', function(){ a.currentTime = Math.max(0, a.currentTime - 10); });
+  document.getElementById('btn-stop').addEventListener('click', function(){ a.pause(); a.currentTime = 0; });
+})();
+</script>
 
+ 
 
+---------------------------------
 
 ## ✨ Origini 🧐
 "Trovatella" è il nome pensato per GitHub che porto qui con ironia:  
