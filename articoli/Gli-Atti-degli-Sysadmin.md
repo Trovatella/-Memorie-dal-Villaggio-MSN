@@ -1,8 +1,28 @@
 ---
 title: "Memorie dal Villaggio MSN"
 description: "Atlante digitale di Paola Blondet — La Trovatella Digitale"
-keywords: "MSN, Atlante, Digital Atlas, Archives, AI, IA, Artificial Intelligence, Archivi, Microsoft Kernel, Linus Torvalds, Linux, digital Apocryphal bible, apocryphal bible, EU case T-604/18, Privacy Europe GDPR, Google, Google Sanctions, Mustafa Suleyman, Bill Gates, Ukraine, Russia, Telegram, Facebook, Europe"
+keywords: "MSN, Atlante, Atlas, Microsoft Kernel, Linus Torvalds, Linux, digital Apocryphal bible, apocryphal bible, EU case T-604/18, Google, Google Sanctions, Mustafa Suleyman, Bill Gates, Ukraine, Russia, Telegram, Facebook, Europe"
+lang: it
+translations:
+  en:
+    title: "Memories from the MSN Village"
+    description: "Digital Atlas by Paola Blondet — The Digital Trovatella"
+    keywords: "MSN, Atlas, Microsoft Kernel, Linus Torvalds, Linux, digital Apocryphal bible, EU case T-604/18, Google, Google Sanctions, Mustafa Suleyman, Bill Gates, Ukraine, Russia, Telegram, Facebook, Europe"
+  de:
+    title: "Erinnerungen aus dem MSN-Dorf"
+    description: "Digitales Atlas von Paola Blondet — Die digitale Trovatella"
+    keywords: "MSN, Atlas, Microsoft Kernel, Linus Torvalds, Linux, digitale Apokryphen-Bibel, EU-Fall T-604/18, Google, Google-Sanktionen, Mustafa Suleyman, Bill Gates, Ukraine, Russland, Telegram, Facebook, Europa"
+  fr:
+    title: "Mémoires du Village MSN"
+    description: "Atlas numérique de Paola Blondet — La Trovatella Digitale"
+    keywords: "MSN, Atlas, Kernel Microsoft, Linus Torvalds, Linux, bible apocryphe numérique, affaire UE T-604/18, Google, sanctions Google, Mustafa Suleyman, Bill Gates, Ukraine, Russie, Telegram, Facebook, Europe"
+  tr:
+    title: "MSN Köyünden Anılar"
+    description: "Paola Blondet'in Dijital Atlası — Dijital Trovatella"
+    keywords: "MSN, Atlas, Microsoft Kernel, Linus Torvalds, Linux, dijital apokrif İncil, AB dava T-604/18, Google, Google yaptırımları, Mustafa Suleyman, Bill Gates, Ukrayna, Rusya, Telegram, Facebook, Avrupa"
 ---
+
+
 
 # 📜 Gli Atti degli Sysadmin
 
