@@ -28,71 +28,12 @@ Because I can see that GNU is like a Religion 😊
 🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
 **Benvenuti nel mio mondo poliglotta 💫**
+Questo è un sito multilingue. 
 
 🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
+🎧 Ascolta Mutlak Seveceksin Benim → [Vai al player](mutlak-player.html)
 
-
-<div class="audio-player-bluegold">
-  <!-- Tasto audio principale -->
-  <button class="btn-audio"
-          onclick="document.getElementById('mutlak-seveceksin-benim').play()">
-    🎧 Mutlak Seveceksin Benim
-  </button>
-
-  <!-- Controlli -->
-  <div class="btn-row">
-    <button class="btn-play"
-            onclick="document.getElementById('mutlak-seveceksin-benim').play()">▶️ Play</button>
-
-    <button class="btn-pause"
-            onclick="document.getElementById('mutlak-seveceksin-benim').pause()">⏸ Pause</button>
-
-    <button class="btn-stop"
-            onclick="var a=document.getElementById('mutlak-seveceksin-benim'); a.pause(); a.currentTime=0;">⏹ Stop</button>
-
-    <button class="btn-rewind"
-            onclick="document.getElementById('mutlak-seveceksin-benim').currentTime=0;">⏮ Rewind</button>
-  </div>
-
-  <!-- Audio -->
-  <audio id="mutlak-seveceksin-benim"
-         src="/mutlak-seveceksin-benim.mp3"
-         preload="auto"></audio>
-</div>
-
-<style>
-.audio-player-bluegold {
-  text-align: center;
-  margin: 24px auto;
-  max-width: 480px;
-  background: linear-gradient(135deg, #1E90FF, #FFD700); /* azzurro → oro */
-  border-radius: 12px;
-  padding: 16px;
-  box-shadow: 0 4px 14px rgba(0,0,0,0.4);
-}
-.btn-audio {
-  background:#1E90FF; color:#fff; font-weight:700;
-  border:none; border-radius:8px; padding:10px 20px; cursor:pointer;
-  margin-bottom:12px;
-}
-.btn-row { display:flex; justify-content:center; gap:12px; }
-.btn-row button {
-  height:40px; border:none; border-radius:6px;
-  font-size:16px; cursor:pointer; color:#fff;
-  padding:8px 14px; transition:transform .2s ease, filter .2s ease;
-}
-.btn-play   { background:#4682B4; }
-.btn-pause  { background:#FFD700; color:#000; }
-.btn-stop   { background:#B22222; }
-.btn-rewind { background:#DAA520; color:#000; }
-.btn-row button:hover { transform: scale(1.08); filter: brightness(1.1); }
-</style>
-
-
-
-
- 
 
 💠🔶💠🔶💠🔶💠🔶💠🔶💠🔶💠🔶💠🔶💠🔶💠
 
