@@ -27,20 +27,21 @@ Because I can see that GNU is like a Religion 😊
 
 🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
-#Benvenuti nel mio mondo poliglotta 💫
+**Benvenuti nel mio mondo poliglotta 💫**
+🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
 <div class="audio-player-bluegold">
   <!-- Tasto audio principale -->
   <button id="btn-audio" class="btn-audio">
-    🎧 Avvia Audio: Mutlak Seveceksin Benim
+    🎧 Mutlak Seveceksin Benim
   </button>
 
   <!-- Controlli -->
   <div class="btn-row">
-    <button id="btn-play"   class="btn-play">▶️</button>
-    <button id="btn-pause"  class="btn-pause">⏸️</button>
-    <button id="btn-stop"   class="btn-stop">⏹️</button>
-    <button id="btn-rewind" class="btn-rewind">⏮️</button>
+    <button id="btn-play"   class="btn-play">▶️ Play</button>
+    <button id="btn-pause"  class="btn-pause">⏸ Pause</button>
+    <button id="btn-stop"   class="btn-stop">⏹ Stop</button>
+    <button id="btn-rewind" class="btn-rewind">⏮ Rewind</button>
   </div>
 
   <!-- Audio -->
@@ -84,9 +85,9 @@ Because I can see that GNU is like a Religion 😊
   gap:12px;
 }
 .btn-row button {
-  width:44px; height:44px;
-  border:none; border-radius:50%;
-  font-size:20px; cursor:pointer; color:#fff;
+  width:60px; height:40px;
+  border:none; border-radius:6px;
+  font-size:16px; cursor:pointer; color:#fff;
   transition:transform .2s ease, filter .2s ease;
 }
 .btn-play   { background:#4682B4; }
