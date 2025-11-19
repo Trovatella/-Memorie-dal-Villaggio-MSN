@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-  <meta charset="UTF-8">
-  <title>Mutlak Seveceksin Benim - Player</title>
+  <meta charset="utf-8">
+  <title>mutlak-seveceksin-benim-player.html</title>
   <style>
     body {
       background: #fdf6e3;
@@ -11,7 +11,7 @@
       text-align: center;
     }
     .audio-player-bluegold {
-      background: linear-gradient(135deg, #1E90FF, #FFD700);
+      background: linear-gradient(135deg, #1e90ff, #ffd700);
       border-radius: 12px;
       padding: 24px;
       box-shadow: 0 4px 14px rgba(0,0,0,0.4);
@@ -24,20 +24,20 @@
       font-size:16px; cursor:pointer; color:#fff;
       padding:8px 14px; transition:transform .2s ease, filter .2s ease;
     }
-    .btn-audio { background:#1E90FF; color:#fff; font-weight:700; border:none; border-radius:8px; padding:10px 20px; cursor:pointer; margin-bottom:12px; }
-    .btn-play   { background:#4682B4; }
-    .btn-pause  { background:#FFD700; color:#000; }
-    .btn-stop   { background:#B22222; }
-    .btn-rewind { background:#DAA520; color:#000; }
+    .btn-audio { background:#1e90ff; color:#fff; font-weight:700; border:none; border-radius:8px; padding:10px 20px; cursor:pointer; margin-bottom:12px; }
+    .btn-play   { background:#4682b4; }
+    .btn-pause  { background:#ffd700; color:#000; }
+    .btn-stop   { background:#b22222; }
+    .btn-rewind { background:#daa520; color:#000; }
     .btn-row button:hover { transform: scale(1.08); filter: brightness(1.1); }
   </style>
 </head>
 <body>
-  <h1>🎧 Mutlak Seveceksin Benim</h1>
+  <h1>🎧 mutlak-seveceksin-benim</h1>
   <div class="audio-player-bluegold">
     <button class="btn-audio"
             onclick="document.getElementById('mutlak-seveceksin-benim').play()">
-      ▶️ Avvia
+      ▶️ avvia
     </button>
     <div class="btn-row">
       <button class="btn-play"
@@ -50,4 +50,8 @@
               onclick="document.getElementById('mutlak-seveceksin-benim').currentTime=0;">⏮</button>
     </div>
     <audio id="mutlak-seveceksin-benim"
-           src="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/mutlak-sevece
+           src="https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/mutlak-seveceksin-benim.mp3"
+           preload="auto"></audio>
+  </div>
+</body>
+</html>
