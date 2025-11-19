@@ -141,15 +141,8 @@ article blockquote {
 </style>
 
 
+🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
-
-<div style="text-align:center; margin:20px 0;">
-  <a href="https://mydigitalmsnvillage.blogspot.com/2025/11/da-gruppi-di-yoga-su-telegram-alla.html" target="_blank"
-     style="display:inline-block; padding:20px 40px; background:#0066cc; color:#fff;
-            font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px;">
-    📖 Leggi il post: Da gruppi di Yoga su Telegram alla Cybersecurity
-  </a>
-</div>
 
 
 
