@@ -31,33 +31,24 @@ Because I can see that GNU is like a Religion 😊
 
 <div class="audio-player-bluegold">
   <!-- Bottone principale -->
-  <button onclick="document.getElementById('audioPaola').play()" 
-          class="btn-main">
+  <button onclick="document.getElementById('audioPaola').play()" class="btn-main">
     💙 Mutlak Seveceksin Benim ✨
   </button>
 
   <!-- Play -->
-  <button onclick="document.getElementById('audioPaola').play()" class="btn-play">
-    ▶️ Play
-  </button>
+  <button onclick="document.getElementById('audioPaola').play()" class="btn-play">▶️</button>
 
   <!-- Pause -->
-  <button onclick="document.getElementById('audioPaola').pause()" class="btn-pause">
-    ⏸ Pause
-  </button>
+  <button onclick="document.getElementById('audioPaola').pause()" class="btn-pause">⏸️</button>
 
   <!-- Stop -->
-  <button onclick="let a=document.getElementById('audioPaola'); a.pause(); a.currentTime=0;" class="btn-stop">
-    ⏹ Stop
-  </button>
+  <button onclick="let a=document.getElementById('audioPaola'); a.pause(); a.currentTime=0;" class="btn-stop">⏹️</button>
 
   <!-- Rewind -->
-  <button onclick="document.getElementById('audioPaola').currentTime=0;" class="btn-rewind">
-    ⏮ Rewind
-  </button>
+  <button onclick="document.getElementById('audioPaola').currentTime=0;" class="btn-rewind">⏮️</button>
 
   <!-- Audio element -->
-  <audio id="audioPaola" src="/assets/audio/mutlak-seveceksin-benim.mp3" preload="auto"></audio>
+  <audio id="audioPaola" src="/mutlak-seveceksin-benim.mp3" preload="auto"></audio>
 </div>
 
 <style>
@@ -72,21 +63,21 @@ Because I can see that GNU is like a Religion 😊
 }
 .audio-player-bluegold button {
   color: #fff;
-  padding: 10px 20px;
+  padding: 12px;
   border: none;
-  border-radius: 6px;
+  border-radius: 50%;
   margin: 6px;
-  font-size: 1rem;
+  font-size: 1.2rem;
   cursor: pointer;
   transition: transform 0.2s ease, background 0.3s ease;
 }
-.btn-main { background:#1E90FF; font-weight:700; }
+.btn-main { background:#1E90FF; font-weight:700; border-radius:8px; padding:10px 20px; }
 .btn-play { background:#4682B4; }
 .btn-pause { background:#FFD700; color:#000; }
 .btn-stop { background:#B22222; }
 .btn-rewind { background:#DAA520; color:#000; }
 .audio-player-bluegold button:hover {
-  transform: scale(1.05);
+  transform: scale(1.1);
   background: #4169E1;
 }
 </style>
