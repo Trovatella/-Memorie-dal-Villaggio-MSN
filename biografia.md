@@ -28,10 +28,13 @@ Because I can see that GNU is like a Religion 😊
 🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
 **Benvenuti nel mio mondo poliglotta 💫**
+
 🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
+
+
 <div class="audio-player-bluegold">
-  <!-- Tasto audio separato -->
+  <!-- Tasto audio principale -->
   <button class="btn-audio"
           onclick="document.getElementById('mutlak-seveceksin-benim').play()">
     🎧 Mutlak Seveceksin Benim
@@ -86,9 +89,12 @@ Because I can see that GNU is like a Religion 😊
 .btn-row button:hover { transform: scale(1.08); filter: brightness(1.1); }
 </style>
 
+
+
+
  
 
-💠🔶💠🔶
+💠🔶💠🔶💠🔶💠🔶💠🔶💠🔶💠🔶💠🔶💠🔶💠
 
 ## ✨ Origini 🧐
 "Trovatella" è il nome pensato per GitHub che porto qui con ironia:  
