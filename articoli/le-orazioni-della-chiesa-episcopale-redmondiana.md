@@ -93,3 +93,17 @@ Chaque module est rédigé en Markdown, signé et archivé comme nœud de réson
 MSN Köyü’nden düşünceler, anılar ve tersyüz edişlerle dolu dijital Atlante’me hoş geldiniz.  
 Her modül Markdown ile yazılmış, imzalanmış ve yankı düğümü olarak arşivlenmiştir.  
 👉 [Atlante ana sayfasına git](https://trovatella.github.io/-Memorie-dal-Villaggio-MSN/)
+
+
+<div style="text-align:center; margin-top:40px; padding:20px; border-top:2px solid #333;">
+  <p style="font-size:14px; color:#555;">
+    © 2025 Paola Blondet – Tutti i diritti riservati.<br>
+    Questo contenuto è originale e pubblicato su 
+    <a href="https://mydigitalmsnvillage.blogspot.com/" target="_blank" style="color:#003366; font-weight:bold;">
+      My Digital MSN Village
+    </a>.
+  </p>
+  <p style="font-size:13px; color:#777;">
+    È consentita la condivisione del link con attribuzione alla fonte.<br>
+    Non è consentita la riproduzione integrale senza autorizzazione dell’autrice.
+  </p>
