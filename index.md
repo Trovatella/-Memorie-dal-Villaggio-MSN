@@ -586,10 +586,26 @@ The same logic that forces authors to simplify for visibility is what led to EU 
 }
 </style>
 
+-----------------------------
 
 
-
-
+<div style="text-align:center; margin:30px 0;">
+  <a href="https://mydigitalmsnvillage.blogspot.com/2025/11/dedication-to-mert-and-turkiye-by-paola.html?m=1" target="_blank"
+     style="display:inline-block; padding:20px 40px; background:#cc0033; color:#fff;
+            font-size:20px; font-weight:bold; text-decoration:none; border-radius:10px; margin-bottom:10px;">
+    🇮🇹 Leggi la Dedica a Mert e alla Turchia – by Paola Blondet
+  </a><br>
+  <a href="https://mydigitalmsnvillage.blogspot.com/2025/11/dedication-to-mert-and-turkiye-by-paola.html?m=1" target="_blank"
+     style="display:inline-block; padding:20px 40px; background:#cc0033; color:#fff;
+            font-size:20px; font-weight:bold; text-decoration:none; border-radius:10px; margin-bottom:10px;">
+    🇬🇧 Read the Dedication to Mert and Türkiye – by Paola Blondet
+  </a><br>
+  <a href="https://mydigitalmsnvillage.blogspot.com/2025/11/dedication-to-mert-and-turkiye-by-paola.html?m=1" target="_blank"
+     style="display:inline-block; padding:20px 40px; background:#cc0033; color:#fff;
+            font-size:20px; font-weight:bold; text-decoration:none; border-radius:10px;">
+    🇹🇷 Mert ve Türkiye’ye Adanmışlık – Paola Blondet tarafından
+  </a>
+</div>
 
 
 ------------------------------
