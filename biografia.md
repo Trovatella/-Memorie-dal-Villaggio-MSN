@@ -15,7 +15,7 @@ Because I can see that GNU is like a Religion 😊
 
 
 
-**Dare to click the button of you really want to see me...**
+**Dare to click the button if you really want to see me...**
 
 <h2> 🪔🕯️📜✨ Biography of Trovatella (Foundling) (Paola Blondet) ✒️📜</h2>
 
