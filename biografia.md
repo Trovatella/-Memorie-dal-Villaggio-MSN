@@ -29,33 +29,69 @@ Because I can see that GNU is like a Religion 😊
 
 #Benvenuti nel mio mondo poliglotta 💫
 
+<div class="audio-player-bluegold">
+  <!-- Bottone principale -->
+  <button onclick="document.getElementById('audioPaola').play()" 
+          class="btn-main">
+    💙 Mutlak Seveceksin Benim ✨
+  </button>
 
-<div style="display:flex; justify-content:center; margin:20px;">
-  <figure style="width:100%; max-width:360px; padding:12px; border:3px solid #1E90FF; border-radius:10px; box-shadow:0 0 10px gold; background:#fff; text-align:center;">
-    <figcaption style="font-weight:600; color:#222; margin-bottom:8px;">Mutlak Seveceksin Benim</figcaption>
+  <!-- Play -->
+  <button onclick="document.getElementById('audioPaola').play()" class="btn-play">
+    ▶️ Play
+  </button>
 
-    <audio id="paola-audio" preload="metadata">
-      <source src="/assets/audio/mutlak-seveceksin-benim.mp3" type="audio/mpeg">
-    </audio>
+  <!-- Pause -->
+  <button onclick="document.getElementById('audioPaola').pause()" class="btn-pause">
+    ⏸ Pause
+  </button>
 
-    <div style="display:flex; justify-content:center; gap:8px; margin-top:10px;">
-      <button id="btn-play"  style="padding:6px 12px; border:1px solid #1E90FF; border-radius:6px; background:#1E90FF; color:#fff; cursor:pointer;">Play</button>
-      <button id="btn-pause" style="padding:6px 12px; border:1px solid #1E90FF; border-radius:6px; background:#fff;   color:#1E90FF; cursor:pointer;">Pause</button>
-      <button id="btn-rew"   style="padding:6px 12px; border:1px solid #1E90FF; border-radius:6px; background:#fff;   color:#1E90FF; cursor:pointer;">Rewind</button>
-      <button id="btn-stop"  style="padding:6px 12px; border:1px solid #1E90FF; border-radius:6px; background:#fff;   color:#1E90FF; cursor:pointer;">Stop</button>
-    </div>
-  </figure>
+  <!-- Stop -->
+  <button onclick="let a=document.getElementById('audioPaola'); a.pause(); a.currentTime=0;" class="btn-stop">
+    ⏹ Stop
+  </button>
+
+  <!-- Rewind -->
+  <button onclick="document.getElementById('audioPaola').currentTime=0;" class="btn-rewind">
+    ⏮ Rewind
+  </button>
+
+  <!-- Audio element -->
+  <audio id="audioPaola" src="/assets/audio/mutlak-seveceksin-benim.mp3" preload="auto"></audio>
 </div>
 
-<script>
-(function(){
-  var a = document.getElementById('paola-audio');
-  document.getElementById('btn-play').addEventListener('click', function(){ a.play(); });
-  document.getElementById('btn-pause').addEventListener('click', function(){ a.pause(); });
-  document.getElementById('btn-rew').addEventListener('click', function(){ a.currentTime = Math.max(0, a.currentTime - 10); });
-  document.getElementById('btn-stop').addEventListener('click', function(){ a.pause(); a.currentTime = 0; });
-})();
-</script>
+<style>
+.audio-player-bluegold {
+  text-align: center;
+  margin: 24px auto;
+  max-width: 480px;
+  background: linear-gradient(135deg, #1E90FF, #FFD700); /* azzurro → oro */
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.4);
+}
+.audio-player-bluegold button {
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  margin: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+.btn-main { background:#1E90FF; font-weight:700; }
+.btn-play { background:#4682B4; }
+.btn-pause { background:#FFD700; color:#000; }
+.btn-stop { background:#B22222; }
+.btn-rewind { background:#DAA520; color:#000; }
+.audio-player-bluegold button:hover {
+  transform: scale(1.05);
+  background: #4169E1;
+}
+</style>
+
+ 
 
  
 
