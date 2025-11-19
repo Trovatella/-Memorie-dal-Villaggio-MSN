@@ -137,6 +137,21 @@ Il Kernel parlò:
 
 **Amen.Cache.Kernel.Enter**
 
+**Fonti:**
+
+### Signal – Vulnerabilità note
+
+**Fonte:** [DarkReading – Cloudflare CDN bug outs user locations in Signal](https://www.darkreading.com/threat-intelligence/cloudflare-cdn-bug-outs-user-locations-signal-discord)
+
+- **Denial Distribution / DoS**  
+  - Signal è vulnerabile a Denial of Service se il CDN viene bloccato o saturato.  
+  - **CVE‑2019‑17192**: pacchetti RTP malformati potevano causare crash su Signal Android (*Denial of Service*).  
+  - **Fonte:** [OpenCVE – Signal vulnerabilities](https://app.opencve.io/cve/?vendor=signal)
+
+- **Zero‑click exploits**  
+  - Alcune vulnerabilità WebRTC hanno permesso attacchi senza interazione dell’utente (*zero‑click*), forzando chiamate o crash.  
+  - **Fonte:** [Prothect.it – Zero‑click deanonymization attack](https://prothect.it/zero-click/0-click-deanonymizzazione-attacco/)
+
 -------------
 
 ## 🔗 Homepage del mio Atlante
