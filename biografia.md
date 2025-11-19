@@ -30,6 +30,8 @@ Because I can see that GNU is like a Religion 😊
 **Benvenuti nel mio mondo poliglotta 💫**
 🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
+
+
 <div class="audio-player-bluegold">
   <!-- Tasto audio principale -->
   <button id="btn-audio" class="btn-audio">
@@ -96,11 +98,13 @@ Because I can see that GNU is like a Religion 😊
 .btn-rewind { background:#DAA520; color:#000; }
 .btn-row button:hover { transform: scale(1.08); filter: brightness(1.1); }
 </style>
- 
+
 
  
 
----------------------------------
+ 
+
+💠🔶💠🔶
 
 ## ✨ Origini 🧐
 "Trovatella" è il nome pensato per GitHub che porto qui con ironia:  
