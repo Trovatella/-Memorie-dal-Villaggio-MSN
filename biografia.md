@@ -69,6 +69,10 @@ può diventare parte della comunità digitale.
 > e che i link non muoiano mai.”
 
 
+![Sigillo MSN](MSN-nostalgia.jpeg)  
+*Rielaborazione grafica ispirata alla schermata di MSN Messenger — memoria visiva del Villaggio digitale.*
+
+
 ## 🔗 Homepage del mio Atlante
 
 Benvenuti nel mio Atlante digitale: pensieri, memorie e ribaltamenti dal Villaggio MSN.  
