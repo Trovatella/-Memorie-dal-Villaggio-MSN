@@ -143,7 +143,12 @@ article blockquote {
 
 🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
 
-
+<p>
+Leggi il mio post su Blogger: 
+<a href="https://mydigitalmsnvillage.blogspot.com/2025/11/lidea-scherzosa-jokeful-idea.html?m=1" target="_blank">
+L'idea scherzosa – The Jokeful Idea
+</a>
+</p>
 
 
 
