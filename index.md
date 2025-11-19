@@ -265,9 +265,11 @@ They were not choirs of peace, but war drums disguised as culture and memory.
 These episodes demonstrate how counter-information and counterintelligence are indispensable tools to defend European sovereignty.  
 
 ---
+This article by Massimiliano Coccia analyzes the OSINT report "Toy Soldiers", which documents the European pro-Russian propaganda network, with a focus on Italy and figures linked to think tanks and geopolitical magazines. It collects testimonies and ideas that are similar to mine.
 
+Questo articolo di Massimiliano Coccia analizza il rapporto OSINT “Toy Soldiers”, che documenta la rete europea di propaganda filorussa, con focus sull’Italia e figure legate a think tank e riviste geopolitiche. Raccoglie testimonianze e idee simili alla mia. 
 
-
+[🔗 I soldatini di Putin – La penetrazione della propaganda russa in Italia](https://www.linkiesta.it/2024/10/toy-soldiers-soldatini-putin-propaganda-russa-in-italia/)
 
 
 
