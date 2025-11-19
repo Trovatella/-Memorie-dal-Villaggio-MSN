@@ -11,6 +11,24 @@ title: iGNUranza as iGNUrance di Telegram e i falsi profeti
 ---
 # 📜 IGNUranza (iGNUrance) di Telegram e i falsi profeti
 
+
+
+
+
+<div style="display:flex; justify-content:center; margin:20px;">
+  <div style="position:relative; width:100%; max-width:400px; padding-top:56.25%; border:4px solid #1E90FF; border-radius:8px; box-shadow:0 0 10px gold;">
+    <iframe 
+      src="https://www.youtube.com/embed/5JhL4DUEbmk"
+      title="Testament False Prophets"
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; border-radius:8px;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+
+
 ## In principio
 Gli uomini di UNIX  
 si erano convertiti a GNU C.
