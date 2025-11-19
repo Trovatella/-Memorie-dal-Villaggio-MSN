@@ -30,23 +30,71 @@ Because I can see that GNU is like a Religion 😊
 #Benvenuti nel mio mondo poliglotta 💫
 
 <div class="audio-player-bluegold">
-  <!-- Bottone principale -->
-  <button onclick="document.getElementById('mutlak-seveceksin-benim').play()" class="btn-main">
-    💙 Mutlak Seveceksin Benim ✨
+  <!-- Tasto audio principale -->
+  <button id="btn-audio" class="btn-audio">
+    🎧 Avvia Audio: Mutlak Seveceksin Benim
   </button>
 
-  <!-- Bottoni -->
+  <!-- Controlli -->
   <div class="btn-row">
-    <button onclick="document.getElementById('mutlak-seveceksin-benim').play()" class="btn-play">▶️</button>
-    <button onclick="document.getElementById('mutlak-seveceksin-benim').pause()" class="btn-pause">⏸️</button>
-    <button onclick="let a=document.getElementById('mutlak-seveceksin-benim'); a.pause(); a.currentTime=0;" class="btn-stop">⏹️</button>
-    <button onclick="document.getElementById('mutlak-seveceksin-benim').currentTime=0;" class="btn-rewind">⏮️</button>
+    <button id="btn-play"   class="btn-play">▶️</button>
+    <button id="btn-pause"  class="btn-pause">⏸️</button>
+    <button id="btn-stop"   class="btn-stop">⏹️</button>
+    <button id="btn-rewind" class="btn-rewind">⏮️</button>
   </div>
 
   <!-- Audio -->
   <audio id="mutlak-seveceksin-benim" src="/mutlak-seveceksin-benim.mp3" preload="auto"></audio>
 </div>
 
+<script>
+(function(){
+  const a = document.getElementById('mutlak-seveceksin-benim');
+  document.getElementById('btn-audio').addEventListener('click', () => a.play());
+  document.getElementById('btn-play').addEventListener('click', () => a.play());
+  document.getElementById('btn-pause').addEventListener('click', () => a.pause());
+  document.getElementById('btn-stop').addEventListener('click', () => { a.pause(); a.currentTime = 0; });
+  document.getElementById('btn-rewind').addEventListener('click', () => { a.currentTime = 0; });
+})();
+</script>
+
+<style>
+.audio-player-bluegold {
+  text-align: center;
+  margin: 24px auto;
+  max-width: 480px;
+  background: linear-gradient(135deg, #1E90FF, #FFD700); /* azzurro → oro */
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.4);
+}
+.btn-audio {
+  background:#1E90FF;
+  color:#fff;
+  font-weight:700;
+  border:none;
+  border-radius:8px;
+  padding:10px 20px;
+  cursor:pointer;
+  margin-bottom:12px;
+}
+.btn-row {
+  display:flex;
+  justify-content:center;
+  gap:12px;
+}
+.btn-row button {
+  width:44px; height:44px;
+  border:none; border-radius:50%;
+  font-size:20px; cursor:pointer; color:#fff;
+  transition:transform .2s ease, filter .2s ease;
+}
+.btn-play   { background:#4682B4; }
+.btn-pause  { background:#FFD700; color:#000; }
+.btn-stop   { background:#B22222; }
+.btn-rewind { background:#DAA520; color:#000; }
+.btn-row button:hover { transform: scale(1.08); filter: brightness(1.1); }
+</style>
  
 
  
