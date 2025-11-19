@@ -45,7 +45,9 @@ Perché Matrix, Session e Signal vengono percepiti come “profeti fragili”? �
 - Matrix: protocollo federato, molto aperto, ma la sicurezza dipende dai singoli server → non sempre uniforme.
 - Session: punta sull’anonimato totale, ma ha problemi di scalabilità e performance.
 
-- Signal: eccellente crittografia end‑to‑end, ma dipende da un’infrastruttura centralizzata e da un numero di telefono → non è così “puro” come si racconta.
+- Signal: discreta crittografia end‑to‑end, ma dipende da un’infrastruttura centralizzata e da un numero di telefono → non è così “puro” come si racconta. Non modulata e non standalone. Immagini spedite recuperabili da cache con esfiltrazione di metadata che erano solo superficialmente nascosti. Esposizione a DDS e a zero-click day.
+
+[Signal CVEs and Security Vulnerabilities - OpenCVE](https://app.opencve.io/cve/?vendor=signal) 
 
 [Signal è privato, certo… ma non così tanto](https://prothect.it/sicurezza/signal-e-privato-certo-ma-non-cosi-tanto/)
 
