@@ -150,6 +150,11 @@ L'idea scherzosa – The Jokeful Idea
 </a>
 </p>
 
+<p align="center">
+  <a href="https://mydigitalmsnvillage.blogspot.com/2025/11/russians-nut-is-making-you-nut.html?m=1" target="_blank" rel="noopener">
+    Russians’ Nut is Making You Nut – Atlante MSN
+  </a>
+</p>
 
 
 <div style="text-align:center; margin:20px 0;">
