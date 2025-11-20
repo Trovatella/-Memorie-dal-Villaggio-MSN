@@ -5,10 +5,6 @@ keywords: "MSN, Atlante, Digital Atlas, Archives, AI, IA, Artificial Intelligenc
 ---
 
 
----
-layout: default
-title: iGNUranza as iGNUrance di Telegram e i falsi profeti
----
 # 📜 IGNUranza (iGNUrance) di Telegram e i falsi profeti
 
 
