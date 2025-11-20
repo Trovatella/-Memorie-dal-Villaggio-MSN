@@ -156,6 +156,8 @@ L'idea scherzosa – The Jokeful Idea
   </a>
 </p>
 
+**To better know me I suggest you to also read this...** 🐧🔵👆
+
 
 <div style="text-align:center; margin:20px 0;">
   <a href="https://mydigitalmsnvillage.blogspot.com/2025/11/da-gruppi-di-yoga-su-telegram-alla.html" target="_blank"
