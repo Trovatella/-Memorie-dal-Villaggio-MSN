@@ -141,7 +141,24 @@ article blockquote {
 </style>
 
 
-🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧
+🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧 **Find out more about me here**👇
+
+<!-- Responsive centered link button -->
+<div style="text-align:center; margin:20px;">
+  <a href="https://trovatella.github.io/" 
+     style="display:inline-block;
+            padding:12px 24px;
+            font-family:Georgia, serif;
+            font-size:16px;
+            color:#fff;
+            background-color:#2c3e50;
+            border:2px solid gold;
+            border-radius:8px;
+            text-decoration:none;
+            transition:all 0.3s ease;">
+    My Jekyll Cayman Site
+  </a>
+</div>
 
 <p>
 Leggi il mio post su Blogger: 
