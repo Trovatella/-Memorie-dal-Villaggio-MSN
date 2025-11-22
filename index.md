@@ -142,10 +142,9 @@ article blockquote {
 
 
 🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧🔵🐧 **Find out more about me here**👇
-
-<!-- Responsive centered link button -->
+<!-- Responsive centered link button to Blogger mobile -->
 <div style="text-align:center; margin:20px;">
-  <a href="https://trovatella.github.io/" 
+  <a href="https://mydigitalmsnvillage.blogspot.com/?m=1"
      style="display:inline-block;
             padding:12px 24px;
             font-family:Georgia, serif;
@@ -156,9 +155,10 @@ article blockquote {
             border-radius:8px;
             text-decoration:none;
             transition:all 0.3s ease;">
-    My Jekyll Cayman Site
+    My Digital MSN Village
   </a>
 </div>
+
 
 <p>
 Leggi il mio post su Blogger: 
